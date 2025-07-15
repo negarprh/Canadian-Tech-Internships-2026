@@ -26,6 +26,7 @@ Add your internship to the table in `README.md` like this:
 **Tips**:
 - Use Markdown formatting for links (e.g., `[Shopify](https://shopify.com/careers)`)
 - Use abbreviations like `Remote`, `ON`, `BC`, `QC` as needed
+- Keep the Apply link as [<kbd>Apply</kbd>](link) to display a button-like style
 - Try to estimate how many days since the job was posted for the “Date Posted” column
 
 ---
