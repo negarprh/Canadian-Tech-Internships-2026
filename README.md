@@ -30,7 +30,7 @@ Inspired by:
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Shopify | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.shopify.com/careers) | Jul 01 |
+| Shopify | Software Developer Intern, Shopify Fulfillment Network | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://shopify.com/careers) | Jul 01 |
 | RBC | Technology Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Jul 01 |
 | Konrad Group | Software Developer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.konrad.com/careers) | Example |
 
