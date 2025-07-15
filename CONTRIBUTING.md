@@ -14,14 +14,12 @@ Please only submit:
 
 ---
 
-### 📄 Format
-
-Please follow the table format below when adding a new internship:
-
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| [Shopify](https://www.shopify.com/careers) | Software Developer Intern | Remote, Canada | [<span style="background-color:#007bff; color:white; padding:4px 10px; border-radius:5px;">Apply</span>](https://www.shopify.com/careers) | 3d |
-| [RBC](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Technology Analyst Intern | Toronto, ON | [<span style="background-color:#007bff; color:white; padding:4px 10px; border-radius:5px;">Apply</span>](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | 2d |
+| **Shopify** | Software Developer Intern | Remote, Canada | [<kbd><b>APPLY</b></kbd>](https://www.shopify.com/careers) | 3d |
+| **RBC** | Technology Analyst Intern | Toronto, ON | [<kbd><b>APPLY</b></kbd>](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | 2d |
+
+---
 
 **Tips**:
 - Use Markdown formatting for links (e.g., `[Shopify](https://shopify.com/careers)`)
