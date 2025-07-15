@@ -1,28 +1,22 @@
 # 🇨🇦 Canadian Tech Internships – 2026
 
-A curated list of **Canadian internships** for **Winter, Summer, and Fall 2026** in tech-related roles: Software Engineering, Data Science, Product, DevOps, QA, AI, and more.
+> 🎯 A curated list of Winter, Summer, and Fall 2026 tech internships in **Canada** for roles in **Software Engineering, Data Science, DevOps, Product, AI, and more.**
 
-> 📌 Built for Canadian students and international students studying in Canada looking for internships.
-
----
-
-## 🎯 Purpose
-
-Most internship lists focus heavily on U.S.-based roles, making it difficult for Canadian students to find relevant, verified opportunities. This repo solves that.
-
-Inspired by:
-- [SimplifyJobs/Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships)
-- [vanshb03/Summer2026-Internships](https://github.com/vanshb03/Summer2026-Internships)
-
-…but this list is focused **exclusively on Canadian internships** for easier and faster access.
+This repository is built to help **Canadian students and international students studying in Canada** find verified internships more easily.
 
 ---
 
-## 🧠 How to Use
+⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
+🌱 Inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
 
-- 🖱️ Click "Apply" to go directly to the application link  
-- 📅 Bookmark this page — listings will be updated weekly  
-- 🔍 Use **Ctrl+F** to search for terms like “Remote”, “Toronto”, “AI”, etc.
+🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
+📌 See contribution guidelines [here](CONTRIBUTING.md).
+
+---
+
+### 🔔 Want notifications when new internships open?
+
+Star this repo ⭐ or watch for updates — we’ll post as soon as companies open applications.
 
 ---
 
@@ -53,16 +47,6 @@ MIT License — feel free to fork, contribute, and share (with credit).
 
 ## 🤝 Contributing
 
-We welcome contributions! To add a listing:
-
-1. Fork the repo  
-2. Edit the `README.md` table  
-3. Follow the format shown above  
-4. Open a Pull Request  
-
-📖 See full instructions in [`CONTRIBUTING.md`](CONTRIBUTING.md)
-
----
 
 Thanks to everyone who's submitted internship links and helped grow this list!
 
