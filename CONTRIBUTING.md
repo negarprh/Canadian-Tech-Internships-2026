@@ -13,11 +13,15 @@ Please only submit:
 - Jobs from **verified sources** (official site, LinkedIn, SimplifyJobs, etc.)
 
 ---
+### 📄 Format
+
+Please follow the table format below when adding a new internship:
+
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| **Shopify** | Software Developer Intern | Remote, Canada | [<kbd><b>APPLY</b></kbd>](https://www.shopify.com/careers) | 3d |
-| **RBC** | Technology Analyst Intern | Toronto, ON | [<kbd><b>APPLY</b></kbd>](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | 2d |
+| Shopify | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.shopify.com/careers) | Jul 01 |
+| RBC | Technology Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Jul 01 |
 
 ---
 
