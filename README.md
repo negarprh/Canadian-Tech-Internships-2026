@@ -55,7 +55,6 @@ We welcome contributions! To add a listing:
 
 - ✅ Weekly updates  
 - ✅ More internship sources (Indeed, LinkedIn, company sites)  
-- ✅ Filtered CSV or JSON version for devs
 
 ---
 
@@ -65,6 +64,4 @@ MIT License — feel free to fork, contribute, and share (with credit).
 
 ---
 
-## 💬 Questions or Suggestions?
 
-Open an issue or start a discussion. Let’s build this together!
