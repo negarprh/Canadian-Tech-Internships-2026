@@ -38,19 +38,6 @@ Inspired by:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! To add a listing:
-
-1. Fork the repo  
-2. Edit the `README.md` table  
-3. Follow the format shown above  
-4. Open a Pull Request  
-
-📖 See full instructions in [`CONTRIBUTING.md`](CONTRIBUTING.md)
-
----
-
 ## 🚀 Coming Soon
 
 - ✅ Weekly updates  
@@ -64,4 +51,19 @@ MIT License — feel free to fork, contribute, and share (with credit).
 
 ---
 
+## 🤝 Contributing
 
+We welcome contributions! To add a listing:
+
+1. Fork the repo  
+2. Edit the `README.md` table  
+3. Follow the format shown above  
+4. Open a Pull Request  
+
+📖 See full instructions in [`CONTRIBUTING.md`](CONTRIBUTING.md)
+
+Thanks to everyone who's submitted internship links and helped grow this list!
+
+Contribute by submitting an [issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or a pull request.
+
+[![](https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/graphs/contributors)
