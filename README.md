@@ -24,9 +24,8 @@ Star this repo ⭐ or watch for updates — we’ll post as soon as companies op
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Shopify | Software Developer Intern, Shopify Fulfillment Network | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://shopify.com/careers) | Jul 01 |
-| RBC | Technology Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Jul 01 |
-| Konrad Group | Software Developer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.konrad.com/careers) | Example |
+| Konrad | Software Developer Intern – May 2026 (4 months) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/embed/job_app?token=6642169003) | Jul 8 |
+
 
 ➡️ **More coming soon...** internships typically open from **August to October** for 2026 terms.
 
