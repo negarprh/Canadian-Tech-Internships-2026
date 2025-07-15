@@ -62,8 +62,10 @@ We welcome contributions! To add a listing:
 
 📖 See full instructions in [`CONTRIBUTING.md`](CONTRIBUTING.md)
 
+---
+
 Thanks to everyone who's submitted internship links and helped grow this list!
 
-Contribute by submitting an [issue](https://github.com/YOUR_USERNAME/YOUR_REPO/issues) or a pull request.
+Contribute by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.
 
-[![](https://contrib.rocks/image?repo=YOUR_USERNAME/YOUR_REPO)](https://github.com/YOUR_USERNAME/YOUR_REPO/graphs/contributors)
+[![](https://contrib.rocks/image?repo=negarprh/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
