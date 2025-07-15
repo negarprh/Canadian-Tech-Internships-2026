@@ -18,9 +18,10 @@ Please only submit:
 
 Add your internship to the table in `README.md` like this:
 
-| Company | Role | Location | Apply | Date Posted |
-|---------|------|----------|-------|-------------|
-| [Company Name](link) | Internship Title | City / Remote | [Apply](link) | 3d |
+| Company                                                            | Role                      | Location       |                                      Apply                                      | Date Posted |
+| ------------------------------------------------------------------ | ------------------------- | -------------- | :-----------------------------------------------------------------------------: | ----------- |
+| [Shopify](https://www.shopify.com/careers)                         | Software Developer Intern | Remote, Canada |               [<kbd>Apply</kbd>](https://www.shopify.com/careers)               | 3d          |
+| [RBC](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Technology Analyst Intern | Toronto, ON    | [<kbd>Apply</kbd>](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | 2d          |
 
 **Tips**:
 - Use Markdown formatting for links (e.g., `[Shopify](https://shopify.com/careers)`)
