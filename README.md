@@ -14,6 +14,12 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
+> 📌 Maintained by [Negar Pirasteh](https://www.linkedin.com/in/negar-pirasteh/),  
+> Computer Science student @ LaSalle College, graduating 2026.  
+> Building this repo to make it easier for Canadian students to find internships!
+
+---
+
 ### 🔔 Want notifications when new internships open?
 
 Star this repo ⭐ or watch for updates — we’ll post as soon as companies open applications.
