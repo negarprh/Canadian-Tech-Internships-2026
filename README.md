@@ -6,7 +6,7 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
-#### 👩🏻‍💻 Creator and Maintainer  
+### 👩🏻‍💻 Creator and Maintainer  
 
 📌 By **Negar Pirasteh**  
 [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/) · [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
