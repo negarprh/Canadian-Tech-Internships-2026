@@ -7,17 +7,17 @@ This repository is built to help **Canadian students and international students 
 ---
 
 ⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
-🌱 Inspired by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
+🌱 **Inspired** by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
 
 🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
 📌 See contribution guidelines [here](CONTRIBUTING.md).
 
 ---
 
-#### Creator and Meanteiner
+#### Creator and Maintainer  
 
-> 📌 By Negar Pirasteh
-> [Linkdein](https://www.linkedin.com/in/negar-pirasteh/), [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
+> 📌 By **Negar Pirasteh**  
+> [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/) · [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
 > Computer Science student @ LaSalle College, graduating 2026.  
 > Building this repo to make it easier for Canadian students to find internships!
 
