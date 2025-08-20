@@ -14,6 +14,8 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
+# Creator and Meanteiner
+
 > 📌 Maintained by [Negar Pirasteh](https://www.linkedin.com/in/negar-pirasteh/), [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
 > Computer Science student @ LaSalle College, graduating 2026.  
 > Building this repo to make it easier for Canadian students to find internships!
@@ -22,7 +24,7 @@ This repository is built to help **Canadian students and international students 
 
 ### 🔔 Want notifications when new internships open?
 
-Star this repo ⭐ or watch for updates — we’ll post as soon as companies open applications.
+Star this repo ⭐ or watch for updates, I’ll post as soon as companies open applications.
 
 ---
 
@@ -47,13 +49,13 @@ Star this repo ⭐ or watch for updates — we’ll post as soon as companies op
 ## 🚀 Coming Soon
 
 - ✅ Weekly updates  
-- ✅ More internship sources (Indeed, LinkedIn, company sites)  
+- ✅ More internship sources (Indeed, LinkedIn, Company Sites, Simplify, Vansh)  
 
 ---
 
 ## 🧾 License
 
-MIT License — feel free to fork, contribute, and share (with credit).
+MIT License - feel free to fork, contribute, and share (with credit).
 
 ---
 
