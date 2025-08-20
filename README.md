@@ -16,7 +16,8 @@ This repository is built to help **Canadian students and international students 
 
 #### Creator and Meanteiner
 
-> 📌 By [Negar Pirasteh](https://www.linkedin.com/in/negar-pirasteh/), [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
+> 📌 By Negar Pirasteh
+> [Linkdin](https://www.linkedin.com/in/negar-pirasteh/), [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
 > Computer Science student @ LaSalle College, graduating 2026.  
 > Building this repo to make it easier for Canadian students to find internships!
 
