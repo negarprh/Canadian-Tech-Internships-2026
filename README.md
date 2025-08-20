@@ -1,4 +1,4 @@
-# 🍁 Canadian Tech Internships – 2026
+# 🍁 Canadian Tech Internships - 2026
 
 > 🎯 A curated list of Winter, Summer, and Fall 2026 tech internships in **Canada** for roles in **Software Engineering, Data Science, DevOps, Product, AI, and more.**
 
@@ -14,7 +14,7 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
-> 📌 Maintained by [Negar Pirasteh](https://www.linkedin.com/in/negar-pirasteh/),  
+> 📌 Maintained by [Negar Pirasteh](https://www.linkedin.com/in/negar-pirasteh/), [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
 > Computer Science student @ LaSalle College, graduating 2026.  
 > Building this repo to make it easier for Canadian students to find internships!
 
