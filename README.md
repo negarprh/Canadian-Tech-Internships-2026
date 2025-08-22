@@ -33,6 +33,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Aug 21 |
+| Standard Aero         | Application Developer APEX – Co-Op           | St. John’s, NL, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7692/?utm_medium=jobshare&utm_source=External+Job+Share) | Aug 20 |
 | Botpress | Software Developer Intern – Growth (Winter 2026) | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/botpress/j/1AF4BB6A62/) | Aug 18 |
 | ABB | Intern – IT Programming and Projects | Pointe-Claire, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Pointe-Claire-Quebec-Canada/Intern---IT-Programming-and-Projects_JR00007776?utm_source=Simplify&ref=Simplify) | Aug 15 |
 | Tower Research Capital | Stagiaire en développement de logiciels / Software Developer Intern | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tower-research.com/open-positions/?gh_jid=6653745) | Aug 14 |
