@@ -33,6 +33,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Dropbox | Software Engineer Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dropbox.com/listing/7183245) | Aug 25 |
 | Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job?utm_source=Simplify&ref=Simplify) | Aug 22 |
 | L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Aug 21 |
 | Standard Aero         | Application Developer APEX – Co-Op           | St. John’s, NL, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/7692/?utm_medium=jobshare&utm_source=External+Job+Share) | Aug 20 |
