@@ -10,7 +10,7 @@ This repository is built to help **Canadian students and international students 
 
 📌 By **Negar Pirasteh**  
 [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/) · [📂 Portfolio](https://negarprh.github.io/Portfolio/)  
-Computer Science student @ LaSalle College, graduating 2026.  
+Computer Science student @ LaSalle College.
 Building this repo to make it easier for Canadian students to find internships!
 
 ---
