@@ -33,6 +33,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Corpay | Software Developer (Co-op) | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Software-Developer--Co-op-_R06820?locationCountry=a30a87ed25634629aa6c3958aa2b91ea) | Aug 27 |
 | Dropbox | Software Engineer Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dropbox.com/listing/7183245) | Aug 25 |
 | Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job?utm_source=Simplify&ref=Simplify) | Aug 22 |
 | L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Aug 21 |
