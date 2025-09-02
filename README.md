@@ -33,6 +33,10 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| TC Energy   | Computer Science Interns | Calgary, AB, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Computer-Science-Interns---Calgary--May-2026-_JR-08889) | Aug 31 |
+| Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Embedded-Software-DevSecOps-Co-op-Intern_20251384-1) | Aug 31 |
+| Lumentum    | Process Software Automation Co-op/Intern | Ottawa, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Process-Software-Automation-Co-op-Intern_20251390) | Aug 31 |
+| Lumentum    | Calibration and Test Software Engineer Co-op/Intern | Ottawa, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Calibration-and-Test-Software-Engineer-Co-op-Intern_20251385) | Aug 31 |
 | Corpay | Software Developer (Co-op) | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://corpay.wd103.myworkdayjobs.com/en-US/ext_001/job/Software-Developer--Co-op-_R06820?locationCountry=a30a87ed25634629aa6c3958aa2b91ea) | Aug 27 |
 | Dropbox | Software Engineer Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dropbox.com/listing/7183245) | Aug 25 |
 | Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job?utm_source=Simplify&ref=Simplify) | Aug 22 |
