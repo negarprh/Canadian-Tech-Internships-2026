@@ -25,6 +25,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| TD | Software Engineer Intern/Co-op (Winter 2026) | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--WINTER-2026-_R_1434770) | Sep 02 |
+| ↳  | Data Analytics & Insights Intern/Co-op (Winter 2026) | Montréal, QC / Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--WINTER-2026-_R_1435889) | Sep 02 |
 | Stripe | Software Engineer – Intern | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://stripe.com/jobs/listing/software-engineer-intern/7206389) | Sep 01 |
 | Roblox | Software Engineer Intern | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.roblox.com/jobs/7206219) | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Computer-Science-Interns---Calgary--May-2026-_JR-08889) | Aug 31 |
