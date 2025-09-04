@@ -15,14 +15,6 @@ Building this repo to make it easier for Canadian students to find internships!
 
 ---
 
-⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
-🌱 **Inspired** by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
-
-🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
-📌 See contribution guidelines [here](CONTRIBUTING.md).
-
----
-
 ### 🔔 Want notifications when new internships open?
 
 Star this repo ⭐ or watch for updates, I’ll post as soon as companies open applications.
@@ -60,6 +52,14 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 - ✅ Weekly updates  
 - ✅ More internship sources (Indeed, LinkedIn, Company Sites, Simplify, Vansh)  
+
+---
+
+⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
+🌱 **Inspired** by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
+
+🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
+📌 See contribution guidelines [here](CONTRIBUTING.md).
 
 ---
 
