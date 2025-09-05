@@ -80,5 +80,4 @@ Thanks to everyone who's submitted internship links and helped grow this list!
 
 Contribute by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.
 
-[![](https://contrib.rocks/image?repo=negarprh/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
 [![](https://contrib.rocks/image?repo=HassanChowdhry/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
