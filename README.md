@@ -25,6 +25,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Lyft | Software Engineer Intern – Mobile Android (Summer 2026) | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8131695002?gh_jid=8131695002) | Sep 05 |
+| ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8128890002?gh_jid=8128890002) | Sep 05 |
 | Epic Games | Ecommerce Programmer Intern | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5641341004?gh_jid=5641341004&gh_src=32b5d0474us) | Sep 04 |
 | Block | Software Engineer Intern | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/privateblock/jobs/4904198008/) | Sep 03 |
 | TD | Software Engineer Intern/Co-op (Winter 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--WINTER-2026-_R_1434770) | Sep 02 |
