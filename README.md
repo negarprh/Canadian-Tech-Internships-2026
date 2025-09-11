@@ -25,6 +25,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Arc'teryx Equipment | Software Engineer Co-op Student | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/arcteryx.com/0462ac0d-c0fd-42ed-bc7c-20976b46b037) | Sep 08 |
+| Manulife Financial | Summer Intern/Co-op – Software Engineering (2026) | Kitchener, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-Co-op-2026---Software-Engineering_JR25090419) | Sep 08 |
 | Autodesk | Intern, Software Developer | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD91424-2?fbclid=PAb21jcAMsCbhleHRuA2FlbQIxMAABp1ElWUpbp7WoFFkOgknjCTXwb301w0o7xCLnZiTAE_k4vg8y-kaAylhkEoSL_aem_VG_1VjL_BydbF8zzK3x8eA) | Sep 07 |
 | ↳        | Intern, Software Developer / Stagiaire en Développement Logiciel | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Logiciel--Intern-Software-Developer_25WD91266-1?src=JB-10065&source=LinkedIn) | Sep 07 |
 | Varian | Software Developer Co-op | Winnipeg, MB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op_R-23789) | Sep 05 |
