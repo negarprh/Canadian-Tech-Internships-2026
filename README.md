@@ -86,9 +86,6 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 ⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
 🌱 **Inspired** by [SimplifyJobs](https://github.com/SimplifyJobs/Summer2026-Internships) and [vanshb03](https://github.com/vanshb03/Summer2026-Internships), but focused on **Canada only**.
 
-🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
-📌 See contribution guidelines [here](CONTRIBUTING.md).
-
 ---
 
 ## 🧾 License
@@ -99,6 +96,8 @@ MIT License - feel free to fork, contribute, and share (with credit).
 
 ## 🤝 Contributing
 
+🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
+📌 See contribution guidelines [here](CONTRIBUTING.md).
 
 Thanks to everyone who's submitted internship links and helped grow this list!
 
