@@ -25,6 +25,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| HPE | Cloud Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.hpe.com/us/en/job/1193426/Cloud-developer-Intern---Summer-2026---Stagiaire-d%25C3%25A9veloppeur-infonuagique-----%25C3%2589t%25C3%25A9-2026) | Sep 12 |
 | Autodesk | Intern – Software Developer | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Ontario-CAN---Remote/Intern--Software-Developer_25WD91423-1) | Sep 10 |
 | Atlassian | Software Engineer Intern | British Columbia | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://campus-globalcareers-atlassian.icims.com/jobs/21019/software-engineer-intern%2c-2026-summer-canada/job) | Sep 10 |
 | Hitachi | Software Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--12-or-16months-_R1009576) | Sep 09 |
