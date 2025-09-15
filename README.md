@@ -74,15 +74,6 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB?utm_source=Simplify&ref=Simplify) | Jul 07 |
 
 
-➡️ **More coming soon...** internships typically open from **August to October** for 2026 terms.
-
----
-
-## 🚀 Coming Soon
-
-- ✅ Weekly updates  
-- ✅ More internship sources (Indeed, LinkedIn, Company Sites, Simplify, Vansh)  
-
 ---
 
 ⚠️ **Note**: This list is exclusive to internships **based in Canada** (or remote roles open to Canadian applicants).  
