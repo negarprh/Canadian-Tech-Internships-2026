@@ -25,6 +25,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Robinhood | Software Developer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7235228?gh_src=NaN&gh_jid=7235228) | Sep 22 |
+| ↳ | Software Developer Intern, Web | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7238998?gh_src=NaN&gh_jid=7238998) | Sep 22 |
 | Desjardins | Data Internship – Winter 2026 | Montreal, QC / Lévis, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins-workplace.relevance.studio/en/job-detail/1-87a658c546e3100431af94c082840000-data-internship-winter-2026-montreal-levis) | Sep 20 |
 | ↳ | Internship – IT Sector, Winter 2026 | Montreal, QC / Lévis, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins-workplace.relevance.studio/en/job-detail/1-6bfbe9277ef3100879e75215ed940001-internship-it-sector-winter-2026-montreal-levis) | Sep 20 |
 | Pason | Software Developer Intern (Datahub) | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://recruiting.ultipro.ca/PAS5000PASON/JobBoard/736c1025-c469-4ece-a487-4884545272a7/OpportunityDetail?opportunityId=d43ff497-3e79-4766-b0bf-8b29b22af35e&source=LinkedIn) | Sep 18 |
