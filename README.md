@@ -25,6 +25,9 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| CIBC | Application/Software Developer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application--Software-Developer-Co-op_2521985) | Sep 22 |
+| ↳ | Software/Application Developer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2521580-1) | Sep 22 |
+| Rocket Lab USA | Software Intern – Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/rocketlab/jobs/7330647003) | Sep 22 |
 | Robinhood | Software Developer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7235228?gh_src=NaN&gh_jid=7235228) | Sep 22 |
 | ↳ | Software Developer Intern, Web | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7238998?gh_src=NaN&gh_jid=7238998) | Sep 22 |
 | Desjardins | Data Internship – Winter 2026 | Montreal, QC / Lévis, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins-workplace.relevance.studio/en/job-detail/1-87a658c546e3100431af94c082840000-data-internship-winter-2026-montreal-levis) | Sep 20 |
