@@ -30,6 +30,10 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| CIBC | IT Project Coordinator Co-op – Technology, Infrastructure, and Innovation | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Coordinator-Co-op_2521255) | Sep 23 |
+| Intuit | Software Developer Intern/Co-op – Multiple Teams | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.intuit.com/job/toronto/winter-2026-software-developer-co-op-4-months/27595/86480090896) | Sep 23 |
+| Snowflake | Software Engineer Intern – Multiple Teams | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/snowflake/237fefbd-d232-4daf-8def-971bdeb732d9/application) | Sep 23 |
+| Geotab | Software Development Intern – Multiple Teams | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/4885806008) | Sep 23 |
 | Lyft | Software Engineer Intern – Test Automation | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8168731002?gh_jid=8168731002) | Sep 22 |
 | Magnet Forensics | Software Developer Intern/Co-op – Software Development | Ottawa, ON / Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/d98221e9-413a-4b74-a95b-8cd89e8e4956/apply) | Sep 22 |
 | IKO | Information Security Analyst Intern/Co-op – Information Security | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Mississauga-ON/Information-Security-Analyst-Co-Op_REQ-11663) | Sep 22 |
@@ -120,20 +124,20 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Stripe | Software Engineer – Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://stripe.com/jobs/listing/software-engineer-intern/7206389) | Sep 01 |
 | Roblox | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.roblox.com/jobs/7206219) | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Computer-Science-Interns---Calgary--May-2026-_JR-08889) | Aug 31 |
-| Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Embedded-Software-DevSecOps-Co-op-Intern_20251384-1) | Aug 31 |
+| Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | ↳     | Process Software Automation Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Process-Software-Automation-Co-op-Intern_20251390) | Aug 31 |
 | ↳     | Calibration and Test Software Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Calibration-and-Test-Software-Engineer-Co-op-Intern_20251385) | Aug 31 |
 | Corpay | Software Developer (Co-op) | Vancouver, BC | Closed🔒 | Aug 27 |
 | Google | Software Developer Intern, MS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026) | Aug 25 |
 | ↳      | Software Developer Intern, BS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026) | Aug 25 |
 | Dropbox | Software Engineer Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dropbox.com/listing/7183245) | Aug 25 |
-| Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careersen-mackenzieinvestments.icims.com/jobs/5628/summer-2026---investment-management---fixed-income-software-developer-platform-intern/job?utm_source=Simplify&ref=Simplify) | Aug 22 |
+| Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON | Closed🔒 | Aug 22 |
 | L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors&utm_source=Simplify&ref=Simplify) | Aug 21 |
 | Standard Aero         | Application Developer APEX – Co-Op           | St. John’s, NL | Closed🔒 | Aug 20 |
 | Botpress | Software Developer Intern – Growth (Winter 2026) | Montreal, QC | Closed🔒 | Aug 18 |
 | ABB | Intern – IT Programming and Projects | Pointe-Claire, QC | Closed🔒 | Aug 15 |
 | Tower Research Capital | Stagiaire en développement de logiciels / Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tower-research.com/open-positions/?gh_jid=6653745) | Aug 14 |
-| Confluent | Confluent Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.confluent.io/jobs/job/974fa008-7174-4e6f-a89c-8c6cce70ae7e) | Aug 08 |
+| Confluent | Confluent Software Engineering Intern | Toronto, ON | Closed🔒 | Aug 08 |
 | Jonas Software | Jonas Summer Internship – Various Departments | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Summer-Internship---Various-Departments_R45900-1) | Aug 02 |
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern| Toronto, ON | Closed🔒 | Jul 08 |
