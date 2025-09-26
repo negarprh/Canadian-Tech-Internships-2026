@@ -21,8 +21,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 ---
 
-> ❗ Note: Internship listings are organized by their original **job posting date**, not by the date they were added here.  
-> This means new roles may appear **anywhere in the table**, so please review the full list regularly.
+📌 **Note:** Internship listings are organized by their original **job posting date**, not by the date they were added here.  
+👉 New roles may appear **anywhere in the table** — always review the **full list** regularly.
 
 ---
 
