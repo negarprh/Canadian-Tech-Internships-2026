@@ -73,7 +73,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Co-op IT Support Technician | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33677/job) | Sep 16 |
 | ↳ | Co-op/Intern Developer – Front End Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33647/job) | Sep 16 |
 | Ericsson | Full Stack Developer Co-Op | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ericsson.com/careers/job/563121772215400) | Sep 16 |
-| RBC | Data Analyst – Winter 2026 (4 months) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000141527/2026-Winter-Student-Data-Analyst-4-months) | Sep 18 |
+| RBC | Data Analyst | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000141527/2026-Winter-Student-Data-Analyst-4-months) | Sep 18 |
 | ↳ | Developer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140830/Developer-RBC-Amplify-2026-Halifax) | Sep 15 |
 | ↳ | Data Engineer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140824/Data-Engineer-RBC-Amplify-2026-Halifax) | Sep 15 |
 | ↳ | Developer – RBC Amplify 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140802/d%C3%A9veloppeur-RBC-amplifie-2026-Montr%C3%A9al-Developer-RBC-Amplify-2026-Montreal) | Sep 15 |
@@ -132,8 +132,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8128890002?gh_jid=8128890002) | Sep 05 |
 | Epic Games | Ecommerce Programmer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5641341004?gh_jid=5641341004&gh_src=32b5d0474us) | Sep 04 |
 | Block | Software Engineer Intern | Toronto, ON | Closed🔒 | Sep 03 |
-| TD | Software Engineer Intern/Co-op (Winter 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--WINTER-2026-_R_1434770) | Sep 02 |
-| ↳  | Data Analytics & Insights Intern/Co-op (Winter 2026) | Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--WINTER-2026-_R_1435889) | Sep 02 |
+| TD | Software Engineer Intern/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op--WINTER-2026-_R_1434770) | Sep 02 |
+| ↳  | Data Analytics & Insights Intern/Co-op | Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--WINTER-2026-_R_1435889) | Sep 02 |
 | Stripe | Software Engineer – Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://stripe.com/jobs/listing/software-engineer-intern/7206389) | Sep 01 |
 | Roblox | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.roblox.com/jobs/7206219) | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Computer-Science-Interns---Calgary--May-2026-_JR-08889) | Aug 31 |
@@ -147,7 +147,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON | Closed🔒 | Aug 22 |
 | L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors) | Aug 21 |
 | Standard Aero         | Application Developer APEX – Co-Op           | St. John’s, NL | Closed🔒 | Aug 20 |
-| Botpress | Software Developer Intern – Growth (Winter 2026) | Montreal, QC | Closed🔒 | Aug 18 |
+| Botpress | Software Developer Intern – Growth | Montreal, QC | Closed🔒 | Aug 18 |
 | ABB | Intern – IT Programming and Projects | Pointe-Claire, QC | Closed🔒 | Aug 15 |
 | Tower Research Capital | Stagiaire en développement de logiciels / Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tower-research.com/open-positions/?gh_jid=6653745) | Aug 14 |
 | Confluent | Confluent Software Engineering Intern | Toronto, ON | Closed🔒 | Aug 08 |
