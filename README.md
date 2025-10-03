@@ -74,16 +74,16 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Technical Systems Analyst Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](http://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2521593) | Sep 17 |
 | ↳ | Application/Software Developer Co-op - Enterprise Technology & Business Management | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op---Enterprise-Technology---Business-Management_2521368) | Sep 17 |
 | Qualcomm | FY26 Intern – Telemetry and Tuning Software Engineering Internship | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446714637545) | Sep 17 |
-| Kinaxis | Co-op Developer – IT Application Excellence | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33678/job) | Sep 17 |
-| ↳ | Co-op Developer - Clients - Front End Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33722/job) | Sep 17 |
-| ↳ | Co-op/Intern Developer – Back End Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33682/job) | Sep 16 |
-| ↳ | Co-op IT Support Technician | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33677/job) | Sep 16 |
-| ↳ | Co-op/Intern Developer – Front End Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/33647/job) | Sep 16 |
-| Ericsson | Full Stack Developer Co-Op | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ericsson.com/careers/job/563121772215400) | Sep 16 |
-| RBC | Data Analyst | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000141527/2026-Winter-Student-Data-Analyst-4-months) | Sep 18 |
+| Kinaxis | Co-op Developer – IT Application Excellence | Ottawa, ON | Closed🔒 | Sep 17 |
+| ↳ | Co-op Developer - Clients - Front End Technologies | Ottawa, ON | Closed🔒 | Sep 17 |
+| ↳ | Co-op/Intern Developer – Back End Technologies | Ottawa, ON | Closed🔒 | Sep 16 |
+| ↳ | Co-op IT Support Technician | Ottawa, ON | Closed🔒 | Sep 16 |
+| ↳ | Co-op/Intern Developer – Front End Technologies | Ottawa, ON | Closed🔒 | Sep 16 |
+| Ericsson | Full Stack Developer Co-Op | Montreal, QC | Closed🔒 | Sep 16 |
+| RBC | Data Analyst | Toronto, ON | Closed🔒 | Sep 18 |
 | ↳ | Developer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140830/Developer-RBC-Amplify-2026-Halifax) | Sep 15 |
 | ↳ | Data Engineer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140824/Data-Engineer-RBC-Amplify-2026-Halifax) | Sep 15 |
-| ↳ | Developer – RBC Amplify 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140802/d%C3%A9veloppeur-RBC-amplifie-2026-Montr%C3%A9al-Developer-RBC-Amplify-2026-Montreal) | Sep 15 |
+| ↳ | Developer – RBC Amplify 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000140802EXTERNALENCA/d-veloppeur-RBC-amplifie-2026-Montr-al-Developer-RBC-Amplify-2026-Montreal) | Sep 15 |
 | ↳ | Developer – RBC Amplify 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140792/Developer-RBC-Amplify-2026-Toronto) | Sep 15 |
 | ↳ | Data Engineer – RBC Amplify 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140791/Data-Engineer-RBC-Amplify-2026-Toronto) | Sep 15 |
 | Hewlett Packard (HP) | Associate C++ Software Developer | Vancouver, BC | Closed🔒 | Sep 15 |
