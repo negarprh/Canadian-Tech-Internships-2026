@@ -86,11 +86,11 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Co-op/Intern Developer – Front End Technologies | Ottawa, ON | Closed🔒 | Sep 16 |
 | Ericsson | Full Stack Developer Co-Op | Montreal, QC | Closed🔒 | Sep 16 |
 | RBC | Data Analyst | Toronto, ON | Closed🔒 | Sep 18 |
-| ↳ | Developer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140830/Developer-RBC-Amplify-2026-Halifax) | Sep 15 |
-| ↳ | Data Engineer – RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140824/Data-Engineer-RBC-Amplify-2026-Halifax) | Sep 15 |
-| ↳ | Developer – RBC Amplify 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/RBCAA0088R0000140802EXTERNALENCA/d-veloppeur-RBC-amplifie-2026-Montr-al-Developer-RBC-Amplify-2026-Montreal) | Sep 15 |
-| ↳ | Developer – RBC Amplify 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140792/Developer-RBC-Amplify-2026-Toronto) | Sep 15 |
-| ↳ | Data Engineer – RBC Amplify 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000140791/Data-Engineer-RBC-Amplify-2026-Toronto) | Sep 15 |
+| ↳ | Developer – RBC Amplify 2026 | Halifax, NS | Closed🔒 | Sep 15 |
+| ↳ | Data Engineer – RBC Amplify 2026 | Halifax, NS | Closed🔒 | Sep 15 |
+| ↳ | Developer – RBC Amplify 2026 | Montreal, QC | Closed🔒 | Sep 15 |
+| ↳ | Developer – RBC Amplify 2026 | Toronto, ON | Closed🔒 | Sep 15 |
+| ↳ | Data Engineer – RBC Amplify 2026 | Toronto, ON | Closed🔒 | Sep 15 |
 | Hewlett Packard (HP) | Associate C++ Software Developer | Vancouver, BC | Closed🔒 | Sep 15 |
 | ↳ | Associate C++ Software Developer | Vancouver, BC | Closed🔒 | Sep 15 |
 | Hydro Québec | Stage universitaire – Technologies numériques - Développement *(Multiple)* | Montreal, QC (Hybrid) | Closed🔒 | Sep 15 |
