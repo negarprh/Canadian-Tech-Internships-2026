@@ -1,55 +1,91 @@
+# .github/scripts/check_closed_jobs.py
 import re
-import requests
 import pathlib
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 README = pathlib.Path("README.md")
 
-# Finds all markdown Apply buttons with a link (e.g. [![Apply](...)](https://...))
 APPLY_PATTERN = re.compile(
-    r"\[!\[Apply\]\([^\)]*Apply[^\)]*\)\]\((https?://[^\s)]+)\)",
-    re.IGNORECASE,
+    r"\[!\[Apply\]\([^)]+?\)\]\((https?://[^)\s]+)\)", re.IGNORECASE
 )
 
+CLOSED_PHRASES = [
+    "sorry, this position has been filled",
+    "no longer accepting",
+    "no longer available",
+    "requisition closed",
+    "job not found",
+    "position has been filled",
+    "this job posting is no longer active",
+    "this posting has closed",
+    "is no longer posted",
+    "position closed",
+    "page not found",
+    "No longer accepting applications.",
+    "this job is closed",
+    "this position is closed",
+    "this role is closed",
+    "this vacancy is closed",
+    "this opportunity is closed",
+    "this listing is closed",
+    "no longer available",
+    "the job you are looking for is no longer available",
+]
 
-def is_closed(url):
-    """Return True if the link is dead or unreachable."""
+UA_HEADERS = {
+    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                   "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"),
+    "Accept-Language": "en,en-US;q=0.9",
+}
+
+
+def make_session():
+    s = requests.Session()
+    retry = Retry(total=3, backoff_factor=0.5,
+                  status_forcelist=[429, 500, 502, 503, 504])
+    s.mount("https://", HTTPAdapter(max_retries=retry))
+    s.headers.update(UA_HEADERS)
+    return s
+
+
+def url_is_closed(s: requests.Session, url: str) -> bool:
     try:
-        # HEAD first (fast), fallback to GET if needed
-        res = requests.head(url, allow_redirects=True, timeout=10)
-        if res.status_code >= 400:
+        r = s.head(url, allow_redirects=True, timeout=15)
+        # Many ATS block HEAD; fall back to GET or treat 405/403 specially.
+        if r.status_code >= 400 or r.status_code in (403, 405):
+            r = s.get(url, allow_redirects=True, timeout=20)
+        if r.status_code >= 400:
             return True
-        # Optional: confirm with GET to avoid false positives
-        if res.status_code in (403, 405):  # Some sites block HEAD
-            res = requests.get(url, allow_redirects=True, timeout=10)
-            if res.status_code >= 400:
-                return True
-        return False
+        text = r.text.lower()
+        return any(p in text for p in CLOSED_PHRASES)
     except requests.RequestException:
-        return True  # Treat network issues as closed
+        return True
 
 
 def main():
-    text = README.read_text(encoding="utf-8")
+    s = make_session()
+    content = README.read_text(encoding="utf-8")
     changed = False
 
-    def replacer(match):
+    def repl(m):
         nonlocal changed
-        url = match.group(1)
+        url = m.group(1)
         print(f"Checking: {url}")
-        if is_closed(url):
-            changed = True
+        if url_is_closed(s, url):
             print(f"❌ Closed: {url}")
-            return "Closed🔒"
+            changed = True
+            return "Closed🔒"  # remove the Apply button
         print(f"✅ Active: {url}")
-        return match.group(0)
+        return m.group(0)
 
-    new_text = APPLY_PATTERN.sub(replacer, text)
-
+    new_content = APPLY_PATTERN.sub(repl, content)
     if changed:
-        README.write_text(new_text, encoding="utf-8")
-        print("✅ Updated README with Closed🔒 tags.")
+        README.write_text(new_content, encoding="utf-8")
+        print("✅ Updated README.")
     else:
-        print("✅ No closed links found.")
+        print("No changes.")
 
 
 if __name__ == "__main__":

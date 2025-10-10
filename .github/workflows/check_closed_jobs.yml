@@ -2,8 +2,13 @@ name: Check Closed Internship Links
 
 on:
   schedule:
-    - cron: "0 12 * * *" # runs every day at 12:00 UTC
-  workflow_dispatch: # allows you to trigger it manually
+    - cron: "0 12 * * *" # daily 12:00 UTC
+  workflow_dispatch:
+
+# <-- give the job permission to push & open PRs
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   link-check:
@@ -12,26 +17,27 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false # let the PR action supply its own token
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
+      - name: Install deps
         run: pip install requests
 
       - name: Run checker
-        id: check
-        run: |
-          python .github/scripts/check_closed_jobs.py
-          echo "status=$?" >> $GITHUB_OUTPUT
+        run: python .github/scripts/check_closed_jobs.py
 
-      - name: Create Pull Request if changed
-        if: ${{ success() }}
+      - name: Create Pull Request (only if files changed)
         uses: peter-evans/create-pull-request@v6
         with:
-          commit-message: "🤖 Update closed internship links"
-          title: "🤖 Auto-update closed internship postings"
-          body: "This PR marks closed internship links as Closed🔒."
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "🤖 Mark closed postings as Closed🔒"
+          title: "🤖 Auto-update: closed internship links"
+          body: "This PR replaces Apply buttons with **Closed🔒** for dead/filled postings."
           branch: "auto/update-closed-links"
+          add-paths: |
+            README.md
