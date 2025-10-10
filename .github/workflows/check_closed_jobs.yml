@@ -1,0 +1,37 @@
+name: Check Closed Internship Links
+
+on:
+  schedule:
+    - cron: "0 12 * * *" # runs every day at 12:00 UTC
+  workflow_dispatch: # allows you to trigger it manually
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run checker
+        id: check
+        run: |
+          python .github/scripts/check_closed_jobs.py
+          echo "status=$?" >> $GITHUB_OUTPUT
+
+      - name: Create Pull Request if changed
+        if: ${{ success() }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "🤖 Update closed internship links"
+          title: "🤖 Auto-update closed internship postings"
+          body: "This PR marks closed internship links as Closed🔒."
+          branch: "auto/update-closed-links"
