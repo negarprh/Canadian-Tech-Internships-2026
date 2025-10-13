@@ -31,6 +31,12 @@ jobs:
       - name: Run checker
         run: python .github/scripts/check_closed_jobs.py
 
+      - name: Upload report
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-report
+          path: link-check-report.md
+
       - name: Create Pull Request (only if files changed)
         uses: peter-evans/create-pull-request@v6
         with:
