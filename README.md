@@ -30,8 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Canadian Space Agency | Internship - Generative AI for Systems Engineering | Longueuil, QC (Hybrid) | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://asc-csa.hiringplatform.ca/221712-stage-ia-generative-pour-ingenierie-des-systemes/992033-formulaire/en) | Oct 14 |
-| ↳ | Internship - Natural Language Interface for Earth Observation Analytics | Longueuil, QC (Hybrid) | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://asc-csa.hiringplatform.ca/221651-stage-interface-en-langage-naturel-pour-l-analyse-de-l-observation-de-la-terre/991623-formulaire/en) | Oct 14 |
+| Canadian Space Agency | Internship - Generative AI for Systems Engineering | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://asc-csa.hiringplatform.ca/221712-stage-ia-generative-pour-ingenierie-des-systemes/992033-formulaire/en) | Oct 14 |
+| ↳ | Internship - Natural Language Interface for Earth Observation Analytics | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://asc-csa.hiringplatform.ca/221651-stage-interface-en-langage-naturel-pour-l-analyse-de-l-observation-de-la-terre/991623-formulaire/en) | Oct 14 |
 | Mercury | Full-stack Engineering Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5676309004) | Oct 13 |
 | ↳ | Backend Engineering Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5668761004) | Oct 13 |
 | ↳ | Frontend Engineering Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5669256004) | Oct 13 |
