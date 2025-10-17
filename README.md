@@ -180,7 +180,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | TC Energy   | Computer Science Interns | Calgary, AB | Closed🔒 | Aug 31 |
 | Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | ↳     | Process Software Automation Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Process-Software-Automation-Co-op-Intern_20251390) | Aug 31 |
-| ↳     | Calibration and Test Software Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Calibration-and-Test-Software-Engineer-Co-op-Intern_20251385) | Aug 31 |
+| ↳     | Calibration and Test Software Engineer Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | Corpay | Software Developer (Co-op) | Vancouver, BC | Closed🔒 | Aug 27 |
 | Google | Software Developer Intern, MS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026) | Aug 25 |
 | ↳      | Software Developer Intern, BS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026) | Aug 25 |
