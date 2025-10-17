@@ -184,9 +184,9 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Corpay | Software Developer (Co-op) | Vancouver, BC | Closed🔒 | Aug 27 |
 | Google | Software Developer Intern, MS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/83033753760211654-software-developer-intern-ms-summer-2026) | Aug 25 |
 | ↳      | Software Developer Intern, BS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/139918130284503750-software-developer-intern-bs-summer-2026) | Aug 25 |
-| Dropbox | Software Engineer Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dropbox.com/listing/7183245) | Aug 25 |
+| Dropbox | Software Engineer Intern | Remote in Canada | Closed🔒 | Aug 25 |
 | Mackenzie Investments | Investment Management – Fixed Income Software Developer Platform Intern | Toronto, ON | Closed🔒 | Aug 22 |
-| L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Waterdown-Operations-Test-Engineering,-Software-Co-op-ON-L9H-0C5/1319052600/?ats=successfactors) | Aug 21 |
+| L3Harris Technologies | Operations Test Engineering – Software Co-Op | Hamilton, ON | Closed🔒 | Aug 21 |
 | Standard Aero         | Application Developer APEX – Co-Op           | St. John’s, NL | Closed🔒 | Aug 20 |
 | Botpress | Software Developer Intern – Growth | Montreal, QC | Closed🔒 | Aug 18 |
 | ABB | Intern – IT Programming and Projects | Pointe-Claire, QC | Closed🔒 | Aug 15 |
