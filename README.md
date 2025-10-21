@@ -30,6 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| OpenTable | Sofrware Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216629002?s=LinkedIn) | Oct 20 |
+| ↳ | Data Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216632002?s=LinkedIn) | Oct 20 |
 | Autodesk | Intern – Software Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92521-1) | Oct 20 |
 | Microsoft | Research Intern - MSR Montreal / ML Team | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/us/en/job/1898358/Research-Intern-MSR-Montreal-ML-Team) | Oct 16 |
 | Ciena | Automation and Tools Software Developer Co-op – Winter 2026 | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-and-Tools-Software-Developer-Co-op---Winter-2026_R029189) | Oct 16 |
