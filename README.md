@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Ciena | Software Design Intern – Winter 2026 | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275) | Oct 21 |
 | OpenTable | Sofrware Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216629002?s=LinkedIn) | Oct 20 |
 | ↳ | Data Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216632002?s=LinkedIn) | Oct 20 |
 | Autodesk | Intern – Software Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92521-1) | Oct 20 |
@@ -53,7 +54,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Ada | Software Engineering Intern | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/ada18/jobs/4934188007) | Oct 7 |
 | DoorDash | Software Engineer Intern – Multiple Teams | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/doordashcanada/jobs/7263628) | Oct 6 |
 | Electronic Arts | Software Engineer Intern – Sports Technology | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-Sports-Tech-ATG/210860) | Oct 6 |
-| ↳ | Software Engineer Intern – UFC | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-UFC-8-Month-Term/210887) | Oct 6 |
+| ↳ | Software Engineer Intern – UFC | Vancouver, BC | Closed🔒 | Oct 6 |
 | Qualcomm | Deep Learning Research Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446714977804) | Oct 6 |
 | ↳ | Deep Learning Research Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446714978266) | Oct 6 |
 | 1Password              | Developer Intern - Stateful Systems - Winter 2026 | Remote in Canada | Closed🔒  | Oct 5       |
