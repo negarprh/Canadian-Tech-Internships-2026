@@ -32,6 +32,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 |---------|------|----------|:-----:|-------------|
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
 | BDC | Student IT | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/STUDENT-IT_R-6965) | Oct 23 |
+| Qualcomm | GPU Compiler Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446715134609) | Oct 22 |
 | Ciena | Software Design Intern – Winter 2026 | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275) | Oct 21 |
 | OpenTable | Sofrware Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216629002?s=LinkedIn) | Oct 20 |
 | ↳ | Data Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/opentable/jobs/8216632002?s=LinkedIn) | Oct 20 |
