@@ -32,7 +32,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 |---------|------|----------|:-----:|-------------|
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635813986&domain=zebra.com&sort_by=relevance&job_index=0&src=srm_linkedin_jb) | Oct 24 |
 | ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635828706&domain=zebra.com&sort_by=relevance&job_index=2&src=srm_linkedin_jb) | Oct 24 |
-| Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
+| Epic Games | Gameplay Systems Intern | Montreal, QC | Closed🔒 | Oct 23 |
 | BDC | Student IT | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/STUDENT-IT_R-6965) | Oct 23 |
 | Qualcomm | GPU Compiler Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446715134609) | Oct 22 |
 | Ciena | Software Design Intern – Winter 2026 | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Intern--Winter-2026-_R029275) | Oct 21 |
@@ -87,8 +87,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Uber | 2026 Summer Software Engineering Intern | Toronto, ON | Closed🔒 | Sep 26 |
 | Autodesk | Intern – Data Security | Toronto, ON | Closed🔒 | Sep 25 |
 | Trend Micro | Software Developer Intern/Co-op – Cloud One R&D | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Developer-Co-Op---Winter-2026_R0008259) | Sep 25 |
-| Pinterest | Software Engineer Intern – Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7252886/software-engineer-intern-winter-term-2026-toronto/?gh_jid=7252886) | Sep 24 |
-| ↳ | Software Engineer Intern – Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996) | Sep 24 |
+| Pinterest | Software Engineer Intern – Winter 2026 | Toronto, ON | Closed🔒 | Sep 24 |
+| ↳ | Software Engineer Intern – Summer 2026 | Toronto, ON | Closed🔒 | Sep 24 |
 | Kinaxis | Co-op/Intern Developer – Clients – Front End Technologies | Ottawa, ON | Closed🔒 | Sep 24 |
 | Ciena | Routing/IP Software Developer Intern – Packet Control Plane – Routing and MPLS Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--Winter-2026-_R029036-1) | Sep 24 |
 | Hitachi | Network Design Specialist Intern – Data Communications | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Network-Design-Specialist-Intern_R1010582) | Sep 24 |
@@ -98,7 +98,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Snowflake | Software Engineer Intern – Multiple Teams | Toronto, ON | Closed🔒 | Sep 23 |
 | Geotab | Software Development Intern – Multiple Teams | Burnaby, BC | Closed🔒 | Sep 23 |
 | Lyft | Software Engineer Intern – Test Automation | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8168731002?gh_jid=8168731002) | Sep 22 |
-| Magnet Forensics | Software Developer Intern/Co-op – Software Development | Ottawa, ON / Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/d98221e9-413a-4b74-a95b-8cd89e8e4956/apply) | Sep 22 |
+| Magnet Forensics | Software Developer Intern/Co-op – Software Development | Ottawa, ON / Kitchener, ON | Closed🔒 | Sep 22 |
 | IKO | Information Security Analyst Intern/Co-op – Information Security | Mississauga, ON | Closed🔒 | Sep 22 |
 | Rocket Lab USA | Software Intern – Summer 2026 | Toronto, ON | Closed🔒 | Sep 22 |
 | CIBC | Application/Software Developer Co-op | Toronto, ON | Closed🔒 | Sep 22 |
@@ -181,7 +181,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Lyft | Software Engineer Intern – Mobile Android (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8131695002?gh_jid=8131695002) | Sep 05 |
 | ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8128890002?gh_jid=8128890002) | Sep 05 |
 | Microsoft | Software Engineer: Internship Opportunities | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/global/en/job/1871855) | Sep 5 |
-| Epic Games | Ecommerce Programmer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5641341004?gh_jid=5641341004&gh_src=32b5d0474us) | Sep 04 |
+| Epic Games | Ecommerce Programmer Intern | Vancouver, BC | Closed🔒 | Sep 04 |
 | Block | Software Engineer Intern | Toronto, ON | Closed🔒 | Sep 03 |
 | TD | Software Engineer Intern/Co-op | Toronto, ON | Closed🔒 | Sep 02 |
 | ↳  | Data Analytics & Insights Intern/Co-op | Montréal, QC / Toronto, ON | Closed🔒 | Sep 02 |
