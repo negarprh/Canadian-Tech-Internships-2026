@@ -79,6 +79,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Tenstorrent | IT Systems Administrator Intern – IT Infrastructure | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4527157007) | Oct 2 |
 | Motorola | Software Developer – Front-end Co-Op | Vancouver, BC | Closed🔒  | Oct 1 |
 | Arctic Wolf | Network and Technology Operations Analyst Intern/Co-op – Operations Center | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Waterloo-ON-CAN/Network---Technology-Operations-Analyst-Co-op_R25_1328) | Sep 30 |
+| Bombardier | Intern, Information Systems (Winter 2026) | Dorval, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.bombardier.com/job/Dorval-Intern%2C-Information-systems-%28Winter-2026%29-Qu%C3%A9b-H4S-1Y9/1252987801/?feedId=384733&utm_source=LinkedInJobPostings) | Sep 30 |
 | Wealthsimple | Intern, Software Development | Toronto, ON | Closed🔒 | Sep 29 |
 | Ciena | Software Engineer Co-op | Ottawa, ON | Closed🔒 | Sep 29 |
 | ↳ | Development Engineer – Security Engineering Intern/Co-op | Ottawa, ON | Closed🔒 | Sep 26 |
