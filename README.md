@@ -94,14 +94,14 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Software Engineer Intern – Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996) | Sep 24 |
 | Kinaxis | Co-op/Intern Developer – Clients – Front End Technologies | Ottawa, ON | Closed🔒 | Sep 24 |
 | Ciena | Routing/IP Software Developer Intern – Packet Control Plane – Routing and MPLS Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--Winter-2026-_R029036-1) | Sep 24 |
-| Hitachi | Network Design Specialist Intern – Data Communications | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Network-Design-Specialist-Intern_R1010582) | Sep 24 |
+| Hitachi | Network Design Specialist Intern – Data Communications | Toronto, ON | Closed🔒 | Sep 24 |
 | CAE | Junior Software Developer Intern (C-DS-900) | Ottawa, ON | Closed🔒 | Sep 24 |
 | CIBC | IT Project Coordinator Co-op – Technology, Infrastructure, and Innovation | Toronto, ON | Closed🔒 | Sep 23 |
 | Intuit | Software Developer Intern/Co-op – Multiple Teams | Toronto, ON | Closed🔒 | Sep 23 |
 | Snowflake | Software Engineer Intern – Multiple Teams | Toronto, ON | Closed🔒 | Sep 23 |
 | Geotab | Software Development Intern – Multiple Teams | Burnaby, BC | Closed🔒 | Sep 23 |
 | Lyft | Software Engineer Intern – Test Automation | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8168731002?gh_jid=8168731002) | Sep 22 |
-| Magnet Forensics | Software Developer Intern/Co-op – Software Development | Ottawa, ON / Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/d98221e9-413a-4b74-a95b-8cd89e8e4956/apply) | Sep 22 |
+| Magnet Forensics | Software Developer Intern/Co-op – Software Development | Ottawa, ON / Kitchener, ON | Closed🔒 | Sep 22 |
 | IKO | Information Security Analyst Intern/Co-op – Information Security | Mississauga, ON | Closed🔒 | Sep 22 |
 | Rocket Lab USA | Software Intern – Summer 2026 | Toronto, ON | Closed🔒 | Sep 22 |
 | CIBC | Application/Software Developer Co-op | Toronto, ON | Closed🔒 | Sep 22 |
@@ -143,28 +143,28 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Varian | Product Engineering Assistant (Co-op) | Canada | Closed🔒 | Sep 12 |
 | Citco | Computer Systems Developer Intern – Middle Office | Halifax Regional Municipality, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7823) | Sep 12 |
 | HPE | Cloud Developer Intern | Montreal, QC | Closed🔒 | Sep 12 |
-| Wind River | Engineering Intern (18 roles)     | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oBFhxfwO) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oqFhxfwD) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/ozGhxfwN) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/ovGhxfwJ) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/o6Ghxfwk) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/ohFhxfwu) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oGFhxfwT) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/ojEhxfwv) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/o8Ehxfwk) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/omEhxfwy) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oKEhxfwW) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oKFhxfwX) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/omFhxfwz) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/o0Ehxfwc) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oXEhxfw9) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oGGhxfwU) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oKGhxfwY) | Sep 10 |
-| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.jobvite.com/windriver/job/oTGhxfw7) | Sep 10 |
+| Wind River | Engineering Intern (18 roles)     | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
+| ↳          | Engineering Intern                | Kanata, Ottawa, ON  | Closed🔒 | Sep 10 |
 | Ericsson | Software Developer Co-Op | Montreal, QC | Closed🔒 | Sep 10 |
 | ↳ | Software Developer Co-Op (5G) | Ottawa, ON | Closed🔒 | Sep 10 |
 | Autodesk | Intern – Software Developer | Remote in Canada | Closed🔒 | Sep 10 |
-| Atlassian | Software Engineer Intern | British Columbia | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://campus-globalcareers-atlassian.icims.com/jobs/21019/software-engineer-intern%2c-2026-summer-canada/job) | Sep 10 |
+| Atlassian | Software Engineer Intern | British Columbia | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://campus-globalcareers-atlassian.icims.com/jobs/21019/software-engineer-intern%2c-2026-summer-canada/job?mobile=false&width=1217&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | Sep 10 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | Sep 09 |
 | Intact | Data Analyst Intern | Montreal, QC / Toronto, ON / Longueuil, QC | Closed🔒 | Sep 08 |
 | Arc'teryx Equipment | Software Engineer Co-op Student | Vancouver, BC | Closed🔒 | Sep 08 |
