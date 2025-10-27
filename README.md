@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Electronic Arts | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210906) | Oct 24 |
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635813986&domain=zebra.com&sort_by=relevance&job_index=0&src=srm_linkedin_jb) | Oct 24 |
 | ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635828706&domain=zebra.com&sort_by=relevance&job_index=2&src=srm_linkedin_jb) | Oct 24 |
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
