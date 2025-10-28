@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Coveo | Software Developer Intern, Winter 2026 (Index Infrastructure) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.coveo.com/en/company/careers/open-positions/research-and-development/software-developer-intern-winter-2026-index-infrastructure/8192959002?gh_jid=8192959002&gh_src=6vg12n062us) | Oct 27 |
 | Amazon | Software Development Engineer Internship – Summer 2026 | Vancouver, BC - Toronto, ON - Ottawa, ON - Calgary, AB - Victoria, BC - Winnipeg, MB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada) | Oct 27 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Closed🔒 | Oct 24 |
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635813986&domain=zebra.com&sort_by=relevance&job_index=0&src=srm_linkedin_jb) | Oct 24 |
