@@ -30,6 +30,9 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Dialpad | Software Engineer Co-op, Front End | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8230856002) | Oct 29 |
+| ↳ | Co-op Software Engineer, Fullstack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226208002) | Oct 29 |
+| ↳ | Co-op Software Engineer, Backend | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226621002) | Oct 29 |
 | Microsoft | Stagiaire Technicien de Centre de Données / Datacenter Technician Intern | Quebec City, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/us/en/job/1902545/Stagiaire-Technicien-de-Centre-de-Donn-es-Datacenter-Technician-Intern?jobsource=linkedin&mode=apply&iis=LinkedIn) | Oct 28 |
 | ↳ | Data Center Technician Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/us/en/job/1903780/Data-Center-Technician-Intern?jobsource=linkedin&mode=apply&iis=LinkedIn) | Oct 28 |
 | Coveo | Software Developer Intern, Winter 2026 (Index Infrastructure) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.coveo.com/en/company/careers/open-positions/research-and-development/software-developer-intern-winter-2026-index-infrastructure/8192959002?gh_jid=8192959002&gh_src=6vg12n062us) | Oct 27 |
