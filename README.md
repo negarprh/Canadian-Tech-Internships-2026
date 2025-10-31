@@ -30,6 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 31 |
+| ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2) | Oct 31 |
 | Dialpad | Software Engineer Co-op, Front End | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8230856002) | Oct 29 |
 | ↳ | Co-op Software Engineer, Fullstack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226208002) | Oct 29 |
 | ↳ | Co-op Software Engineer, Backend | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226621002) | Oct 29 |
@@ -187,9 +189,9 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Software Development Intern – Last Mile | Montreal, QC | Closed🔒 | Sep 07 |
 | Squarepoint Capital | Intern Software Developer | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/embed/job_app?token=7231006) | Sep 05 |
 | Varian | Software Developer Co-op | Winnipeg, MB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YWG-BW/Software-Developer-Co-op_R-23789) | Sep 05 |
-| Lyft | Software Engineer Intern – Mobile Android (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8131695002?gh_jid=8131695002) | Sep 05 |
-| ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://app.careerpuck.com/job-board/lyft/job/8128890002?gh_jid=8128890002) | Sep 05 |
-| Microsoft | Software Engineer: Internship Opportunities | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/global/en/job/1871855) | Sep 5 |
+| Lyft | Software Engineer Intern – Mobile Android (Summer 2026) | Toronto, ON | Closed🔒 | Sep 05 |
+| ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON | Closed🔒 | Sep 05 |
+| Microsoft | Software Engineer: Internship Opportunities | Vancouver, BC | Closed🔒 | Sep 5 |
 | Epic Games | Ecommerce Programmer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5641341004?gh_jid=5641341004&gh_src=32b5d0474us) | Sep 04 |
 | Block | Software Engineer Intern | Toronto, ON | Closed🔒 | Sep 03 |
 | TD | Software Engineer Intern/Co-op | Toronto, ON | Closed🔒 | Sep 02 |
