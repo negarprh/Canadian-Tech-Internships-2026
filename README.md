@@ -30,7 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 31 |
+| Siemens | Software Developer Intern (Fullstack) - Co-op - May 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/481251) | Oct 27 |
+| Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 27 |
 | ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2) | Oct 31 |
 | Dialpad | Software Engineer Co-op, Front End | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8230856002) | Oct 29 |
 | ↳ | Co-op Software Engineer, Fullstack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226208002) | Oct 29 |
