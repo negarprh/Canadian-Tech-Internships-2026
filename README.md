@@ -57,8 +57,6 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Geotab | Software Developer Intern – Optimization Integration | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/4872822008) | Oct 14 |
 | Magna | Software Engineering Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00214954) | Oct 14 |
 | MongoDB | 2026 – Software Engineering Intern – Toronto | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.mongodb.com/careers/jobs/7239049) | Oct 14 |
-| Canadian Space Agency | Internship - Generative AI for Systems Engineering | Longueuil, QC | Closed🔒 | Oct 14 |
-| ↳ | Internship - Natural Language Interface for Earth Observation Analytics | Longueuil, QC | Closed🔒 | Oct 14 |
 | Mercury | Full-stack Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Backend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Frontend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
