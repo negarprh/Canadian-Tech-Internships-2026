@@ -30,8 +30,9 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Siemens | Software Developer Intern (Fullstack) - Co-op - May 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.siemens.com/en_US/externaljobs/JobDetail/481251) | Oct 27 |
 | Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 27 |
+| SOVRA | Intern, Fullstack Developer – Winter 2026 | Longueuil, QC / Québec / Ontario / Remote | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f50ba621-f524-46f7-99d0-019fe5ebaca6&ccId=19000101_000001&type=MP&lang=en_CA&selectedMenuKey=CurrentOpenings&jobId=539023&source=LI) | Oct 31 |
+| Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 31 |
 | ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2) | Oct 31 |
 | Dialpad | Software Engineer Co-op, Front End | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8230856002) | Oct 29 |
 | ↳ | Co-op Software Engineer, Fullstack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/dialpad/jobs/8226208002) | Oct 29 |
@@ -58,8 +59,6 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Geotab | Software Developer Intern – Optimization Integration | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/4872822008) | Oct 14 |
 | Magna | Software Engineering Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00214954) | Oct 14 |
 | MongoDB | 2026 – Software Engineering Intern – Toronto | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.mongodb.com/careers/jobs/7239049) | Oct 14 |
-| Canadian Space Agency | Internship - Generative AI for Systems Engineering | Longueuil, QC | Closed🔒 | Oct 14 |
-| ↳ | Internship - Natural Language Interface for Earth Observation Analytics | Longueuil, QC | Closed🔒 | Oct 14 |
 | Mercury | Full-stack Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Backend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Frontend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
