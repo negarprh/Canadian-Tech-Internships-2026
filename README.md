@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 27 |
 | SOVRA | Intern, Fullstack Developer – Winter 2026 | Longueuil, QC / Québec / Ontario / Remote | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=f50ba621-f524-46f7-99d0-019fe5ebaca6&ccId=19000101_000001&type=MP&lang=en_CA&selectedMenuKey=CurrentOpenings&jobId=539023&source=LI) | Oct 31 |
 | Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/ca4d6435-16e1-48c6-b854-543be5e456fc/) | Oct 31 |
 | ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2) | Oct 31 |
