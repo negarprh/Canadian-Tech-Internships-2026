@@ -30,7 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Interac | Product Specialist Intern | Toronto, ON | Winter 2026 | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989) | 4 Nov |
+| Interac | Product Specialist Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989) | Nov 4 |
 | Ericsson | Stagiaire Développeur Agentique | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ericsson.com/careers/job/563121767223022) | Nov 3 |
 | Square Point  | Intern Software Developer - Winter 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.squarepoint-capital.com/open-opportunities?id=6201998) | Nov 2 |
 | SOVRA | Intern, Fullstack Developer – Winter 2026 | Longueuil, QC / Québec / Ontario / Remote | Closed🔒 | Oct 31 |
