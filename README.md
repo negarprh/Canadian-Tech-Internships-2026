@@ -31,6 +31,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
 | Interac | Product Specialist Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989) | Nov 4 |
+| Dayforce | Software Developer Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87290) | Nov 3 |
+| ↳ | Product & AI Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87329) | Nov 3 |
 | Ericsson | Stagiaire Développeur Agentique | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ericsson.com/careers/job/563121767223022) | Nov 3 |
 | Square Point  | Intern Software Developer - Winter 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.squarepoint-capital.com/open-opportunities?id=6201998) | Nov 2 |
 | SOVRA | Intern, Fullstack Developer – Winter 2026 | Longueuil, QC / Québec / Ontario / Remote | Closed🔒 | Oct 31 |
@@ -55,6 +57,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
 | BDC | Student IT | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/STUDENT-IT_R-6965) | Oct 23 |
 | Qualcomm | GPU Compiler Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446715134609) | Oct 22 |
+| Dayforce | Cybersecurity Product Manager Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/89018) | Oct 21 |
 | Ciena | Software Design Intern – Winter 2026 | Ottawa, ON | Closed🔒 | Oct 21 |
 | OpenTable | Sofrware Engineer Internship | Toronto, ON | Closed🔒 | Oct 20 |
 | ↳ | Data Engineer Internship | Toronto, ON | Closed🔒 | Oct 20 |
