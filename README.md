@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| SAP | Agile Test Developer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1264704101/) | 4 Nov |
 | Autodesk | Intern - Software Developer | Montreal, QC, Canada (Remote in Canada) | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Software-Developer_25WD92310) | 4 Nov |
 | Interac | Product Specialist Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989) | Nov 4 |
 | RBC | Developer, RBC Amplify 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000147260/Developer-RBC-Amplify-2026-Vancouver) | 3 Nov |
@@ -61,13 +62,18 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635828706&domain=zebra.com&sort_by=relevance&job_index=2&src=srm_linkedin_jb) | Oct 24 |
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
 | BDC | Student IT | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/STUDENT-IT_R-6965) | Oct 23 |
+| SAP | Cloud ERP Solution Adoption Data Analyst Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401/) | Oct 23 |
+| ↳  | Agile Test Developer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/) | Oct 22 |
 | Qualcomm | GPU Compiler Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446715134609) | Oct 22 |
 | Dayforce | Cybersecurity Product Manager Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/89018) | Oct 21 |
 | Ciena | Software Design Intern – Winter 2026 | Ottawa, ON | Closed🔒 | Oct 21 |
+| SAP | Cloud Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-Engineer-Vancouver-Brit-V6B-1A9/1260144901/) | Oct 20 |
 | OpenTable | Sofrware Engineer Internship | Toronto, ON | Closed🔒 | Oct 20 |
 | ↳ | Data Engineer Internship | Toronto, ON | Closed🔒 | Oct 20 |
 | Autodesk | Intern – Software Developer | Toronto, ON | Closed🔒 | Oct 20 |
+| SAP | AI Software Developer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Concur-Travel-AI-Software-Developer-Vancouver-Brit-V6B-1A9/1249517101/) | Oct 18 |
 | The Athletic | Engineering Student Intern, Summer 2026| Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/theathletic/e55c3738-517a-4033-843d-0c572f63145e) | Oct 17 |
+| SAP | SAP Analytics Cloud Security Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-SAP-Analytics-Cloud-Security-Engineer-Vancouver-Brit-V6B-1A9/1259254401) | Oct 16 |
 | Microsoft | Research Intern - MSR Montreal / ML Team | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.careers.microsoft.com/us/en/job/1898358/Research-Intern-MSR-Montreal-ML-Team) | Oct 16 |
 | Ciena | Automation and Tools Software Developer Co-op – Winter 2026 | Ottawa, ON | Closed🔒 | Oct 16 |
 | Journal Technologies | Junior Software Developer Co-op | Victoria, BC | Closed🔒 | Oct 16 |
