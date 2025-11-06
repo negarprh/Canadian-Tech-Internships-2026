@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Autodesk | Intern - Software Developer | Montreal, QC, Canada (Remote in Canada) | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Software-Developer_25WD92310) | 4 Nov |
 | Interac | Product Specialist Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Specialist-Intern_REQ-1989) | Nov 4 |
 | Dayforce | Software Developer Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87290) | Nov 3 |
 | ↳ | Product & AI Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87329) | Nov 3 |
