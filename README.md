@@ -30,7 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
-| Interac | Software Developer Intern – E-Transfer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Developer-Intern--e-Transfer-_REQ-2005) | Nov 6 |
+| Altera Corporation | Software Engineer - Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R01499) | Nov 7 |
+| Interac | Software Developer Intern - E-Transfer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Developer-Intern--e-Transfer-_REQ-2005) | Nov 6 |
 | Valsoft Corporation | Full Stack Development Intern – Agentic AI & Cloud-Native | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/valsoft-corp/j/CC1ECE72BE/) | Nov 5 |
 | ↳ | Full Stack Developer Intern – AI Engagement Portal | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/valsoft-corp/j/6F0FDC6043/) | Nov 5 |
 | Electronic Arts | Software Engineering Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/210884) | Nov 5 |
@@ -70,7 +71,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635813986&domain=zebra.com&sort_by=relevance&job_index=0&src=srm_linkedin_jb) | Oct 24 |
 | ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635828706&domain=zebra.com&sort_by=relevance&job_index=2&src=srm_linkedin_jb) | Oct 24 |
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
-| BDC | Student IT | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdc.wd10.myworkdayjobs.com/en-US/BDC_Careers/job/Montreal/STUDENT-IT_R-6965) | Oct 23 |
+| BDC | Student IT | Montreal, QC | Closed🔒 | Oct 23 |
 | SAP | Cloud ERP Solution Adoption Data Analyst Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401/) | Oct 23 |
 | ↳  | Agile Test Developer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Agile-Test-Developer-Vancouver-Brit-V6B-1A9/1240433601/) | Oct 22 |
 | Qualcomm | GPU Compiler Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446715134609) | Oct 22 |
@@ -88,7 +89,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Journal Technologies | Junior Software Developer Co-op | Victoria, BC | Closed🔒 | Oct 16 |
 | Autodesk | Intern – Software Developer | Toronto, ON | Closed🔒  | Oct 15 |
 | Canada Life | Software Developer (Student Position) | Toronto, ON / Winnipeg, MB | Closed🔒 | Oct 15 |
-| Geotab | Software Developer Intern – Optimization Integration | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/4872822008) | Oct 14 |
+| Geotab | Software Developer Intern – Optimization Integration | Canada | Closed🔒 | Oct 14 |
 | Magna | Software Engineering Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00214954) | Oct 14 |
 | MongoDB | 2026 – Software Engineering Intern – Toronto | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.mongodb.com/careers/jobs/7239049) | Oct 14 |
 | Mercury | Full-stack Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
@@ -111,7 +112,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳                 | Developer Intern - Enterprise Ready - Winter 2026 | Remote in Canada | Closed🔒  | Oct 5       |
 | ↳                 | Developer Intern - App Launcher - Winter 2026 | Remote in Canada | Closed🔒 | Oct 5       |
 | Electronic Arts | Online Software Engineer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Online-Software-Engineer-Co-op/210922) | Oct 4 |
-| IKO | BI Developer Co-Op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://iko.wd3.myworkdayjobs.com/iko_careers/job/Mississauga-ON/BI-Developer-Co-Op_REQ-11719) | Oct 3 |
+| IKO | BI Developer Co-Op | Mississauga, ON | Closed🔒 | Oct 3 |
 | Altera Corporation | Software Engineer – Intern | Toronto, ON | Closed🔒 | Oct 3 |
 | Amazon | Software Development Engineer Internship – Winter 2026 | Vancouver, BC / Toronto, ON / Winnipeg, MB / Victoria, BC / Ottawa, ON / Calgary, AB | Closed🔒 | Oct 3 |
 | Electronic Arts | C++ Software Engineer Intern/Co-op – UI Tech Stack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/VINU-C-Software-Engineer-Co-op/210935) | Oct 2 |
