@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| TD | Data Analytics & Insights Intern/Co-op (Winter 2026) | Montréal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--WINTER-2026-_R_1435889) | Nov 14 |
 | SAP | Stagiaire SAP iXp - Développeur Full Stack / SAP iXp Intern - Full Stack Developer | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-Stagiaire-SAP-iXp-D%C3%A9veloppeur-Full-Stack-Qu%C3%A9b-H3B-0B3/1267597601/) | Nov 14 |
 | Hootsuite | Co-Op/Intern – Software Development – Winter 2026 | Toronto, ON / Calgary, AB / Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.hootsuite.com/job/?gh_jid=7387060) | Nov 13 |
 | Rivian | Software Engineering Intern – Connected Systems – Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/27486?) | Nov 13 |
