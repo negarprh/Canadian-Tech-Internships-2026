@@ -54,10 +54,10 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | NimbleRx | Software Engineer Intern – Summer Session – Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/nimblerx/0e03bf8c-ef8d-4bcf-8395-9f1782af7cb7) | Nov 4 |
 | Autodesk | Intern - Software Developer | Montreal, QC, Canada (Remote in Canada) | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Ontario-CAN---Remote/Intern--Software-Developer_25WD92310) | Nov 4 |
 | Interac | Product Specialist Intern | Toronto, ON | Closed🔒 | Nov 4 |
-| RBC | Developer, RBC Amplify 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000147260/Developer-RBC-Amplify-2026-Vancouver) | Nov 3 |
-| ↳ | Developer, RBC Amplify 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000147257/Developer-RBC-Amplify-2026-Toronto) | Nov 3 |
-| ↳ | Developer, RBC Amplify 2026 | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000147263/Developer-RBC-Amplify-2026-Calgary) | Nov 3 |
-| ↳ | Developer, RBC Amplify 2026 | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/job/R-0000147296/Developer-RBC-Amplify-2026-Halifax) | Nov 3 |
+| RBC | Developer, RBC Amplify 2026 | Vancouver, BC | Closed🔒 | Nov 3 |
+| ↳ | Developer, RBC Amplify 2026 | Toronto, ON | Closed🔒 | Nov 3 |
+| ↳ | Developer, RBC Amplify 2026 | Calgary, AB | Closed🔒 | Nov 3 |
+| ↳ | Developer, RBC Amplify 2026 | Halifax, NS | Closed🔒 | Nov 3 |
 | Dayforce | Software Developer Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87290) | Nov 3 |
 | ↳ | Product & AI Intern - Winter 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.dayforcehcm.com/en-US/mydayforce/alljobs/jobs/87329) | Nov 3 |
 | Ericsson | Stagiaire Développeur Agentique | Montréal, QC | Closed🔒 | Nov 3 |
