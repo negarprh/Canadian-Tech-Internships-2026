@@ -48,8 +48,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Transcarent | Full Stack Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/transcarent/jobs/5702344004) | Nov 7 |
 | Altera Corporation | Software Engineer - Intern | Toronto, ON | Closed🔒 | Nov 7 |
 | Interac | Software Developer Intern - E-Transfer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Developer-Intern--e-Transfer-_REQ-2005) | Nov 6 |
-| Valsoft Corporation | Full Stack Development Intern – Agentic AI & Cloud-Native | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/valsoft-corp/j/CC1ECE72BE/) | Nov 5 |
-| ↳ | Full Stack Developer Intern – AI Engagement Portal | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/valsoft-corp/j/6F0FDC6043/) | Nov 5 |
+| Valsoft Corporation | Full Stack Development Intern – Agentic AI & Cloud-Native | Remote in Canada | Closed🔒 | Nov 5 |
+| ↳ | Full Stack Developer Intern – AI Engagement Portal | Remote in Canada | Closed🔒 | Nov 5 |
 | Electronic Arts | Software Engineering Intern | Vancouver, BC | Closed🔒 | Nov 5 |
 | Rivian | Software Engineering Intern – Applications – Infotainment & Mobile | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/27405) | Nov 5 |
 | Amazon | Software Dev Engineer Intern – AI – Amazon Devices & Services Canada | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3121430/software-dev-engineer-intern-ai-summer-2026-amazon-devices-services-canada) | Nov 5 |
