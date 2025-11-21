@@ -85,7 +85,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Siemens | Software Developer Intern (Fullstack) - Co-op | Toronto, ON | Closed🔒| Oct 27 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Closed🔒 | Oct 24 |
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635813986&domain=zebra.com&sort_by=relevance&job_index=0&src=srm_linkedin_jb) | Oct 24 |
-| ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job?domain=zebra.com&pid=343635828706&domain=zebra.com&sort_by=relevance&job_index=2&src=srm_linkedin_jb) | Oct 24 |
+| ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | Closed🔒 | Oct 24 |
 | Epic Games | Gameplay Systems Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/5686204004) | Oct 23 |
 | BDC | Student IT | Montreal, QC | Closed🔒 | Oct 23 |
 | SAP | Cloud ERP Solution Adoption Data Analyst Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Vancouver-SAP-iXp-Intern-Cloud-ERP-Solution-Adoption-Data-Analyst-Brit-V6B-1A9/1229635401/) | Oct 23 |
@@ -166,8 +166,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Rocket Lab USA | Software Intern – Summer 2026 | Toronto, ON | Closed🔒 | Sep 22 |
 | Robinhood | Software Developer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7235228?gh_src=NaN&gh_jid=7235228) | Sep 22 |
 | ↳ | Software Developer Intern, Web | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7238998?gh_src=NaN&gh_jid=7238998) | Sep 22 |
-| Desjardins | Data Internship – Winter 2026 | Montreal, QC / Lévis, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins-workplace.relevance.studio/en/job-detail/1-87a658c546e3100431af94c082840000-data-internship-winter-2026-montreal-levis) | Sep 20 |
-| ↳ | Internship – IT Sector, Winter 2026 | Montreal, QC / Lévis, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins-workplace.relevance.studio/en/job-detail/1-6bfbe9277ef3100879e75215ed940001-internship-it-sector-winter-2026-montreal-levis) | Sep 20 |
+| Desjardins | Data Internship – Winter 2026 | Montreal, QC / Lévis, QC | Closed🔒 | Sep 20 |
+| ↳ | Internship – IT Sector, Winter 2026 | Montreal, QC / Lévis, QC | Closed🔒 | Sep 20 |
 | Kinaxis | Co-op/Intern Associate Software Developer | Ottawa, ON | Closed🔒 | Sep 19 |
 | Pason | Software Developer Intern (Datahub) | Calgary, AB | Closed🔒 | Sep 18 |
 | ↳ | Software Developer Intern (Quality Assurance) | Calgary, AB | Closed🔒 | Sep 18 |
