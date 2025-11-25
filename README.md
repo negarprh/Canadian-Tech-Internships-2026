@@ -138,10 +138,10 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Software Engineer Intern – NHL | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op-NHL/210839) | Oct 2 |
 | ↳ | Software Engineer Intern/Co-op – Client Software Engineering | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-op/210900) | Oct 2 |
 | BDC | Winter 2026 Student – IT | Montreal, QC | Closed🔒 | Oct 2 |
-| Tenstorrent | IT Systems Administrator Intern – IT Infrastructure | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4527157007) | Oct 2 |
+| Tenstorrent | IT Systems Administrator Intern – IT Infrastructure | Toronto, ON | Closed🔒 | Oct 2 |
 | Motorola | Software Developer – Front-end Co-Op | Vancouver, BC | Closed🔒  | Oct 1 |
 | Arctic Wolf | Network and Technology Operations Analyst Intern/Co-op – Operations Center | Kitchener, ON | Closed🔒 | Sep 30 |
-| Bombardier | Intern, Information Systems (Winter 2026) | Dorval, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.bombardier.com/job/Dorval-Intern%2C-Information-systems-%28Winter-2026%29-Qu%C3%A9b-H4S-1Y9/1252987801/?feedId=384733&utm_source=LinkedInJobPostings) | Sep 30 |
+| Bombardier | Intern, Information Systems (Winter 2026) | Dorval, QC | Closed🔒 | Sep 30 |
 | Wealthsimple | Intern, Software Development | Toronto, ON | Closed🔒 | Sep 29 |
 | Ciena | Software Engineer Co-op | Ottawa, ON | Closed🔒 | Sep 29 |
 | ↳ | Development Engineer – Security Engineering Intern/Co-op | Ottawa, ON | Closed🔒 | Sep 26 |
@@ -244,7 +244,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Lyft | Software Engineer Intern – Mobile Android (Summer 2026) | Toronto, ON | Closed🔒 | Sep 05 |
 | ↳   | Software Engineer Intern – Backend (Summer 2026) | Toronto, ON | Closed🔒 | Sep 05 |
 | Microsoft | Software Engineer: Internship Opportunities | Vancouver, BC | Closed🔒 | Sep 5 |
-| Epic Games | Ecommerce Programmer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5641341004?gh_jid=5641341004&gh_src=32b5d0474us) | Sep 04 |
+| Epic Games | Ecommerce Programmer Intern | Vancouver, BC | Closed🔒 | Sep 04 |
 | Block | Software Engineer Intern | Toronto, ON | Closed🔒 | Sep 03 |
 | TD | Software Engineer Intern/Co-op | Toronto, ON | Closed🔒 | Sep 02 |
 | ↳  | Data Analytics & Insights Intern/Co-op | Montréal, QC / Toronto, ON | Closed🔒 | Sep 02 |
@@ -252,7 +252,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Roblox | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.roblox.com/jobs/7206219) | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB | Closed🔒 | Aug 31 |
 | Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
-| ↳     | Process Software Automation Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/en-US/lite/job/Process-Software-Automation-Co-op-Intern_20251390) | Aug 31 |
+| ↳     | Process Software Automation Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | ↳     | Calibration and Test Software Engineer Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | Corpay | Software Developer (Co-op) | Vancouver, BC | Closed🔒 | Aug 27 |
 | Google | Software Developer Intern, MS (Summer 2026) | Waterloo, ON / Montréal, QC / Toronto, ON | Closed🔒 | Aug 25 |
