@@ -31,6 +31,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
 | SAP | SAP iXp Intern - Full Stack Developer, Cloud Development | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Full-Stack-Developer%2C-Cloud-Development-Queb-H3B-0B3/1270004401/) | Nov 21 |
+| Ciena | Development Engine, Security Engineering Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Development-Engine---Security-Engineering-Co-Op--Winter-2026-_R029505-1) | Nov 20 |
 | Altera Corporation | Software Engineer - Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/Software-Engineer----Intern_R01489) |Nov 20 |
 | Motorola | Software Engineer Co-op | Gatineau, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Software-Engineer-Co-op_R57325) | Nov 18 |
 | Thomson Reuters | Software Engineer AI Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/CAN-Toronto-19-Duncan-Street/Software-Engineer-AI-Intern_JREQ194965) | Nov 18 |
