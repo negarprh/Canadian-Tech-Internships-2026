@@ -153,7 +153,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Autodesk | Intern – Data Security | Toronto, ON | Closed🔒 | Sep 25 |
 | Trend Micro | Software Developer Intern/Co-op – Cloud One R&D | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://trendmicro.wd3.myworkdayjobs.com/External/job/Ottawa/Software-Developer-Co-Op---Winter-2026_R0008259) | Sep 25 |
 | Pinterest | Software Engineer Intern – Winter 2026 | Toronto, ON | Closed🔒 | Sep 24 |
-| ↳ | Software Engineer Intern – Summer 2026 | Toronto, ON |  [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7257996/software-engineer-intern-summer-term-2026-toronto/?gh_jid=7257996)  | Sep 24 |
+| ↳ | Software Engineer Intern – Summer 2026 | Toronto, ON |  Closed🔒  | Sep 24 |
 | Kinaxis | Co-op/Intern Developer – Clients – Front End Technologies | Ottawa, ON | Closed🔒 | Sep 24 |
 | Ciena | Routing/IP Software Developer Intern – Packet Control Plane – Routing and MPLS Technologies | Ottawa, ON | Closed🔒 | Sep 24 |
 | Hitachi | Network Design Specialist Intern – Data Communications | Toronto, ON | Closed🔒 | Sep 24 |
