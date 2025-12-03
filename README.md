@@ -30,6 +30,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Standard Aero | Computer Engineering Intern - TFE Service Team | Winnipeg, MB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cva.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/8023) | Dec 1 |
 | Ticketmaster | Software Developer Intern | Toronto, ON / Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://livenation.wd503.myworkdayjobs.com/en-US/TMExternalSite/job/Software-Developer-Internship_JR-85338) | Nov 26 |
 | Robinhood | Software Developer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/robinhood/jobs/7235228?t=gh_src%3D&gh_jid=7235228&gh_src=ed898e781us&source=LinkedIn) | Nov 26 |
 | SAP | SAP iXp Intern - Full Stack Developer, Cloud Development | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Full-Stack-Developer%2C-Cloud-Development-Queb-H3B-0B3/1270004401/) | Nov 21 |
