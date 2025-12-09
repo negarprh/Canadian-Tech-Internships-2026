@@ -51,7 +51,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Thomson Reuters | Software Engineer AI Intern | Toronto, ON | Closed🔒 | Nov 18 |
 | Deep Genomics | Software Engineer – Full Stack | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/deepgenomics/977896a0-afd8-4c6b-9f54-338ed03763d8) | Nov 18 |
 | Electronic Arts | Systems Software Engineer Intern/Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903) | Nov 15 |
-| Achievers | Software Engineering Co-op | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/achievers/8d4afb42-3ea1-4f88-acc7-a54168547086) | Nov 14 |
+| Achievers | Software Engineering Co-op | Toronto, ON, Canada | Closed🔒 | Nov 14 |
 | Volaris Group | Software Engineer Intern | Mississauga, ON, Canada / Remote in Canada | Closed🔒 | Nov 14 |
 | TD | Data Analytics & Insights Intern/Co-op (Winter 2026) | Montréal, QC / Toronto, ON | Closed🔒 | Nov 14 |
 | SAP | Stagiaire SAP iXp - Développeur Full Stack / SAP iXp Intern - Full Stack Developer | Montréal, QC | Closed🔒 | Nov 14 |
