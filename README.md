@@ -63,7 +63,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Hootsuite | Co-Op/Intern – Software Development – Winter 2026 | Toronto, ON / Calgary, AB / Vancouver, BC | Closed🔒 | Nov 13 |
 | Rivian | Software Engineering Intern – Connected Systems – Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/27486?) | Nov 13 |
 | ↳ | Software Automation Engineering Intern – Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/27482) | Nov 13 |
-| Tenstorrent | Intern Scaleout Software – Fabric | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4972015007) | Nov 12 |
+| Tenstorrent | Intern Scaleout Software – Fabric | Toronto, ON | Closed🔒 | Nov 12 |
 | Flywheel Digital | Software Engineer | Toronto, ON | Closed🔒 | Nov 12 |
 | Manulife Financial | Summer Intern/Co-op 2026 – Software Engineering | Toronto, ON | Closed🔒 | Nov 11 |
 | Activision-Blizzard | 2026 Canada Summer Internship - Tech Design - Sledgehammer Games | Toronto, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://activision.wd1.myworkdayjobs.com/External/job/Work-Remotely---USA/XMLNAME-2026-Canada-Summer-Internship---Tech-Design---Sledgehammer-Games_R026335) | Nov 11 |
