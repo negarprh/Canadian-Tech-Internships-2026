@@ -35,8 +35,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | SAP iXp Intern - Software Developer | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Software-Developer-Queb-H3B-0B3/1274880901/) | Dec 9 |
 | Magna | Software Engineering Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00214955) | Dec 9 |
 | Nokia | Software Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28085) | Dec 9 |
-| Motorola Solutions | Software Development 2026 Co-Op | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2026-Co-Op_R60088) | Dec 8 |
-| ↳ | Software Development 2026 Co-Op | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/ONT39/Software-Development-2026-Co-Op_R60087) | Dec 8 |
+| Motorola Solutions | Software Development 2026 Co-Op | Canada | Closed🔒 | Dec 8 |
+| ↳ | Software Development 2026 Co-Op | Canada | Closed🔒 | Dec 8 |
 | Veolia | Application Engineering Intern | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000097610715) | Dec 8 |
 | Behaviour Interactive | Technical Designer – Internship Winter 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/d29c9ae9-d63f-444c-bb5d-d34ea0734288) | Dec 5 |
 | Zebra Technologies | Intern – Software Developer – Corporate and Business Services | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job/343636481729) | Dec 5 |
