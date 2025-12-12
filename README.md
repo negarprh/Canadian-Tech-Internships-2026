@@ -67,7 +67,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Flywheel Digital | Software Engineer | Toronto, ON | Closed🔒 | Nov 12 |
 | Manulife Financial | Summer Intern/Co-op 2026 – Software Engineering | Toronto, ON | Closed🔒 | Nov 11 |
 | Activision-Blizzard | 2026 Canada Summer Internship - Tech Design - Sledgehammer Games | Toronto, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://activision.wd1.myworkdayjobs.com/External/job/Work-Remotely---USA/XMLNAME-2026-Canada-Summer-Internship---Tech-Design---Sledgehammer-Games_R026335) | Nov 11 |
-| Transcarent | Full Stack Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/transcarent/jobs/5702344004) | Nov 7 |
+| Transcarent | Full Stack Software Engineer Intern | Vancouver, BC | Closed🔒 | Nov 7 |
 | Altera Corporation | Software Engineer - Intern | Toronto, ON | Closed🔒 | Nov 7 |
 | Interac | Software Developer Intern - E-Transfer | Toronto, ON | Closed🔒 | Nov 6 |
 | Valsoft Corporation | Full Stack Development Intern – Agentic AI & Cloud-Native | Remote in Canada | Closed🔒 | Nov 5 |
