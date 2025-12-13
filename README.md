@@ -30,6 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| The Walt Disney Company | Production Engineering Intern | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://disney.wd5.myworkdayjobs.com/en-GB/disneycareer/job/Vancouver-BC-Canada/Production-Engineering-Intern---Summer-2026--Open-to-Canadian-Citizens---PR-only-_10138551) | Dec 12 |
+| ↳ | Studio Talent Group Intern | Vancouver, BC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://disney.wd5.myworkdayjobs.com/en-GB/disneycareer/job/Vancouver-BC-Canada/Studio-Talent-Group-Intern---Summer-2026--Open-to-Canadian-Citizens---PR-only-_10138559) | Dec 11 |
 | Amazon | Software Development Engineer Intern - Summer 2026 | Toronto, ON / Ottawa, ON / Calgary, AB / Vancouver, BC / Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada) | Dec 9 |
 | SAP | SAP iXp Intern - Associate Full Stack Developer | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Associate-Full-Stack-Developer-Queb-H3B-0B3/1274860001/) | Dec 9 |
 | ↳ | SAP iXp Intern - Software Developer | Montréal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.sap.com/job/Montreal-SAP-iXp-Intern-Software-Developer-Queb-H3B-0B3/1274880901/) | Dec 9 |
