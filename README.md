@@ -30,6 +30,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Rivian | Software Engineering Intern, Applications - Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/28275) | Dec 12 |
+| ↳ | Software Engineering Intern, Connected Systems - Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/28274) | Dec 12 |
 | The Walt Disney Company | Production Engineering Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://disney.wd5.myworkdayjobs.com/en-GB/disneycareer/job/Vancouver-BC-Canada/Production-Engineering-Intern---Summer-2026--Open-to-Canadian-Citizens---PR-only-_10138551) | Dec 12 |
 | ↳ | Studio Talent Group Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://disney.wd5.myworkdayjobs.com/en-GB/disneycareer/job/Vancouver-BC-Canada/Studio-Talent-Group-Intern---Summer-2026--Open-to-Canadian-Citizens---PR-only-_10138559) | Dec 11 |
 | Amazon | Software Development Engineer Intern - Summer 2026 | Toronto, ON / Ottawa, ON / Calgary, AB / Vancouver, BC / Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada) | Dec 9 |
