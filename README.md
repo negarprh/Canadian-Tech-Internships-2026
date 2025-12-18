@@ -52,7 +52,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Motorola Solutions | Software Development 2026 Co-Op | Canada | Closed🔒 | Dec 8 |
 | ↳ | Software Development 2026 Co-Op | Canada | Closed🔒 | Dec 8 |
 | Veolia | Application Engineering Intern | Oakville, ON | Closed🔒 | Dec 8 |
-| Behaviour Interactive | Technical Designer – Internship Winter 2026 | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/d29c9ae9-d63f-444c-bb5d-d34ea0734288) | Dec 5 |
+| Behaviour Interactive | Technical Designer – Internship Winter 2026 | Montreal, QC | Closed🔒 | Dec 5 |
 | Zebra Technologies | Intern – Software Developer – Corporate and Business Services | Montreal, QC | Closed🔒 | Dec 5 |
 | Nokia | IP Routing Customer Application Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28098) | Dec 5 |
 | NVIDIA | Software Engineering Intern – Omniverse Replicator | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Software-Engineering-Intern--Omniverse-Replicator---Summer-2026_JR2008720) | Dec 3 |
@@ -104,7 +104,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Square Point  | Intern Software Developer - Winter 2026 | Montreal, QC | Closed🔒 | Nov 2 |
 | SOVRA | Intern, Fullstack Developer – Winter 2026 | Longueuil, QC / Québec / Ontario / Remote | Closed🔒 | Oct 31 |
 | Behaviour Interactive | Data Developer – Dead by Daylight (Winter 2026) | Montreal, QC | Closed🔒 | Oct 31 |
-| ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/bhvr/01e3de60-1449-451d-b052-07af81fef3f2) | Oct 31 |
+| ↳ | Programmer – Winter 2026 | Montreal, QC / Toronto, ON | Closed🔒 | Oct 31 |
 | Global Relay| Frontend Software Developer Co-op (React.js) | Vancouver, BC | Closed🔒 | Oct 30 |
 | ↳ | Software Development Engineer in Test (SDET)- Co-op - Winter 2026 | Vancouver, BC | Closed🔒 | Oct 30 |
 | ↳ | Software Development Engineer in Test (SDET)- Co-op - Winter 2026 | Kelowna, BC | Closed🔒 | Oct 30 |
@@ -283,7 +283,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | TD | Software Engineer Intern/Co-op | Toronto, ON | Closed🔒 | Sep 02 |
 | ↳  | Data Analytics & Insights Intern/Co-op | Montréal, QC / Toronto, ON | Closed🔒 | Sep 02 |
 | Stripe | Software Engineer – Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://stripe.com/jobs/listing/software-engineer-intern/7206389) | Sep 01 |
-| Roblox | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.roblox.com/jobs/7206219) | Sep 01 |
+| Roblox | Software Engineer Intern | Vancouver, BC | Closed🔒 | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB | Closed🔒 | Aug 31 |
 | Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
 | ↳     | Process Software Automation Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
