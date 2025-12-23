@@ -82,7 +82,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Altera Corporation | Software Engineer - Intern | Toronto, ON | Closed🔒 |Nov 20 |
 | Motorola | Software Engineer Co-op | Gatineau, QC | Closed🔒 | Nov 18 |
 | Thomson Reuters | Software Engineer AI Intern | Toronto, ON | Closed🔒 | Nov 18 |
-| Deep Genomics | Software Engineer – Full Stack | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/deepgenomics/977896a0-afd8-4c6b-9f54-338ed03763d8) | Nov 18 |
+| Deep Genomics | Software Engineer – Full Stack | Toronto, ON | Closed🔒 | Nov 18 |
 | Electronic Arts | Systems Software Engineer Intern/Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Systems-Software-Engineer-Co-op/210903) | Nov 15 |
 | Achievers | Software Engineering Co-op | Toronto, ON, Canada | Closed🔒 | Nov 14 |
 | Volaris Group | Software Engineer Intern | Mississauga, ON, Canada / Remote in Canada | Closed🔒 | Nov 14 |
