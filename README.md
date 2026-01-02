@@ -19,6 +19,9 @@ Building this repository to make it easier for Canadian students to find interns
 
 Star this repo ⭐ or watch for updates, I’ll post as soon as companies open applications.
 
+![GitHub stars](https://img.shields.io/github/stars/negarprh/Canadian-Tech-Internships-2026?style=social)
+
+
 ---
 
 📌 **Note:** Internship listings are organized by their original **job posting date**, not by the date they were added here.  
