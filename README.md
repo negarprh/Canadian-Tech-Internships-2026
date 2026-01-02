@@ -1,5 +1,9 @@
 # 🍁 Canadian Tech Internships - 2026
 
+<p align="center">
+  <img src="assets/repo-preview.png" alt="Canadian Tech Internships 2026 preview" />
+</p>
+
 > 🎯 A curated list of Winter, Summer, and Fall 2026 tech internships in **Canada** for roles in **Software Engineering, Data Science, DevOps, Product, AI, and more.**
 
 This repository is built to help **Canadian students and international students studying in Canada** find verified internships more easily.
