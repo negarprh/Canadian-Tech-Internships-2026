@@ -1,4 +1,4 @@
-name: Issue to PR (add listing)
+name: Issue to PR (add internship)
 
 on:
   issues:
@@ -11,11 +11,13 @@ permissions:
 
 jobs:
   create-pr:
-    if: contains(github.event.issue.labels.*.name, 'add-listing')
+    # 🔥 CHANGE: trigger based on title, not label
+    if: startsWith(github.event.issue.title, 'Add internship:')
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Parse issue form
         id: parse
@@ -24,22 +26,35 @@ jobs:
           script: |
             const body = context.payload.issue.body;
 
-            // Issue form renders as markdown. Extract values from lines like:
-            // "### Company\nRBC"
             function getField(label) {
-              const re = new RegExp(`###\\s+${label}\\s+\\n([^#\\n][\\s\\S]*?)(\\n###|$)`, "m");
-              const m = body.match(re);
-              return m ? m[1].trim().split("\n")[0].trim() : "";
+              const re = new RegExp(
+                `###\\s+${label}\\s+\\n([^#\\n][\\s\\S]*?)(\\n###|$)`,
+                "m"
+              );
+              const match = body.match(re);
+              return match ? match[1].trim().split("\n")[0].trim() : "";
             }
 
             const company = getField("Company");
             const role = getField("Role title");
             const location = getField("Location");
             const link = getField("Application link");
-            const date = getField("Date posted \\(YYYY-MM-DD\\)");
+            const rawDate = process.env.DATE.trim();
+
+            function formatDate(input) {
+            const d = new Date(input + "T00:00:00Z");
+            if (isNaN(d)) return input;
+            return d.toLocaleString("en-US", {
+                month: "short",
+                day: "numeric"
+            });
+            }
+
+            const date = formatDate(rawDate);
+
 
             if (!company || !role || !location || !link || !date) {
-              core.setFailed("Missing required fields from issue form.");
+              core.setFailed("Missing required fields in issue form.");
               return;
             }
 
@@ -51,51 +66,64 @@ jobs:
 
       - name: Update README table
         run: |
-          node - <<'NODE'
+          node <<'NODE'
           const fs = require('fs');
 
-          const company = process.env.COMPANY;
-          const role = process.env.ROLE;
-          const location = process.env.LOCATION;
-          const link = process.env.LINK;
-          const date = process.env.DATE;
+          const company = process.env.COMPANY.trim();
+          const role = process.env.ROLE.trim();
+          let location = process.env.LOCATION.trim();
+          const link = process.env.LINK.trim();
+          const date = process.env.DATE.trim();
+
+          // Remove the word "Canada" from location (case-insensitive)
+          location = location.replace(/\bCanada\b/gi, '').replace(/\s{2,}/g,' ').trim();
+          location = location.replace(/,\s*,/g, ',').replace(/,\s*$/g,'').replace(/^\s*,\s*/g,'');
 
           const begin = "<!-- BEGIN:INTERNSHIPS_TABLE -->";
           const end = "<!-- END:INTERNSHIPS_TABLE -->";
 
           const readmePath = "README.md";
-          let md = fs.readFileSync(readmePath, "utf8");
+          let content = fs.readFileSync(readmePath, "utf8");
 
-          const start = md.indexOf(begin);
-          const finish = md.indexOf(end);
+          const start = content.indexOf(begin);
+          const finish = content.indexOf(end);
           if (start === -1 || finish === -1 || finish < start) {
-            throw new Error("README markers not found. Add BEGIN/END markers.");
+            throw new Error("README markers not found.");
           }
 
-          const before = md.slice(0, start + begin.length);
-          const after = md.slice(finish);
+          const before = content.slice(0, start + begin.length);
+          const after = content.slice(finish);
 
-          const section = md.slice(start + begin.length, finish);
+          const sectionRaw = content.slice(start + begin.length, finish);
+          const lines = sectionRaw.split('\n');
 
-          // Ensure header exists; if not, create it.
-          let lines = section.trim().split("\n").filter(Boolean);
-          const header = "| Company | Role | Location | Link | Date |";
-          const sep = "| - | - | - | - | - |";
+          // Find the last table row (line that starts with | and has at least 5 columns)
+          // We'll insert BEFORE the first blank line after the table, or at the end of section.
+          let insertAt = lines.length;
 
-          const hasHeader = lines.some(l => l.trim() === header);
-          if (!hasHeader) lines = [header, sep];
+          // If there is an empty line after the last row, insert before it.
+          for (let i = lines.length - 1; i >= 0; i--) {
+            const line = lines[i].trim();
+            if (line === "") continue;
+            // First non-empty from bottom: insert right after it
+            insertAt = i + 1;
+            break;
+          }
 
-          // Append row at end (you can sort later)
-          const row = `| ${company} | ${role} | ${location} | [Apply](${link}) | ${date} |`;
-          lines.push(row);
+          const applyBadge = `[![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](${link})`;
 
-          // Deduplicate exact rows
-          lines = Array.from(new Set(lines.map(l => l.trim())));
+          const newRow = `| ${company} | ${role} | ${location} | ${applyBadge} | ${date} |`;
 
-          const newSection = "\n" + lines.join("\n") + "\n";
+          // Prevent exact duplicate row
+          const existing = sectionRaw.split('\n').some(l => l.trim() === newRow.trim());
+          if (!existing) {
+            lines.splice(insertAt, 0, newRow);
+          }
 
-          md = `${before}${newSection}${after}`;
-          fs.writeFileSync(readmePath, md, "utf8");
+          const newSection = "\n" + lines.join("\n").trimEnd() + "\n";
+          const updated = before + newSection + after;
+
+          fs.writeFileSync(readmePath, updated, "utf8");
           NODE
         env:
           COMPANY: ${{ steps.parse.outputs.company }}
@@ -104,30 +132,25 @@ jobs:
           LINK: ${{ steps.parse.outputs.link }}
           DATE: ${{ steps.parse.outputs.date }}
 
-      - name: Create PR
+      - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:
           branch: bot/add-listing-${{ github.event.issue.number }}
-          title: "Add listing: ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
-          commit-message: "chore(listings): add ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
+          title: ${{ github.event.issue.title }}
+          commit-message: "chore(listings): add internship"
           body: |
             Closes #${{ github.event.issue.number }}
-            Added via issue form submission.
+            Added via issue form automation.
           labels: automation
           delete-branch: true
 
-      - name: Comment with PR link
+      - name: Comment on issue
         uses: actions/github-script@v7
         with:
           script: |
-            // create-pull-request outputs PR url in env var
-            const prUrl = process.env.PULL_REQUEST_URL || "";
-            const msg = prUrl
-              ? `Opened a PR: ${prUrl}`
-              : `PR created/updated on branch bot/add-listing-${context.payload.issue.number}`;
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.payload.issue.number,
-              body: msg
+              body: "✅ A pull request has been opened automatically for this listing."
             });
