@@ -22,7 +22,8 @@ Building this repository to make it easier for Canadian students to find interns
 
 Star this repo ⭐ or watch for updates, I’ll post as soon as companies open applications.
 
-![GitHub stars](https://img.shields.io/github/stars/negarprh/Canadian-Tech-Internships-2026?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/negarprh/Canadian-Tech-Internships-2026?style=social)
+![Repo Views](https://komarev.com/ghpvc/?username=negarprh&repo=Canadian-Tech-Internships-2026&label=Views&color=grey&style=flat)
 
 
 ---
