@@ -1,0 +1,52 @@
+name: Add internship
+description: Submit a new internship listing (bot will open a PR)
+title: "Add internship: <Company> — <Role>"
+labels: ["add-listing"]
+body:
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: "RBC"
+    validations:
+      required: true
+
+  - type: input
+    id: role
+    attributes:
+      label: Role title
+      placeholder: "Software Developer Intern"
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: "Toronto, ON / Remote"
+    validations:
+      required: true
+
+  - type: input
+    id: link
+    attributes:
+      label: Application link
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Date posted (YYYY-MM-DD)
+      placeholder: "2026-01-03"
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirm
+      options:
+        - label: I verified the link works and the role is still open.
+          required: true

@@ -1,0 +1,133 @@
+name: Issue to PR (add listing)
+
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  create-pr:
+    if: contains(github.event.issue.labels.*.name, 'add-listing')
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse issue form
+        id: parse
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const body = context.payload.issue.body;
+
+            // Issue form renders as markdown. Extract values from lines like:
+            // "### Company\nRBC"
+            function getField(label) {
+              const re = new RegExp(`###\\s+${label}\\s+\\n([^#\\n][\\s\\S]*?)(\\n###|$)`, "m");
+              const m = body.match(re);
+              return m ? m[1].trim().split("\n")[0].trim() : "";
+            }
+
+            const company = getField("Company");
+            const role = getField("Role title");
+            const location = getField("Location");
+            const link = getField("Application link");
+            const date = getField("Date posted \\(YYYY-MM-DD\\)");
+
+            if (!company || !role || !location || !link || !date) {
+              core.setFailed("Missing required fields from issue form.");
+              return;
+            }
+
+            core.setOutput("company", company);
+            core.setOutput("role", role);
+            core.setOutput("location", location);
+            core.setOutput("link", link);
+            core.setOutput("date", date);
+
+      - name: Update README table
+        run: |
+          node - <<'NODE'
+          const fs = require('fs');
+
+          const company = process.env.COMPANY;
+          const role = process.env.ROLE;
+          const location = process.env.LOCATION;
+          const link = process.env.LINK;
+          const date = process.env.DATE;
+
+          const begin = "<!-- BEGIN:INTERNSHIPS_TABLE -->";
+          const end = "<!-- END:INTERNSHIPS_TABLE -->";
+
+          const readmePath = "README.md";
+          let md = fs.readFileSync(readmePath, "utf8");
+
+          const start = md.indexOf(begin);
+          const finish = md.indexOf(end);
+          if (start === -1 || finish === -1 || finish < start) {
+            throw new Error("README markers not found. Add BEGIN/END markers.");
+          }
+
+          const before = md.slice(0, start + begin.length);
+          const after = md.slice(finish);
+
+          const section = md.slice(start + begin.length, finish);
+
+          // Ensure header exists; if not, create it.
+          let lines = section.trim().split("\n").filter(Boolean);
+          const header = "| Company | Role | Location | Link | Date |";
+          const sep = "| - | - | - | - | - |";
+
+          const hasHeader = lines.some(l => l.trim() === header);
+          if (!hasHeader) lines = [header, sep];
+
+          // Append row at end (you can sort later)
+          const row = `| ${company} | ${role} | ${location} | [Apply](${link}) | ${date} |`;
+          lines.push(row);
+
+          // Deduplicate exact rows
+          lines = Array.from(new Set(lines.map(l => l.trim())));
+
+          const newSection = "\n" + lines.join("\n") + "\n";
+
+          md = `${before}${newSection}${after}`;
+          fs.writeFileSync(readmePath, md, "utf8");
+          NODE
+        env:
+          COMPANY: ${{ steps.parse.outputs.company }}
+          ROLE: ${{ steps.parse.outputs.role }}
+          LOCATION: ${{ steps.parse.outputs.location }}
+          LINK: ${{ steps.parse.outputs.link }}
+          DATE: ${{ steps.parse.outputs.date }}
+
+      - name: Create PR
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: bot/add-listing-${{ github.event.issue.number }}
+          title: "Add listing: ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
+          commit-message: "chore(listings): add ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
+          body: |
+            Closes #${{ github.event.issue.number }}
+            Added via issue form submission.
+          labels: automation
+          delete-branch: true
+
+      - name: Comment with PR link
+        uses: actions/github-script@v7
+        with:
+          script: |
+            // create-pull-request outputs PR url in env var
+            const prUrl = process.env.PULL_REQUEST_URL || "";
+            const msg = prUrl
+              ? `Opened a PR: ${prUrl}`
+              : `PR created/updated on branch bot/add-listing-${context.payload.issue.number}`;
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: msg
+            });
