@@ -1,8 +1,8 @@
 # 🍁 Canadian Tech Internships - 2026
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/repo-preview.png" alt="Canadian Tech Internships 2026 preview" />
-</p>
+</p> -->
 
 > 🎯 A curated list of Winter, Summer, and Fall 2026 tech internships in **Canada** for roles in **Software Engineering, Data Science, DevOps, Product, AI, and more.**
 
@@ -11,10 +11,10 @@ This repository is built to help **Canadian students and international students 
 ---
 
 ### 🚀 **Found a new internship?**  
-You can add it in **under 1 minute!**  
-Just click **Issues → New issue → Add internship** and the bot will automatically open a Pull Request for review.
+Add it in **under 1 minute** → **Issues → New issue → Add internship**  
+The bot will open a PR automatically.
 
-Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
+📘 Details: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
@@ -379,7 +379,7 @@ MIT License - feel free to fork, contribute, and share (with credit).
 
 1. Go to **Issues → New issue → Add internship**
 2. Fill out the short form
-3. Submit — a bot will automatically open a Pull Request for review
+3. Submit! a bot will automatically open a Pull Request for review
 
 📌 Prefer the manual way? You can also open a Pull Request directly.  
 Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
