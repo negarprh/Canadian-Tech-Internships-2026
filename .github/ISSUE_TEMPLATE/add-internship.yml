@@ -1,6 +1,6 @@
 name: Add internship
 description: Submit a new internship listing (bot will open a PR)
-title: "Add internship: <Company> — <Role>"
+title: "Add internship: <Company> - <Role>"
 body:
   - type: input
     id: company
