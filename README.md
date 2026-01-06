@@ -10,6 +10,14 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
+🚀 **Found a new internship?**  
+You can add it in **under 1 minute!**  
+Just click **Issues → New issue → Add internship** and the bot will automatically open a Pull Request for review.
+
+Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
+
+---
+
 ### 👩🏻‍💻 Creator and Maintainer  
 
 📌 By **Negar Pirasteh** · [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/) 
@@ -367,11 +375,15 @@ MIT License - feel free to fork, contribute, and share (with credit).
 
 ## 🤝 Contributing
 
-🙌 **Contribute** by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.  
-📌 See contribution guidelines [here](CONTRIBUTING.md).
+🙌 **Add an internship in under 1 minute (no coding required):**
 
-Thanks to everyone who's submitted internship links and helped grow this list!
+1. Go to **Issues → New issue → Add internship**
+2. Fill out the short form
+3. Submit — a bot will automatically open a Pull Request for review
 
-Contribute by submitting an [issue](https://github.com/negarprh/Canadian-Tech-Internships-2026/issues) or a pull request.
+📌 Prefer the manual way? You can also open a Pull Request directly.  
+Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
+
+Thanks to everyone who’s helped grow this list! 
 
 [![](https://contrib.rocks/image?repo=negarprh/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
