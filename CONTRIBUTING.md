@@ -1,55 +1,65 @@
 # 🤝 Contributing Guide
 
-Thanks for your interest in contributing to this Canadian Tech Internships list!
+Thanks for helping keep this list up to date! 
+You can contribute **with or without coding**.
+
+---
+
+## 🚀 Easiest way (recommended): Use the Issue Form
+
+**No fork. No Markdown. No PR writing.**
+
+1. Go to **Issues**
+2. Click **New issue**
+3. Select **Add internship**
+4. Fill the form and submit
+
+🤖 A bot will automatically:
+- add the internship to the table
+- open a Pull Request
+- link it back to your issue
+
+You just review the PR and confirm it looks correct.
 
 ---
 
 ## 🧾 What to Add
 
 Please only submit:
-- **Internship/co-op roles** based in **Canada**
-- Those are **open for 2026** (Winter, Summer, or Fall)
-- Roles in tech: **software, data, product, QA, DevOps, AI, ML**, etc.
-- Jobs from **verified sources** (official site, LinkedIn, SimplifyJobs, etc.)
+- **Internship or co-op roles**
+- **Based in Canada** (or remote roles open to Canadians)
+- **Winter / Summer / Fall 2026**
+- Tech roles: **Software, Data, Product, QA, DevOps, AI, ML**, etc.
+- From **verified sources** (company site, LinkedIn, Workday, Greenhouse, Lever, etc.)
 
 ---
-### 📄 Format
 
-Please follow the table format below when adding a new internship:
+## 📄 Manual contribution (optional)
 
+If you prefer opening a PR yourself, add a row to the table in `README.md` using this format:
 
 | Company | Role | Location | Apply | Date Posted |
-|---------|------|----------|:-----:|-------------|
+|--------|------|----------|:-----:|-------------|
 | Shopify | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.shopify.com/careers) | Jul 01 |
-| RBC | Technology Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.rbc.com/ca/en/students-grad-co-ops-internships) | Jul 01 |
+
+**Guidelines:**
+- Keep locations short (`Toronto, ON`, `Remote`)
+- Use the blue **Apply** button format
+- Use the original job posting date
+- New rows are added at the **end of the table** to avoid reordering
 
 ---
 
-**Tips**:
-- Use Markdown formatting for links (e.g., `[Shopify](https://shopify.com/careers)`)
-- Use abbreviations like `Remote`, `ON`, `BC`, `QC` as needed
-- Keep the Apply link as [<kbd>Apply</kbd>](link) to display a button-like style
-- Provide the date that the job was posted in the “Date Posted” column
-
----
-
-## ⚠️ Do Not
+## ⚠️ Please Don’t
 
 - Add full-time or freelance roles
-- Add jobs outside of Canada
-- Add unverified or expired listings
-
----
-
-## ✅ How to Submit
-
-1. Fork this repo
-2. Edit the `README.md` file with your listing
-3. Commit and open a Pull Request (PR)
-4. I’ll review and merge quickly!
+- Add non-Canadian positions
+- Add expired or unverified listings
+- Reorder or reformat existing rows
 
 ---
 
 ## 🙌 Thank You
 
-Your help makes it easier for Canadian students to find internships. Every contribution counts!
+Every contribution helps thousands of students.  
+Whether it’s one role or many, it matters.
