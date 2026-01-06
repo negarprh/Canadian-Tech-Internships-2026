@@ -10,7 +10,7 @@ This repository is built to help **Canadian students and international students 
 
 ---
 
-🚀 **Found a new internship?**  
+### 🚀 **Found a new internship?**  
 You can add it in **under 1 minute!**  
 Just click **Issues → New issue → Add internship** and the bot will automatically open a Pull Request for review.
 
