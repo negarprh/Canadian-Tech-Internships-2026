@@ -46,6 +46,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ↳ | Junior Software Developer - Summer 2026 - Co-op/Internship - 4 Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Summer-2026--Co-op-Internship----4-Months_R260000039) | Jan 2 |
 | ↳ | Software Developer - Summer 2026 - Co-op/Internship - 4 Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2026--Co-op-Internship----4-Months_R260000040) | Jan 2 |
 | ↳ | Software Developer - Summer 2026 - Co-op/Internship - 8 Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2026--Co-op-Internship----8-Months_R260000041-1) | Jan 2 |
+| Intelcom \| Dragonfly | R&D Solution Builder Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110133-1) | Dec 31 |
 | TD Bank | AI2 Software Engineer Co-op/Intern (Summer 2026) | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Software-Engineer-Co-op-Intern--SUMMER-2026-_R_1460707) | Dec 30 |
 | Intelcom \| Dragonfly | Software Development Intern - Mobile Application | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Mobile-Application_JR110090) | Dec 29 |
 | ↳| Software Development Intern - Last Mile | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Last-Mile_JR110092) | Dec 29 |
@@ -349,7 +350,6 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern| Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB) | Jul 07 |
-| Intelcom | Dragonfly | R&D Solution Builder Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/R-D-Solution-Builder-Intern_JR110133-1) | Dec 31 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
