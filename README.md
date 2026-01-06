@@ -35,6 +35,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 ## 💼 Internship Listings
 
+<!-- BEGIN:INTERNSHIPS_TABLE -->
+
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
 | General Dynamics UK | Co-op - Coalition and Joint Interoperability - 8-Month | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000101380164) | Jan 2 |
@@ -347,6 +349,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Konrad | Software Developer Intern| Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB) | Jul 07 |
 
+<!-- END:INTERNSHIPS_TABLE -->
 
 ---
 
