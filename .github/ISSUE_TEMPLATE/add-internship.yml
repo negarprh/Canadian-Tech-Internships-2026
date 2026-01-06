@@ -1,13 +1,12 @@
 name: Add internship
 description: Submit a new internship listing (bot will open a PR)
 title: "Add internship: <Company> — <Role>"
-labels: ["add-listing"]
 body:
   - type: input
     id: company
     attributes:
       label: Company
-      placeholder: "RBC"
+      placeholder: "Intelcom | Dragonfly"
     validations:
       required: true
 
@@ -23,7 +22,7 @@ body:
     id: location
     attributes:
       label: Location
-      placeholder: "Toronto, ON / Remote"
+      placeholder: "Montreal, QC"
     validations:
       required: true
 
@@ -39,7 +38,8 @@ body:
     id: date
     attributes:
       label: Date posted (YYYY-MM-DD)
-      placeholder: "2026-01-03"
+      placeholder: "2025-12-30"
+      description: "Use YYYY-MM-DD. Bot will display it like 'Dec 30'."
     validations:
       required: true
 

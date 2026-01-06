@@ -1,4 +1,4 @@
-name: Issue to PR (add listing)
+name: Issue to PR (add internship)
 
 on:
   issues:
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   create-pr:
-    if: contains(github.event.issue.labels.*.name, 'add-listing')
+    if: startsWith(github.event.issue.title, 'Add internship:')
     runs-on: ubuntu-latest
 
     steps:
@@ -22,10 +22,8 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const body = context.payload.issue.body;
+            const body = context.payload.issue.body || "";
 
-            // Issue form renders as markdown. Extract values from lines like:
-            // "### Company\nRBC"
             function getField(label) {
               const re = new RegExp(`###\\s+${label}\\s+\\n([^#\\n][\\s\\S]*?)(\\n###|$)`, "m");
               const m = body.match(re);
@@ -43,6 +41,12 @@ jobs:
               return;
             }
 
+            // Basic sanity check for date format
+            if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) {
+              core.setFailed("Date must be in YYYY-MM-DD format.");
+              return;
+            }
+
             core.setOutput("company", company);
             core.setOutput("role", role);
             core.setOutput("location", location);
@@ -54,11 +58,23 @@ jobs:
           node - <<'NODE'
           const fs = require('fs');
 
-          const company = process.env.COMPANY;
-          const role = process.env.ROLE;
-          const location = process.env.LOCATION;
-          const link = process.env.LINK;
-          const date = process.env.DATE;
+          const company = process.env.COMPANY.trim();
+          const role = process.env.ROLE.trim();
+          let location = process.env.LOCATION.trim();
+          const link = process.env.LINK.trim();
+          const rawDate = process.env.DATE.trim();
+
+          // Remove the word "Canada" from location (case-insensitive)
+          location = location.replace(/\bCanada\b/gi, '').replace(/\s{2,}/g,' ').trim();
+          location = location.replace(/,\s*,/g, ',').replace(/,\s*$/g,'').replace(/^\s*,\s*/g,'');
+
+          // Convert YYYY-MM-DD -> "Dec 30"
+          function formatDate(input) {
+            const d = new Date(input + "T00:00:00Z");
+            if (isNaN(d)) return input;
+            return d.toLocaleString("en-US", { month: "short", day: "numeric" });
+          }
+          const date = formatDate(rawDate);
 
           const begin = "<!-- BEGIN:INTERNSHIPS_TABLE -->";
           const end = "<!-- END:INTERNSHIPS_TABLE -->";
@@ -75,27 +91,40 @@ jobs:
           const before = md.slice(0, start + begin.length);
           const after = md.slice(finish);
 
-          const section = md.slice(start + begin.length, finish);
+          const sectionRaw = md.slice(start + begin.length, finish);
 
-          // Ensure header exists; if not, create it.
-          let lines = section.trim().split("\n").filter(Boolean);
-          const header = "| Company | Role | Location | Link | Date |";
-          const sep = "| - | - | - | - | - |";
+          // If the section is empty, we won't create a new header.
+          // Your README already has the header, so we just insert a row.
+          const lines = sectionRaw.split('\n');
 
-          const hasHeader = lines.some(l => l.trim() === header);
-          if (!hasHeader) lines = [header, sep];
+          // Use your Apply badge format
+          const applyBadge = `[![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](${link})`;
+          const newRow = `| ${company} | ${role} | ${location} | ${applyBadge} | ${date} |`;
 
-          // Append row at end (you can sort later)
-          const row = `| ${company} | ${role} | ${location} | [Apply](${link}) | ${date} |`;
-          lines.push(row);
+          // Prevent duplicates (exact match)
+          const alreadyExists = lines.some(l => l.trim() === newRow.trim());
+          if (alreadyExists) {
+            console.log("Row already exists. No changes made.");
+            process.exit(0);
+          }
 
-          // Deduplicate exact rows
-          lines = Array.from(new Set(lines.map(l => l.trim())));
+          // Insert the row right before the END marker (at the end of table section)
+          // Keep the existing formatting, just add a new line near the bottom.
+          // Find last non-empty line index in section to insert after it.
+          let insertAt = lines.length;
+          for (let i = lines.length - 1; i >= 0; i--) {
+            if (lines[i].trim() !== "") {
+              insertAt = i + 1;
+              break;
+            }
+          }
+          lines.splice(insertAt, 0, newRow);
 
-          const newSection = "\n" + lines.join("\n") + "\n";
-
+          const newSection = "\n" + lines.join("\n").trimEnd() + "\n";
           md = `${before}${newSection}${after}`;
+
           fs.writeFileSync(readmePath, md, "utf8");
+          console.log("README updated with new row.");
           NODE
         env:
           COMPANY: ${{ steps.parse.outputs.company }}
@@ -107,27 +136,22 @@ jobs:
       - name: Create PR
         uses: peter-evans/create-pull-request@v6
         with:
-          branch: bot/add-listing-${{ github.event.issue.number }}
-          title: "Add listing: ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
-          commit-message: "chore(listings): add ${{ steps.parse.outputs.company }} — ${{ steps.parse.outputs.role }}"
+          branch: bot/add-internship-${{ github.event.issue.number }}
+          title: ${{ github.event.issue.title }}
+          commit-message: "chore(listings): add internship listing"
           body: |
             Closes #${{ github.event.issue.number }}
-            Added via issue form submission.
+            Added via issue form automation.
           labels: automation
           delete-branch: true
 
-      - name: Comment with PR link
+      - name: Comment on issue
         uses: actions/github-script@v7
         with:
           script: |
-            // create-pull-request outputs PR url in env var
-            const prUrl = process.env.PULL_REQUEST_URL || "";
-            const msg = prUrl
-              ? `Opened a PR: ${prUrl}`
-              : `PR created/updated on branch bot/add-listing-${context.payload.issue.number}`;
             await github.rest.issues.createComment({
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.payload.issue.number,
-              body: msg
+              body: "✅ Opened a PR automatically for this listing. Please review and merge."
             });
