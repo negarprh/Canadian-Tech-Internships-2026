@@ -47,6 +47,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 
 
+
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210835) | Jan 7 |
@@ -381,7 +382,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern| Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://blackrock.tal.net/vx/lang-en-GB/mobile-0/brand-3/xf-e774a855fe31/candidate/so/pm/1/pl/1/opp/9601-2026-Summer-Internship-Program-AMERS/en-GB) | Jul 07 |
-
+| Intelcom | Dragonfly | Software Development Intern - Client and Partner Integration | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intelcomgroup.wd3.myworkdayjobs.com/en-US/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Client-and-Partner-Integration_JR110078) | Dec 31 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
