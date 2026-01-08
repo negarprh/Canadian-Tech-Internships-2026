@@ -50,6 +50,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
 | Qualcomm | FY26 Intern - Software Toolchains Engineering Internship | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://qualcomm.eightfold.ai/careers/job/446716147642) | Jan 8 |
+| ATPCO | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/ATPCO1/744000102147336?utm_source=Simplify&ref=Simplify) | Jan 8 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern/210835) | Jan 7 |
 | Geotab | Software Developer Intern - Web | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/5013947008) | Jan 7 |
 | General Dynamics UK | Co-op May 2026 - Software Engineering | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000102172913) | Jan 7 |
