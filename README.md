@@ -12,7 +12,7 @@ This repository is built to help **Canadian students and international students 
 
 ### 🚀 **Found a new internship?**  
 Add it in **under 1 minute** → **Issues → New issue → Add internship**  
-The bot will open a PR automatically.
+It will open a PR automatically.
 
 📘 Details: [CONTRIBUTING.md](CONTRIBUTING.md)
 
