@@ -46,9 +46,14 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
 
-
 | Company | Role | Location | Apply | Date Posted |
 |---------|------|----------|:-----:|-------------|
+| Intel | Triton Compiler Engineering Intern | Remote in Canada| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Triton-Compiler-Engineering-Intern_JR0279134) | Jan 9 |
+| D2L | Software Developer Co-op | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.d2l.com/careers/jobs/software-developer-spring-2026-co-op-kitchener-office/7521240/) | Jan 9 |
+| Genesys | Software Development Intern - Recording and QM | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://genesys.wd1.myworkdayjobs.com/en-US/Genesys/job/Toronto-Flexible/Software-Development-Intern--Recording-and-QM--12-16mos-_JR109189) | Jan 9 |
+| Apera AI | Software Developer - Co-op - Full Stack | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5019932007) | Jan 9 |
+| ↳ | Software Developer (Cloud Infrastructure) - Co-Op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5020323007) | Jan 9 |
+| ↳ | Software Developer - C++ - Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/aperaaiinc/jobs/5020183007) | Jan 9 |
 | Manulife Financial | Intern/Co-op - Full Stack Software Engineer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Full-Stack-Software-Engineer_JR26010479) | Jan 9 |
 | ↳ | Intern/Co-op - Full Stack Software Engineer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-Co-op-2026---Full-Stack-Software-Engineer_JR26010481) | Jan 9 |
 | Visier Solutions | Software Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4627556006) | Jan 9 |
