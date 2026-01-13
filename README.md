@@ -217,7 +217,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Closed🔒 | Oct 24 |
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | Closed🔒 | Oct 24 |
 | ↳ | 2026 Winter Internship (CAN) – Vision Guided Robotics Developer Intern | Montreal, QC | Closed🔒 | Oct 24 |
-| Epic Games | Gameplay Systems Intern | Montreal, QC |  [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.epicgames.com/site/en-US/careers/jobs/5686204004)  | Oct 23 |
+| Epic Games | Gameplay Systems Intern | Montreal, QC |  Closed🔒  | Oct 23 |
 | BDC | Student IT | Montreal, QC | Closed🔒 | Oct 23 |
 | SAP | Cloud ERP Solution Adoption Data Analyst Intern | Vancouver, BC | Closed🔒 | Oct 23 |
 | ↳  | Agile Test Developer Intern | Vancouver, BC | Closed🔒 | Oct 22 |
@@ -376,7 +376,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Block | Software Engineer Intern | Toronto, ON | Closed🔒 | Sep 03 |
 | TD | Software Engineer Intern/Co-op | Toronto, ON | Closed🔒 | Sep 02 |
 | ↳  | Data Analytics & Insights Intern/Co-op | Montréal, QC / Toronto, ON | Closed🔒 | Sep 02 |
-| Stripe | Software Engineer – Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://stripe.com/jobs/listing/software-engineer-intern/7206389) | Sep 01 |
+| Stripe | Software Engineer – Intern | Toronto, ON | Closed🔒 | Sep 01 |
 | Roblox | Software Engineer Intern | Vancouver, BC | Closed🔒 | Sep 01 |
 | TC Energy   | Computer Science Interns | Calgary, AB | Closed🔒 | Aug 31 |
 | Lumentum | Embedded Software DevSecOps Co-op/Intern | Ottawa, ON | Closed🔒 | Aug 31 |
