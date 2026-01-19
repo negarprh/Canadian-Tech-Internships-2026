@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,17 +22,19 @@ jobs:
           python-version: "3.11"
 
       - name: Run formatter
-        run: python scripts/format_table.py
+        run: python .github/scripts/format_table.py
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
         with:
-          branch: chore/format-internship-table
+          base: main
+          branch: chore/normalize-internship-table
           delete-branch: true
           title: "chore: normalize internship table spacing"
           commit-message: "chore: normalize internship table spacing"
           body: |
-            Normalizes the internship table markdown:
-            - removes extra spaces
+            This PR normalizes markdown table spacing:
+            - removes padded alignment spaces
             - keeps one space around pipes
             - removes trailing whitespace
+            - no content changes
