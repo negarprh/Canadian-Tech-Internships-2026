@@ -45,7 +45,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 | Company | Role | Location | Apply | Date Posted |
-| --------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ----------- |
+|--------|------|----------|:-----:|-------------|
 | CAE | C++ CGF Unreal Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416--C---CGF-Unreal-Developer-Intern-_119995) | Jan 15 |
 | Warner Bros. | Software Developer Co-op | Kanata, Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-Co-op_R000098965-1) | Jan 15 |
 | Electronic Arts | Game Creation SW Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Game-Creation-SW-Engineer-Intern/210902) | Jan 15 |
