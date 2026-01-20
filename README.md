@@ -46,6 +46,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|-------------|
+| Zurn Elkay Water Solutions | Product Management Intern | Burlington, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Burlington-Ontario/Product-Management-Summer-Intern_REQ-018892) | Jan 19, 2026 |
 | General Dynamics UK | Co-op - Manufacturing Test Operator | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000104272295) | Jan 19, 2026 |
 | Boomi | Engineering Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boomi.com/boomi-jobs/?gh_jid=5764486004) | Jan 17, 2026 |
 | Hitachi | Software Analyst Intern | Scarborough, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern--Summer-2026-_R1011498) | Jan 16, 2026 |
