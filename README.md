@@ -127,7 +127,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | ATPCO | Software Engineer Intern | Vancouver, BC | Closed🔒 | Jan 8 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Closed🔒 | Jan 7 |
 | Geotab | Software Developer Intern - Web | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/5013947008) | Jan 7 |
-| General Dynamics UK | Co-op May 2026 - Software Engineering | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000102172913) | Jan 7 |
+| General Dynamics UK | Co-op May 2026 - Software Engineering | Ottawa, ON | Closed🔒 | Jan 7 |
 | Geotab | Software Developer Intern | Toronto, ON / Oakville, ON / Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/5014088008) | Jan 7 |
 | Intact | Software Developer I - 4 Month Co-op/Internship - Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Toronto-Ontario-CAN/Software-Developer-I---4-Month-Co-op-Internship--Summer-2026-_R150314) | Jan 6 |
 | ↳ | Software Developer I - 4 Month Internship/Co-op - Summer 2026 | St. John's, NL | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/St-Johns-Newfoundland-and-Labrador-CAN/Software-Developer-I---4-Month-Internship-Co-op--Summer-2026-_R151042) | Jan 6 |
@@ -147,7 +147,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Nokia | Software Developer Tester | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28976) | Jan 5 |
 | BDO Canada | Co-op or Intern - Full-Stack Developer - May 2026 | Toronto, ON / Oakville, ON / Ottawa, ON | Closed🔒 | Jan 5 |
 | BDC | SUMMER STUDENTS 2026 - INFORMATION TECHNOLOGY | Montreal, QC / Edmonton, AB / Calgary, AB | Closed🔒 | Jan 5 |
-| General Dynamics UK | Co-op - Coalition and Joint Interoperability - 8-Month | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000101380164) | Jan 2 |
+| General Dynamics UK | Co-op - Coalition and Joint Interoperability - 8-Month | Ottawa, ON | Closed🔒 | Jan 2 |
 | Broadridge | Software Engineer Intern | Toronto, ON | Closed🔒 | Jan 2 |
 | BMO | Software Developer - Summer 2026 - Co-op/Internship - 12 Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2026--Co-op-Internship----12-Months_R260000043) | Jan 2 |
 | ↳ | Junior Software Developer - Summer 2026 - Co-op/Internship - 4 Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Summer-2026--Co-op-Internship----4-Months_R260000039) | Jan 2 |
