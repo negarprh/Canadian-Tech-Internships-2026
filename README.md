@@ -295,7 +295,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Mercury | Full-stack Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Backend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Frontend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
-| Electronic Arts | Software Development Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Development-Intern/210855) | Oct 10 |
+| Electronic Arts | Software Development Intern | Vancouver, BC | Closed🔒 | Oct 10 |
 | Hitachi | Software Analyst Intern – Research and Technology (C++, Python, Git, Docker) | Toronto, ON | Closed🔒 | Oct 10 |
 | Seaspan | Intern – Digital Ship | Vancouver, BC | Closed🔒 | Oct 8 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Oct 7 |
