@@ -502,5 +502,5 @@ Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Thanks to everyone who’s helped grow this list!
 
-[![](https://contrib.rocks/image?repo=negarprh/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
+
 
