@@ -495,12 +495,11 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 1. Go to **Issues → New issue → Add internship**
 2. Fill out the short form
-3. Submit! a bot will automatically open a Pull Request for review
+3. Submit! It will automatically open a Pull Request for review
 
 📌 Prefer the manual way? You can also open a Pull Request directly.  
 Full details here → [CONTRIBUTING.md](CONTRIBUTING.md)
 
 Thanks to everyone who’s helped grow this list!
 
-
-
+[![](https://contrib.rocks/image?repo=negarprh/Canadian-Tech-Internships-2026)](https://github.com/negarprh/Canadian-Tech-Internships-2026/graphs/contributors)
