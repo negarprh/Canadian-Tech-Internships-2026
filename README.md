@@ -194,8 +194,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Ripple | C++ Software Engineer Intern, RippleX | Toronto, ON | Closed🔒 | Dec 16 |
 | Nokia | Web Developer Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28669) | Dec 16 |
 | Ripple | Software Engineer Intern - RippleX DGE | Toronto, ON | Closed🔒 | Dec 15 |
-| ↳ | Software Engineer Intern - RippleX Quality Enforcers | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7455922/) | Dec 15 |
-| ↳ | Software Engineer Intern - RippleX Platform | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7458195/) | Dec 15 |
+| ↳ | Software Engineer Intern - RippleX Quality Enforcers | Toronto, ON | Closed🔒 | Dec 15 |
+| ↳ | Software Engineer Intern - RippleX Platform | Toronto, ON | Closed🔒 | Dec 15 |
 | Electronic Arts | Software Engineer Intern - AI/ML QVS | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Canada-AI-ML-QVS-8-Months-Summer-2026/210893) | Dec 15 |
 | Nokia | Full Stack Dev Cloud and ML Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28808) | Dec 15 |
 | ↳ | Security Software Developer Intern/Co-op | Ottawa, ON | Closed🔒 | Dec 12 |
