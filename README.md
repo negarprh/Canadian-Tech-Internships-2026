@@ -47,7 +47,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Manulife Financial | Product Documentation Specialist, Co-op | Toronto, ON / Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Product-Documentation-Specialist---Co-op_JR26010907-1) | Jan 28, 2026 |
+| Manulife Financial | Product Documentation Specialist, Co-op | Toronto, ON / Waterloo, ON | Closed🔒 | Jan 28, 2026 |
 | CIBC | Product Analyst | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Simplii-Financial--Product-Analyst-Co-op--Summer-2026-_2602229) | Jan 28, 2026 |
 | Haven Studios | Gameplay Programmer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/haven/jobs/5783276004) | Jan 27, 2026 |
 | Autodesk | Intern Software Developer | Toronto, ON, | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Software-Developer_25WD92343-2) | Jan 27, 2026 |
