@@ -1,12 +1,11 @@
 # 🍁 Canadian Tech Internships - 2026
 
-<!-- <p align="center">
-  <img src="assets/repo-preview.png" alt="Canadian Tech Internships 2026 preview"  width="650" />
-</p>  -->
+> 🎯 A curated, daily-updated list of computer science, software engineering, and tech internships in Canada (2026), including major Canadian cities and remote roles.
 
-> 🎯 A curated list of Winter, Summer, and Fall 2026 tech internships in **Canada** for roles in **Software Engineering, Data Science, DevOps, Product, AI, and more.**
+Includes **Winter, Summer, and Fall 2026** tech internships in **Montreal, Toronto, Vancouver, Ottawa**, other Canadian cities, and **remote roles open to Canadian applicants**.
 
-This repository is built to help **Canadian students and international students studying in Canada** find verified internships more easily.
+Covers **software development (backend, frontend, full-stack)**, **software engineering, data science, AI, DevOps, IT, product**, and related tech internships for **Canadian and international students studying in Canada**.
+.
 
 ---
 
@@ -36,8 +35,12 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 ---
 
-📌 **Note:** Internship listings are organized by their original **job posting date**, not by the date they were added here.  
-👉 New roles may appear **anywhere in the table**, always review the **full list** regularly.
+📌 **How this list works**
+- Internships are sorted by their **original posting date**
+- Roles may appear **anywhere in the table**
+- All listings are **verified and Canada-based**
+- Remote roles are included **only if open to Canadian applicants**
+
 
 ---
 
@@ -168,7 +171,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | RBC | Professional Experience Year (PEY) Student - Artificial Intelligence/Machine Learning Engineer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/en-US/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Professional-Experience-Year--PEY--Student---Artificial-Intelligence-Machine-Learning-Engineer_R-0000155688) | Jan 15, 2026 |
 | Faire | Data Science Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/faire/jobs/8376377002) | Jan 15, 2026 |
 | CAE | C++ CGF Unreal Developer Intern | Montreal, QC | Closed🔒 | Jan 15, 2026 |
-| Warner Bros. | Software Developer Co-op | Kanata, Ottawa, ON | Closed🔒 | Jan 15, 2026 |
+| Warner Bros. | Software Developer Co-op | Ottawa, ON | Closed🔒 | Jan 15, 2026 |
 | Electronic Arts | Game Creation SW Engineer Intern | Vancouver, BC | Closed🔒 | Jan 15, 2026 |
 | Waabi | Systems Software Engineer Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/waabi/9873fd9d-285f-4bf5-ac74-f69547615bc9) | Jan 15, 2026 |
 | British Columbia Investment | Enterprise Solutions Software Engineer Intern/Co-op | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Summer-and-or-Fall-2026-_JR101373) | Jan 15, 2026 |
