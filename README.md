@@ -1,6 +1,6 @@
 # 🍁 Canadian Tech Internships - 2026
 
-> 🎯 A curated, daily-updated list of computer science, software engineering, and tech internships in Canada (2026), including major Canadian cities and remote roles.
+> 🎯 A curated, regularly updated list of computer science, software engineering, and tech internships in Canada (2026), including major Canadian cities and remote roles.
 
 Includes **Winter, Summer, and Fall 2026** tech internships in **Montreal, Toronto, Vancouver, Ottawa**, other Canadian cities, and **remote roles open to Canadian applicants**.
 
