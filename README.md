@@ -50,6 +50,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| PepsiCo Canada | Data Science Co-op - Summer 2026 | Mississauga, QN | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pepsicojobs.com/main/jobs/394261?lang=en-us&previousLocale=en-US) | Jan 30, 2026 |
 | Expedia Group | Développeur(euse) - De logiciels | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels---Stagiaire-pour-l-t-2026--Montral_R-101286-1) | Jan 30, 2026 |
 | ↳ | Développeur(euse) - Pour l’application mobile | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile---Stagiaire-pour-l-t-2026--Montral_R-101288-1) | Jan 30, 2026 |
 | 1Password | Developer Intern - Knox | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/1password/831424d5-7490-4d64-99e4-373a4f333446) | Jan 30, 2026 |
