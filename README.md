@@ -420,7 +420,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Software Development Engineer in Test (SDET)- Co-op - Winter 2026 | Vancouver, BC | Closed🔒 | Oct 30 |
 | ↳ | Software Development Engineer in Test (SDET)- Co-op - Winter 2026 | Kelowna, BC | Closed🔒 | Oct 30 |
 | Nokia | Software Designer Co-op/Intern | Kanata, ON | Closed🔒 | Oct 30 |
-| Rivian | Software Engineering Internships (Winter 2026 Co-Op Program) | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivianvw.tech/rivian-vw-group-technology/jobs/27208?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Oct 29 |
+| Rivian | Software Engineering Internships (Winter 2026 Co-Op Program) | Vancouver, BC | Closed🔒 | Oct 29 |
 | Dialpad | Software Engineer Co-op, Front End | Vancouver, BC | Closed🔒 | Oct 29 |
 | ↳ | Co-op Software Engineer, Fullstack | Vancouver, BC | Closed🔒 | Oct 29 |
 | ↳ | Co-op Software Engineer, Backend | Vancouver, BC | Closed🔒 | Oct 29 |
