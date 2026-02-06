@@ -48,7 +48,6 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Cogeco | Data Analyst – Facilities Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cogeco.wd3.myworkdayjobs.com/Cogeco_Careers/job/Burlington-ON/Data-Analyst--Facilities-Intern_JR9306) | Feb 5, 2026 |
 | Bank of Montreal | Junior Development Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Development--Summer-2026--Co-op-Internship----4-months_R260002350) | Feb 4, 2026 |
 | University Health Network | Student Admin Support - Research | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000107337255) | Feb 4, 2026 |
 | Dell Technologies | Research Co-Op Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://dell.wd1.myworkdayjobs.com/External/job/Ottawa-Ontario-Canada/Research-Co-Op-intern_R285646-1) | Feb 4, 2026 |
