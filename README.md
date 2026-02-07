@@ -189,7 +189,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---RBCx--Associate-Product-Manager-Intern--4-Months-_R-0000156960-1) | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=73071) | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://dell.wd1.myworkdayjobs.com/External/job/Ottawa-Ontario-Canada/XMLNAME-5G-AI-Automation-Intern_R272952) | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-US/Summer-Intern---Co-op---Software-Developer--Agentic-AI-_R029790) | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Laval-Quebec/Software-Designer-Intern---Stagiaire-en-conception-de-logiciels_R0000346179) | Jan 23, 2026 |
@@ -226,7 +226,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Software Engineering Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Software-Engineering-Intern---Summer-2026_R-10061229) | Jan 21, 2026 |
 | Blackberry | Hardware Engineering Student | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--4-or-8-month-term-_20250381) | Jan 21, 2026 |
 | Shoppers Drug Mart | Quo Beauty Product Development Student | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://myview.wd3.myworkdayjobs.com/sdm_careers/job/243-Consumers-Road-Toronto-ON/Quo-Beauty-Product-Development-Summer-Student_R2000636213) | Jan 21, 2026 |
-| GoMaterials | Product & AI Enablement Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/gomaterials/dd1e004f-09d5-401e-906b-3b605dc6f0ca) | Jan 21, 2026 |
+| GoMaterials | Product & AI Enablement Intern | Montreal, QC | Closed🔒 | Jan 21, 2026 |
 | Autodesk | Finance Business Intelligence Developer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Intern--Finance-Business-Intelligence-Developer_25WD91946) | Jan 20, 2026 |
 | Nokia | Web Portal Developer Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28902) | Jan 20, 2026 |
 | Definity Financial | Reporting Specialist | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8836) | Jan 20, 2026 |
@@ -478,7 +478,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Canada Life | Software Developer (Student Position) | Toronto, ON / Winnipeg, MB | Closed🔒 | Oct 15 |
 | Geotab | Software Developer Intern – Optimization Integration | Canada | Closed🔒 | Oct 14 |
 | Magna | Software Engineering Co-op | Newmarket, ON | Closed🔒 | Oct 14 |
-| MongoDB | 2026 – Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.mongodb.com/careers/jobs/7239049) | Oct 14 |
+| MongoDB | 2026 – Software Engineering Intern | Toronto, ON | Closed🔒 | Oct 14 |
 | Mercury | Full-stack Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Backend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
 | ↳ | Frontend Engineering Intern | Remote in Canada | Closed🔒 | Oct 13 |
