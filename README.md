@@ -46,6 +46,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
+
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Kinaxis | Co-Op/Intern Software Engineer - AI | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/34300/job?mobile=true&needsRedirect=false) | Feb 6, 2026 |
@@ -637,7 +638,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern | Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
-
+| CGI | .NET Developer | Saguenay, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0126-0324&BRID=1260031&lang=1) | Feb 5 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
