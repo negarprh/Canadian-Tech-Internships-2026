@@ -47,6 +47,7 @@ Building this repository to make it easier for Canadian students to find interns
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
 
+
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Ciena | Automation Tools Development | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Automation-Tools-Development-Co-op--Summer-2026-_R030099) | Feb 9, 2026 |
@@ -652,7 +653,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern | Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
-
+| Seaspan ULC | Intern, Data & Integrations | North Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hckz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8391) | Feb 9 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
