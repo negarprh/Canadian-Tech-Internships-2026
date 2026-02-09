@@ -50,6 +50,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Kinaxis | Co-Op/Intern Software Engineer - AI | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/34300/job?mobile=true&needsRedirect=false) | Feb 6, 2026 |
+| CGI | .NET Developer | Saguenay, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0126-0324&BRID=1260031&lang=1) | Feb 5, 2026 |
 | RTX | Intern, Digital Project Engineer | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-MISSISSAUGA-P22M01--1801-Courtney-Park-Dr--P22M01-BLDG/Stage---Ingnieur-de-projet-numrique---Digital-Project-Engineer_01808645) | Feb 5, 2026 |
 | CIBC | Data Analyst, Summer 2026 Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst--Summer-2026-Co-op_2603176) | Feb 5, 2026 |
 | ↳ | Data Analyst, Summer 2026 Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst--Summer-2026-Co-op_2603195) | Feb 5, 2026 |
@@ -638,7 +639,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Sentry | Software Engineer – Intern | Toronto, ON | Closed🔒 | Aug 01 |
 | Konrad | Software Developer Intern | Toronto, ON | Closed🔒 | Jul 08 |
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
-| CGI | .NET Developer | Saguenay, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cgi.njoyn.com/CORP/xweb/xweb.asp?NTKN=c&clid=21001&Page=JobDetails&Jobid=J0126-0324&BRID=1260031&lang=1) | Feb 5 |
+
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
