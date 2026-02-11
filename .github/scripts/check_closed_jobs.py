@@ -22,6 +22,7 @@ CLOSED_PHRASES = {
         "job unavailable",
         "the page you are looking for doesn't exist",
         "The page you are looking for doesn't exist.",
+        "This job is no longer available.",
     ],
     "workday": ["job closed", "no longer accepting applications", "job is no longer posted", "The page you are looking for doesn't exist."],
     "greenhouse": ["this job is no longer available", "looks like this job no longer exists"],
