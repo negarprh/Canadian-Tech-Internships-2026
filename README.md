@@ -108,7 +108,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Dell Technologies | Research Co-Op Intern | Ottawa, ON | Closed🔒 | Feb 4, 2026 |
 | ↳ | AI Agent Benchmarking Co-Op intern | Ottawa, ON | Closed🔒 | Feb 4, 2026 |
 | Hitachi | Hardware Test Engineering Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Hardware-Test-Engineering-Intern--Summer-2026--16months-_R1011731) | Feb 4, 2026 |
-| Kinaxis | Co-op/Intern Developer - Clients - Front End Technologies | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/34152/job?mobile=true&needsRedirect=false) | Feb 4, 2026 |
+| Kinaxis | Co-op/Intern Developer - Clients - Front End Technologies | Ottawa, ON | Closed🔒 | Feb 4, 2026 |
 | Autodesk | Intern Machine Learning Developer | Toronto, ON | Closed🔒 | Feb 4, 2026 |
 | ↳ | Intern Product Manager - Data Visualization | Toronto, ON | Closed🔒 | Feb 4, 2026 |
 | Canadian Tire | Data & Customer Analytics Student | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Data---Customer-Analytics-Student--4-months----Summer-2026_JR157329) | Feb 4, 2026 |
