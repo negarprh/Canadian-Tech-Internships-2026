@@ -50,6 +50,10 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Ovintiv | Student Digital Systems | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Calgary-AB-CA/Student-Digital-Systems_R2512) | Feb 11, 2026 |
+| ↳ | Digital Systems Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers/job/Denver-CO-US/Intern-Digital-Systems_R2513) | Feb 11, 2026 |
+| Citi | Early ID Program, Application Development, Technology | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://citi.wd5.myworkdayjobs.com/Citi_Early_Careers_Events_Site/job/Mississauga-Ontario-Canada/Early-ID-Program---Application-Developer---Technology--Spring-2026---Mississauga_26938021) | Feb 11, 2026 |
+| Zebra Technologies | Software Engineer Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://zebra.eightfold.ai/careers/job/343637104715) | Feb 11, 2026 |
 | Motorola | Software Developer | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Software-Developer-Co-Op_R62032) | Feb 10, 2026 |
 | CIBC | Data Analyst | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst--Summer-2026-Co-op_2603349-1) | Feb 10, 2026 |
 | Bank of Montreal | Software Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Summer-2026--Co-op-Internship----4-months_R260002095) | Feb 10, 2026 |
