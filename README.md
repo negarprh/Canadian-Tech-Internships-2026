@@ -255,7 +255,7 @@ Building this repository to make it easier for Canadian students to find interns
 | CIBC | Production Support Intern/Co-op - Enterprise Technology & Business Management | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Production-Support-Co-op---Enterprise-Technology---Business-Management_2602032-1) | Jan 23, 2026 |
 | Hitachi | Software Analyst Intern - Summer 2026 | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Autodesk | Intern Full Stack Developer | Remote, Canada | Closed🔒 | Jan 23, 2026 |
-| Varian | Product Engineering Assistant – Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-25864) | Jan 23, 2026 |
+| Varian | Product Engineering Assistant – Co-op | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | RBC | Marketing Data Analyst Intern - Multiple Teams | Toronto, ON | Closed🔒 | Jan 22, 2026 |
 | ↳ | Data Analyst Developer Intern | Toronto, ON | Closed🔒 | Jan 22, 2026 |
 | ↳ | Analytics Intern | Toronto, ON | Closed🔒 | Jan 22, 2026 |
@@ -268,7 +268,7 @@ Building this repository to make it easier for Canadian students to find interns
 | BGIS | Intern/Co-op, Spatial Data | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/227813) | Jan 22, 2026 |
 | Bank of Montreal | Mainframe System Programmer, Co-op/Intern | Toronto, ON | Closed🔒 | Jan 22, 2026 |
 | Nokia | Software Designer Intern/Co-op | Ottawa, ON | Closed🔒 | Jan 22, 2026 |
-| American Express | Campus Undergraduate Technology Software Engineer Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aexp.eightfold.ai/careers/job/39688514?hl=en&utm_source=linkedin&domain=aexp.com) | Jan 22, 2026 |
+| American Express | Campus Undergraduate Technology Software Engineer Internship | Toronto, ON | Closed🔒 | Jan 22, 2026 |
 | The Walt Disney Company | Production Engineering Intern - Summer 2026 | Vancouver, BC | Closed🔒 | Jan 21, 2026 |
 | ↳ | Studio Talent Group Intern - Summer 2026 | Vancouver, BC | Closed🔒 | Jan 21, 2026 |
 | ↳ | Graduate Production Engineer Research Intern | Vancouver, BC | Closed🔒 | Jan 21, 2026 |
@@ -280,7 +280,7 @@ Building this repository to make it easier for Canadian students to find interns
 | HeyGen | AI Research Engineer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/heygen/jobs/4598879007) | Jan 21, 2026 |
 | NXP Semiconductors | Digital Logic Design Engineering Student | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Digital-Logic-Design-Engineering-Student--COOP-Intern----Summer-2026_R-10061220) | Jan 21, 2026 |
 | ↳ | Software Engineering Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Kanata/Software-Engineering-Intern---Summer-2026_R-10061229) | Jan 21, 2026 |
-| Blackberry | Hardware Engineering Student | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Hardware-Engineering-Student--4-or-8-month-term-_20250381) | Jan 21, 2026 |
+| Blackberry | Hardware Engineering Student | Kitchener, ON | Closed🔒 | Jan 21, 2026 |
 | Shoppers Drug Mart | Quo Beauty Product Development Student | Toronto, ON | Closed🔒 | Jan 21, 2026 |
 | GoMaterials | Product & AI Enablement Intern | Montreal, QC | Closed🔒 | Jan 21, 2026 |
 | Autodesk | Finance Business Intelligence Developer Intern | Toronto, ON | Closed🔒 | Jan 20, 2026 |
@@ -315,7 +315,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Oracle | Product Manager, Full Time Intern Conversion, Netsuite | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/322740) | Jan 16, 2026 |
 | Nokia | AI/ML Coop/Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28967) | Jan 16, 2026 |
 | AstraZeneca | Data & AI Solutions Intern | Mississauga, ON | Closed🔒 | Jan 16, 2026 |
-| Enbridge | SharePoint & Document Management Support - Summer Student | Edmonton, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.livehire.com/careers/enbridge/job/JBPER/7SXCQNUS4/sharepoint-document-management-support-summer-student) | Jan 16, 2026 |
+| Enbridge | SharePoint & Document Management Support - Summer Student | Edmonton, AB | Closed🔒 | Jan 16, 2026 |
 | RBC | Professional Experience Year (PEY) Student - Artificial Intelligence/Machine Learning Engineer | Toronto, ON | Closed🔒 | Jan 15, 2026 |
 | Faire | Data Science Intern | Kitchener, ON / Toronto, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/faire/jobs/8376377002) | Jan 15, 2026 |
 | CAE | C++ CGF Unreal Developer Intern | Montreal, QC | Closed🔒 | Jan 15, 2026 |
@@ -449,7 +449,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Nokia | Software Development Intern/Co-op | Ottawa, ON | Closed🔒 | Dec 3 |
 | TD Bank | TD Talent Connect - Co-op/Intern Applicants - University of Toronto - January 2026 | Toronto, ON | Closed🔒 | Dec 3 |
 | BMO | Capital Markets Full Stack Engineer Intern | Toronto, ON | Closed🔒 | Dec 2 |
-| Cisco | Software Developer – Intern I – Canada | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.cisco.com/global/en/job/2003137) | Dec 1 |
+| Cisco | Software Developer | Ottawa, ON | Closed🔒 | Dec 1 |
 | Standard Aero | Computer Engineering Intern - TFE Service Team | Winnipeg, MB | Closed🔒 | Dec 1 |
 | Ticketmaster | Software Developer Intern | Toronto, ON / Vancouver, BC | Closed🔒 | Nov 26 |
 | TD | TD Future Connect Networking Event | Toronto, ON | Closed🔒 | Nov 23 |
