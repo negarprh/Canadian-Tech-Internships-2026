@@ -50,6 +50,10 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| CAE | Junior Software Developer | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Halifax/C-DS-900-Junior-Software-Developer-Intern_120426) | Feb 16, 2026 |
+| ↳ | C-MAT-100 Engineering Intern | Moose Jaw, SK | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Moose-Jaw-CMAT/C-MAT-100-Engineering-Intern_120402) | Feb 16, 2026 |
+| Trimble | Application Engineer Test Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Remote-Alberta/Application-Engineer-Test-Intern_R54720) | Feb 16, 2026 |
+| ABB | EML Product Management Intern | Dorval, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://abb.wd3.myworkdayjobs.com/external_career_page/job/Dorval-Quebec-Canada/EML-Product-Management-Intern-2026_JR00024615-1) | Feb 16, 2026 |
 | Interac | Software Development Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Software-Development-Intern_REQ-2110) | Feb 14, 2026 |
 | ↳ | AI Product Delivery Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/AI-Product-Delivery-Intern_REQ-2116) | Feb 14, 2026 |
 | ↳ | Product Management Intern, Verified | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://interac.wd3.myworkdayjobs.com/Interac/job/Toronto/Product-Management-Intern--Verified-_REQ-2101) | Feb 14, 2026 |
