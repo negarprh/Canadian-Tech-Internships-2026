@@ -172,7 +172,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Intern, Data Engineer | Toronto, ON | Closed🔒 | Jan 31, 2026 |
 | ↳ | Intern, Full Stack Software Developer | Toronto, ON | Closed🔒 | Jan 31, 2026 |
 | ↳ | Intern, Data Scientist | Toronto, ON | Closed🔒 | Jan 31, 2026 |
-| PepsiCo Canada | Data Science Co-op - Summer 2026 | Mississauga, QN | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pepsicojobs.com/main/jobs/394261?lang=en-us&previousLocale=en-US) | Jan 30, 2026 |
+| PepsiCo Canada | Data Science Co-op - Summer 2026 | Mississauga, QN | Closed🔒 | Jan 30, 2026 |
 | Expedia Group | Développeur(euse) - De logiciels | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels---Stagiaire-pour-l-t-2026--Montral_R-101286-1) | Jan 30, 2026 |
 | ↳ | Développeur(euse) - Pour l’application mobile | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile---Stagiaire-pour-l-t-2026--Montral_R-101288-1) | Jan 30, 2026 |
 | 1Password | Developer Intern - Knox | Remote, Canada | Closed🔒 | Jan 30, 2026 |
@@ -258,7 +258,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
