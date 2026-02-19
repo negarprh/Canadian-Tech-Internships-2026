@@ -172,9 +172,9 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Intern, Data Engineer | Toronto, ON | Closed🔒 | Jan 31, 2026 |
 | ↳ | Intern, Full Stack Software Developer | Toronto, ON | Closed🔒 | Jan 31, 2026 |
 | ↳ | Intern, Data Scientist | Toronto, ON | Closed🔒 | Jan 31, 2026 |
-| PepsiCo Canada | Data Science Co-op - Summer 2026 | Mississauga, QN | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pepsicojobs.com/main/jobs/394261?lang=en-us&previousLocale=en-US) | Jan 30, 2026 |
-| Expedia Group | Développeur(euse) - De logiciels | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--de-logiciels---Stagiaire-pour-l-t-2026--Montral_R-101286-1) | Jan 30, 2026 |
-| ↳ | Développeur(euse) - Pour l’application mobile | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://expedia.wd108.myworkdayjobs.com/search/job/Canada---Quebec---Montreal/Dveloppeur--euse--pour-l-application-mobile---Stagiaire-pour-l-t-2026--Montral_R-101288-1) | Jan 30, 2026 |
+| PepsiCo Canada | Data Science Co-op - Summer 2026 | Mississauga, QN | Closed🔒 | Jan 30, 2026 |
+| Expedia Group | Développeur(euse) - De logiciels | Montreal, QC | Closed🔒 | Jan 30, 2026 |
+| ↳ | Développeur(euse) - Pour l’application mobile | Montreal, QC | Closed🔒 | Jan 30, 2026 |
 | 1Password | Developer Intern - Knox | Remote, Canada | Closed🔒 | Jan 30, 2026 |
 | ↳ | Developer Intern - Trust Platforms | Remote, Canada | Closed🔒 | Jan 30, 2026 |
 | ↳ | Developer Intern - Extension Excellence | Remote, Canada | Closed🔒 | Jan 30, 2026 |
