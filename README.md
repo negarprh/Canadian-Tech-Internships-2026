@@ -457,7 +457,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Studio Talent Group Intern | Vancouver, BC | Closed🔒 | Dec 11 |
 | DataVisor | Backend Software Engineer Internship | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/) | Dec 10 |
 | Dialpad | Software Engineer Co-op | Kitchener, ON / Vancouver, BC | Closed🔒 | Dec 10 |
-| Amazon | Software Development Engineer Intern - Summer 2026 | Toronto, ON / Ottawa, ON / Calgary, AB / Vancouver, BC / Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada) | Dec 9 |
+| Amazon | Software Development Engineer Intern - Summer 2026 | Toronto, ON / Ottawa, ON / Calgary, AB / Vancouver, BC / Victoria, BC | Closed🔒 | Dec 9 |
 | SAP | SAP iXp Intern - Associate Full Stack Developer | Montréal, QC | Closed🔒 | Dec 9 |
 | ↳ | SAP iXp Intern - Software Developer | Montréal, QC | Closed🔒 | Dec 9 |
 | Magna | Software Engineering Co-op | Newmarket, ON | Closed🔒 | Dec 9 |
@@ -531,7 +531,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Autodesk | Stagiaire en Développement Logiciel – Intern Software Developer | Montreal, QC | Closed🔒 | Oct 27 |
 | ↳ | Stagiaire en Développement Cloud – Intern Cloud Developer | Montreal, QC | Closed🔒 | Oct 27 |
 | Coveo | Software Developer Intern, Winter 2026 (Index Infrastructure) | Montreal, QC | Closed🔒 | Oct 27 |
-| Amazon | Software Development Engineer Internship – Summer 2026 | Vancouver, BC - Toronto, ON - Ottawa, ON - Calgary, AB - Victoria, BC - Winnipeg, MB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada) | Oct 27 |
+| Amazon | Software Development Engineer Internship – Summer 2026 | Vancouver, BC - Toronto, ON - Ottawa, ON - Calgary, AB - Victoria, BC - Winnipeg, MB | Closed🔒 | Oct 27 |
 | Siemens | Software Developer Intern (Fullstack) - Co-op | Toronto, ON | Closed🔒 | Oct 27 |
 | Electronic Arts | Software Engineer Intern | Vancouver, BC | Closed🔒 | Oct 24 |
 | Zebra Technologies | 2026 Winter Internship (CAN) – CI/CD DevOps and Automation Intern | Montreal, QC | Closed🔒 | Oct 24 |
