@@ -337,8 +337,8 @@ Building this repository to make it easier for Canadian students to find interns
 | Harris Computer | Systems Analyst | Remote, Canada | Closed🔒 | Jan 16, 2026 |
 | Viavi Solutions | Instrumentation Software Co-Op | Ottawa, ON | Closed🔒 | Jan 16, 2026 |
 | IKO | BI Developer Co-Op | Mississauga, ON | Closed🔒 | Jan 16, 2026 |
-| Wealthsimple | Intern Software Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/wealthsimple/6d809709-f7e2-410c-b186-869ebc960994/apply) | Jan 16, 2026 |
-| ↳ | Data Science | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/wealthsimple/ff351b04-1180-43b8-9eff-973d52b12c82/apply) | Jan 16, 2026 |
+| Wealthsimple | Intern Software Developer | Toronto, ON | Closed🔒 | Jan 16, 2026 |
+| ↳ | Data Science | Toronto, ON | Closed🔒 | Jan 16, 2026 |
 | General Dynamics UK | Advanced Vetronics Software Development, M1A1 Battle Tank | Ottawa, ON | Closed🔒 | Jan 16, 2026 |
 | Oracle | Product Manager, Full Time Intern Conversion, Netsuite | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/322740) | Jan 16, 2026 |
 | Nokia | AI/ML Coop/Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28967) | Jan 16, 2026 |
