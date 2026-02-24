@@ -14,7 +14,7 @@ You can contribute **with or without coding**.
 3. Select **Add internship**
 4. Fill the form and submit
 
-🤖 A bot will automatically:
+It will automatically:
 - add the internship to the table
 - open a Pull Request
 - link it back to your issue
