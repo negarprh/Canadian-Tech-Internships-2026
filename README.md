@@ -48,6 +48,11 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Kabam | Software Engineer Co-op (Systems) | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/kabam/3e547642-cba0-43e3-8f7f-1b00b2befc13) | Feb 23, 2026 |
+| Primetals Technologies | Full Stack Developer Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mhicareers.com/job/Mississauga-Full-Stack-Developer-Intern-ON-L4V-1J4/1367354333/?ats=successfactors) | Feb 23, 2026 |
+| Thales | Data Science Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Ottawa/Data-Science-Intern-Co-op_R0316248-1) | Feb 23, 2026 |
+| Bank of Montreal | Analyst, Co-op/Internship, Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Analyst--Summer-2026---Co-op-Internship----4-Months_R260005814-3) | Feb 23, 2026 |
+| Nestle | Applications Web Developer Intern | North York, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobdetails.nestle.com/job/North-York-Applications-Web-Developer-Intern-ON/1258794601/?ats=successfactors) | Feb 23, 2026 |
 | Intuit | Data Analytics Co-op (4 Months), Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.intuit.com/job/toronto/summer-2026-data-analytics-co-op-4-months/27595/92055106800) | Feb 23, 2026 |
 | Circle K | Data Science Intern, Global Data & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://circlek.wd3.myworkdayjobs.com/circlekstorejobs/job/Nonstore-ON10000305-Toronto-ON/Data-Science-Intern--Global-Data---Analytics_R565956-1) | Feb 23, 2026 |
 | Broadridge | Junior Analyst Product Management Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://broadridge.wd5.myworkdayjobs.com/careers/job/Vancouver---555-Burrard-Street/Jr-Analyst-Product-Management-Intern--Hybrid-_JR1080696) | Feb 20, 2026 |
