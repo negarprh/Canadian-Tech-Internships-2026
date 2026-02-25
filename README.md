@@ -151,7 +151,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Instacart | Data Science PhD Intern | Remote, Canada | Closed🔒 | Feb 5, 2026 |
 | Ciena | Waveserver Platform Software Developer Co-op | Ottawa, ON | Closed🔒 | Feb 5, 2026 |
 | Sony Interactive Entertainment | Pipeline Programmer Inten | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5792257004) | Feb 5, 2026 |
-| Ripple | Software Engineer Intern, Data Engineering | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7586462?gh_jid=7586462) | Feb 5, 2026 |
+| Ripple | Software Engineer Intern, Data Engineering | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | ↳ | Site Deployment, Intern | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | AstraZeneca | Machine Learning Research Intern - Summer 2026 | Mississauga, ON | Closed🔒 | Feb 4, 2026 |
