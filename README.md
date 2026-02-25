@@ -151,7 +151,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Instacart | Data Science PhD Intern | Remote, Canada | Closed🔒 | Feb 5, 2026 |
 | Ciena | Waveserver Platform Software Developer Co-op | Ottawa, ON | Closed🔒 | Feb 5, 2026 |
 | Sony Interactive Entertainment | Pipeline Programmer Inten | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5792257004) | Feb 5, 2026 |
-| Ripple | Software Engineer Intern, Data Engineering | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7586462?gh_jid=7586462) | Feb 5, 2026 |
+| Ripple | Software Engineer Intern, Data Engineering | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | ↳ | Site Deployment, Intern | Toronto, ON | Closed🔒 | Feb 5, 2026 |
 | AstraZeneca | Machine Learning Research Intern - Summer 2026 | Mississauga, ON | Closed🔒 | Feb 4, 2026 |
@@ -282,7 +282,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
