@@ -46,6 +46,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
+
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Intel | Compiler Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0280843) | Feb 26, 2026 |
@@ -758,7 +759,7 @@ Building this repository to make it easier for Canadian students to find interns
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
 | Cresta | Full Stack Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Jun 26, 2025 |
 | ↳ | Associate Conversational AI Design Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4125376008) | Jun 26, 2025 |
-
+| ada CX | Software Engineering Intern | Remote | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/ada18/jobs/5063079007) | Feb 25 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
