@@ -172,7 +172,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Sony Interactive Entertainment | Game Intelligence Analyst | Montreal, QC | Closed🔒 | Feb 6, 2026 |
 | Ciena | Software Design Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Intern--May-2026---12-Months-_R030074) | Feb 6, 2026 |
 | Bank of Montreal | Data Analyst Intern | Toronto, ON | Closed🔒 | Feb 6, 2026 |
-| Kinaxis | Co-Op/Intern Software Engineer - AI | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/34300/job?mobile=true&needsRedirect=false) | Feb 6, 2026 |
+| Kinaxis | Co-Op/Intern Software Engineer - AI | Ottawa, ON | Closed🔒 | Feb 6, 2026 |
 | CGI | .NET Developer | Saguenay, QC | Closed🔒 | Feb 5, 2026 |
 | RTX | Intern, Digital Project Engineer | Mississauga, ON | Closed🔒 | Feb 5, 2026 |
 | CIBC | Data Analyst, Summer 2026 Co-op | Toronto, ON | Closed🔒 | Feb 5, 2026 |
@@ -314,7 +314,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
