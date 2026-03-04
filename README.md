@@ -48,6 +48,14 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Intel | Compiler Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0280837) | Mar 2, 2026 |
+| Mercury | Software Engineer Intern, AI Enablement, Fall 2026 | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5817107004) | Mar 2, 2026 |
+| ↳ | Full-Stack Engineer Intern, Fall 2026| Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5817004004) | Mar 2, 2026 |
+| ↳ | Frontend Engineering Intern, Fall 2026 | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5817113004) | Mar 2, 2026 |
+| Citco | Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/12547) | Mar 2, 2026 |
+| League | AI Engineer Co-op, Spring/Summer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/leagueinc/jobs/5817024004) | Mar 2, 2026 |
+| ↳ | Data Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/leagueinc/jobs/5817019004) | Mar 2, 2026 |
+| Larian Studios | Scripting Intern | Quebec City, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/larian/05191579-a3e5-4e2d-9ad2-b9b790d60a89) | Mar 2, 2026 |
 | Saputo | IT Analytics Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://saputo.wd5.myworkdayjobs.com/saputo_external_careers/job/Montral-QC/IT-Analytics-Intern---Finance---HR-Solutions_JR62566) | Mar 2, 2026 |
 | Bank of Montreal | Junior System Support, Business Solutions Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-System-Support--Business-Solutions-Intern_R260006807-1) | Feb 27, 2026 |
 | Global Relay | Co-op Java Developer, Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=5815444004) | Feb 27, 2026 |
