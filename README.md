@@ -48,6 +48,11 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Altera Corporation | FPGA IP Design Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://altera.wd1.myworkdayjobs.com/altera/job/Toronto-Ontario-Canada/FPGA-IP-Design-Engineer-Intern_R02058) | Mar 3, 2026 |
+| Arctic Wolf | Developer Co-op | Waterloo, ON / Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://arcticwolf.wd1.myworkdayjobs.com/en-US/External/job/Remote-Canada/Developer-Co-op---Spring-Term--May-Aug-2026--_R26_109) | Mar 3, 2026 |
+| ASM Global | Hospitality and Merchandise Insights Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Toronto-ON-Canada/Hospitality-and-Merchandise-Insights-Intern_R100120701) | Mar 3, 2026 |
+| TD Bank | Business Systems Analyst, Preferred Candidate | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Business-Systems-Analyst-Intern-Co-op--Summer-2026-_R_1456886) | Mar 3, 2026 |
+| Noda | Full Stack Developer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://noda-1720000970.teamtailor.com/jobs/7325506-full-stack-developer-intern?ats=teamtailor) | Mar 3, 2026 |
 | Intel | Compiler Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0280837) | Mar 2, 2026 |
 | Mercury | Software Engineer Intern, AI Enablement, Fall 2026 | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5817107004) | Mar 2, 2026 |
 | ↳ | Full-Stack Engineer Intern, Fall 2026| Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/mercury/jobs/5817004004) | Mar 2, 2026 |
