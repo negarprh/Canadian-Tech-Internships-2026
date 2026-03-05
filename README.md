@@ -67,7 +67,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Co-op Java Developer, Summer 2026 | Kelowna, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=5815433004) | Feb 27, 2026 |
 | ↳ | Co-op Java Developer | Halifax , NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=5815419004) | Feb 27, 2026 |
 | RTX | Intern, Program Management | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---t-2026---Gestion-des-programmes_01826567) | Feb 27, 2026 |
-| Intel | Compiler Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Compiler-Engineering-Intern_JR0280843) | Feb 26, 2026 |
+| Intel | Compiler Engineer Intern | Toronto, ON | Closed🔒 | Feb 26, 2026 |
 | onsemi | Spring 2026 Co-op | Kitchener, ON | Closed🔒 | Feb 26, 2026 |
 | Bank of Montreal | Cloud Developer, Co-op/Internship, Summer 2026 | Toronto, ON | Closed🔒 | Feb 26, 2026 |
 | Motorola | Summer Software Engineer Co-Op | Gatineau, QC | Closed🔒 | Feb 26, 2026 |
