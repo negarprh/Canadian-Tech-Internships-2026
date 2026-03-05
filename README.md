@@ -297,7 +297,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Holman | Developer Intern/Co-op | Mississauga, ON | Closed🔒 | Jan 28, 2026 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Zebra Technologies | ATS/ALT Product Manager, Internship, 16-Month | Mississauga, ON | Closed🔒 | Jan 28, 2026 |
-| Electronic Arts | Software Engineer Co-Op | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-Op-SUMMER-2026-8-months/211914) | Jan 28, 2026 |
+| Electronic Arts | Software Engineer Co-Op | Victoria, BC | Closed🔒 | Jan 28, 2026 |
 | Kroll | Intern, Technology - AI & Data Science | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Element Fleet Management | Applied AI & Data Intern / Co-op | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Manulife Financial | Product Documentation Specialist, Co-op | Toronto, ON / Waterloo, ON | Closed🔒 | Jan 28, 2026 |
@@ -327,7 +327,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
@@ -681,7 +681,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Pason | Software Developer Intern (Datahub) | Calgary, AB | Closed🔒 | Sep 18 |
 | ↳ | Software Developer Intern (Quality Assurance) | Calgary, AB | Closed🔒 | Sep 18 |
 | ↳ | Software Developer Intern (Enterprise Applications) | Calgary, AB | Closed🔒 | Sep 18 |
-| AMD | Software Engineering Intern/ Co-op | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.amd.com/careers-home/jobs/71713?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Sep 18 |
+| AMD | Software Engineering Intern/ Co-op | Calgary, AB | Closed🔒 | Sep 18 |
 | CIBC | Application/Software Developer Co-op | Toronto, ON | Closed🔒 | Sep 18 |
 | ↳ | Technical Systems Analyst Co-op | Toronto, ON | Closed🔒 | Sep 17 |
 | ↳ | Application/Software Developer Co-op - Enterprise Technology & Business Management | Toronto, ON | Closed🔒 | Sep 17 |
