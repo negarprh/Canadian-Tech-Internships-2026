@@ -311,7 +311,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Holman | Developer Intern/Co-op | Mississauga, ON | Closed🔒 | Jan 28, 2026 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Zebra Technologies | ATS/ALT Product Manager, Internship, 16-Month | Mississauga, ON | Closed🔒 | Jan 28, 2026 |
-| Electronic Arts | Software Engineer Co-Op | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Co-Op-SUMMER-2026-8-months/211914) | Jan 28, 2026 |
+| Electronic Arts | Software Engineer Co-Op | Victoria, BC | Closed🔒 | Jan 28, 2026 |
 | Kroll | Intern, Technology - AI & Data Science | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Element Fleet Management | Applied AI & Data Intern / Co-op | Toronto, ON | Closed🔒 | Jan 28, 2026 |
 | Manulife Financial | Product Documentation Specialist, Co-op | Toronto, ON / Waterloo, ON | Closed🔒 | Jan 28, 2026 |
