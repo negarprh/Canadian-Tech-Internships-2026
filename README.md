@@ -104,7 +104,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Motorola | Localization Software Developer, Co-Op | Vancouver, BC | Closed🔒 | Feb 25, 2026 |
 | McKesson | Transportation Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Transportation-Analyst-Intern---Summer-2026_JR0143349) | Feb 25, 2026 |
 | ↳ | Mckesson Technology CRM Intern, Summer 2026 | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/McKesson-Technology-CRM-Intern---Summer-2026_JR0143341) | Feb 25, 2026 |
-| Bank of Montreal | Data Analyst Intern, Co-op/Internship, Business Banking Summer 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data--Analyst-Intern--Business-Banking-Summer-2026--Co-op-Internship----4-Months_R260006374-1) | Feb 25, 2026 |
+| Bank of Montreal | Data Analyst Intern, Co-op/Internship, Business Banking Summer 2026 | Toronto, ON | Closed🔒 | Feb 25, 2026 |
 | Ada | Software Engineering Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/ada18/jobs/5063079007) | Feb 25, 2026 |
 | Correlation One | Lead Instructor: Data Analytics, Apprenticeship Program | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/correlationone/jobs/5812901004) | Feb 25, 2026 |
 | Capital One | Full Stack Software Engineer | Toronto, ON | Closed🔒 | Feb 24, 2026 |
@@ -125,16 +125,16 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Data Analyst Intern, Business Banking, Summer 2026 | Toronto, ON | Closed🔒 | Feb 20, 2026 ||
 | Aptiv | Engineering Intern | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693038) | Feb 20, 2026 |
 | ↳ | Engineering Intern | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693035) | Feb 20, 2026 |
-| ↳ | Engineering Intern | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | Feb 20, 2026 |
+| ↳ | Engineering Intern | Kanata, ON | Closed🔒 | Feb 20, 2026 |
 | ↳ | Engineering Intern | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000693031) | Feb 20, 2026 |
 | McGill University | Software Developer | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Montreal-Neuro/Software-Developer_JR0000074069) | Feb 20, 2026 |
 | Ciena | Software Engineer Intern - Security | Ottawa, ON | Closed🔒 | Feb 20, 2026 |
-| Bank of Montreal | Junior Engineer, Co-op/Internship, Electronic Trading Infrastructure, Summer 2026 | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/REMOTETELETRAVAIL-ON-CAN/Junior-Engineer--Electronic-Trading-Infrastructure--Summer-2026--Co-op-Internship----4-months_R260005626-1) | Feb 19, 2026 |
+| Bank of Montreal | Junior Engineer, Co-op/Internship, Electronic Trading Infrastructure, Summer 2026 | Remote, Canada | Closed🔒 | Feb 19, 2026 |
 | Equifax | Business Systems Analyst Intern/Co-op | Toronto, ON | Closed🔒 | Feb 19, 2026 |
-| Jonas Software | Jonas Summer Internship – Various Departments | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Summer-Internship---Various-Departments_R45900-1) | Aug 02 |
+| Jonas Software | Jonas Summer Internship – Various Departments | Remote in Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Jonas-Summer-Internship---Various-Departments_R45900-1) | Feb 19, 2026 |
 | Kensington | Travel Product Data & AI Attribution Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/kensingtontours/jobs/5055600007) | Feb 19, 2026 |
-| Critical Mass | Development Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/criticalmass/jobs/7592492) | Feb 20, 2026 |
-| ↳ | Development Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/criticalmass/jobs/7592485) | Feb 19, 2026 |
+| Critical Mass | Development Intern | Toronto, ON | Closed🔒 | Feb 20, 2026 |
+| ↳ | Development Intern | Calgary, AB | Closed🔒 | Feb 19, 2026 |
 | Mars | Data Analytics & Automation Development Student | Edmonton, AB / Acheson, AB | Closed🔒 | Feb 18, 2026 |
 | CAE | CAE Innovation Challenges 2026: Next Generation Immersive Environment Technologies | Montréal, QC | Closed🔒 | Feb 18, 2026 |
 | ↳ | CAE Innovation Challenges 2026: Digital Twins from Sea to Space | Montreal, QC | Closed🔒 | Feb 18, 2026 |
@@ -187,26 +187,26 @@ Building this repository to make it easier for Canadian students to find interns
 | Oracle | Oracle Database Research Intern | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/326305) | Feb 10, 2026 |
 | Fullscript | Software Developer | Ottawa, ON / Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/fullscript/b4711825-bb32-4704-b8f1-1d2538cad4f8) | Feb 10, 2026 |
 | Nokia | Optical Test Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31730) | Feb 10, 2026 |
-| Guidewire | Strategy & Analytics Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/Canada---Toronto/Strategy---Analytics-Intern_JR_14350) | Feb 10, 2026 |
+| Guidewire | Strategy & Analytics Intern | Toronto, ON | Closed🔒 | Feb 10, 2026 |
 | Bank of Montreal | Junior Mainframe Developer – Co-op/Intern | Toronto, ON | Closed🔒 | Feb 9, 2026 |
 | Altera Corporation | High Level Synthesis, Compiler Intern | Toronto, ON | Closed🔒 | Feb 9, 2026 |
 | Ciena | Waveserver Software Developer Co-op | Ottawa, ON | Closed🔒 | Feb 9, 2026 |
 | Twilio | Software Engineer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/twilio/jobs/7560248) | Feb 9, 2026 |
 | Intuit | Marketing Technology & Data Activation | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.intuit.com/job/toronto/summer-2026-marketing-technology-and-data-activation-co-op-4-months/27595/91554045808) | Feb 9, 2026 |
-| Thomson Reuters | Applied Research Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/Canada-Toronto-Ontario/Applied-Research-Intern_JREQ198103) | Feb 9, 2026 |
+| Thomson Reuters | Applied Research Intern | Remote, Canada | Closed🔒 | Feb 9, 2026 |
 | Seaspan | Intern, Dto, Enterprise Analytics | Vancouver, BC | Closed🔒 | Feb 9, 2026 |
 | ↳ | Business Technology Solutions, Enterprise Resource Planning Implementation | Vancouver, BC | Closed🔒 | Feb 9, 2026 |
 | ↳ | Intern, Data & Integrations | Vancouver, BC | Closed🔒 | Feb 9, 2026 |
 | Ciena | Automation Tools Development | Ottawa, ON | Closed🔒 | Feb 9, 2026 |
-| ↳ | AI Software Developer | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/CO-OP-Intern--AI-Software-Developer_R030079) | Feb 9, 2026 |
+| ↳ | AI Software Developer | Ottawa, ON | Closed🔒 | Feb 9, 2026 |
 | ↳ | AI Software Developer Intern/Co-op | Ottawa, ON | Closed🔒 | Feb 9, 2026 |
 | Motorola | Design Validation Intern/Co-op | Vancouver, BC | Closed🔒 | Feb 9, 2026 |
 | Mikata Health | Healthcare Data Science Intern | Calgary, AB | Closed🔒 | Feb 9, 2026 |
 | Resmed | Software Engineer Intern | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/Halifax-Canada/Software-Engineer-Intern_JR_047978) | Feb 6, 2026 |
 | CIBC | Data Analyst | Toronto, ON | Closed🔒 | Feb 6, 2026 |
 | Sun Life | Student Gen AI Engineer, SLC Management | Toronto, ON / Waterloo, ON | Closed🔒 | Feb 6, 2026 |
-| Blackberry | Software Development Student, iOS | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Software-Development-Student---iOS_20260071) | Feb 6, 2026 |
-| ↳ | Software Development Student, Android | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Waterloo-Ontario/Software-Development-Student---Android_20260073) | Feb 6, 2026 |
+| Blackberry | Software Development Student, iOS | Waterloo, ON | Closed🔒 | Feb 6, 2026 |
+| ↳ | Software Development Student, Android | Waterloo, ON | Closed🔒 | Feb 6, 2026 |
 | Sony Interactive Entertainment | Game Intelligence Analyst | Montreal, QC | Closed🔒 | Feb 6, 2026 |
 | Ciena | Software Design Intern | Ottawa, ON | Closed🔒 | Feb 6, 2026 |
 | Bank of Montreal | Data Analyst Intern | Toronto, ON | Closed🔒 | Feb 6, 2026 |
@@ -706,7 +706,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Pason | Software Developer Intern (Datahub) | Calgary, AB | Closed🔒 | Sep 18 |
 | ↳ | Software Developer Intern (Quality Assurance) | Calgary, AB | Closed🔒 | Sep 18 |
 | ↳ | Software Developer Intern (Enterprise Applications) | Calgary, AB | Closed🔒 | Sep 18 |
-| AMD | Software Engineering Intern/ Co-op | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.amd.com/careers-home/jobs/71713?lang=en-us&iis=Job%20Board&iisn=Linkedin) | Sep 18 |
+| AMD | Software Engineering Intern/ Co-op | Calgary, AB | Closed🔒 | Sep 18 |
 | CIBC | Application/Software Developer Co-op | Toronto, ON | Closed🔒 | Sep 18 |
 | ↳ | Technical Systems Analyst Co-op | Toronto, ON | Closed🔒 | Sep 17 |
 | ↳ | Application/Software Developer Co-op - Enterprise Technology & Business Management | Toronto, ON | Closed🔒 | Sep 17 |
