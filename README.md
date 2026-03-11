@@ -48,6 +48,14 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Harris Computer | Health Informatics Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Remote---Saskatchewan/Intern_R0040214) | Mar 10, 2026 |
+| Hitachi | Platforms Development Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Platforms-Development-Intern_R1011958) | Mar 10, 2026 |
+| Autodesk | Intern, Software Developer | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Intern--Software-Developer_25WD92317) | Mar 10, 2026 |
+| Solink | Software Developer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/solink/506e5910-4e59-4464-b38d-341151fc71d1/) | Mar 10, 2026 |
+| S&C Electric Company | Data Analyst, Sales Support | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/106395) | Mar 10, 2026 |
+| Definity Financial | AI & Cloud Platforms – Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8938) | Mar 10, 2026 |
+| Kensington | Intern, BI/Data Analyst | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/kensingtontours/jobs/5074908007) | Mar 10, 2026 |
+| Rolls Royce | Data Analytics Intern, Pre-Owned  | Vaughan, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.bmwgroup.com/job/Richmond-Hill-Data-Analytics-Intern,-Pre-Owned-(12-Months)-ON/1372083433/?ats=successfactors) | Mar 10, 2026 |
 | OLG | Forensic Investigator Student | Sault Ste. Marie, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Forensic-Investigator-Student_R26_00084) | Mar 9, 2026 |
 | Bank of Montreal | Data Analyst, Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Summer-2025--Co-op-Internship----4-Months_R260001703) | Mar 9, 2026 |
 | Juniper Square | AI Engineer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/junipersquare/48d40321-aba6-46a8-a438-d58d0caba7cd/application) | Mar 9, 2026 |
