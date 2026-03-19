@@ -392,11 +392,11 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
-| Dropbox | Support Enablement Engineer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/embed/job_app?token=7531481) | Jan 23, 2026 |
+| Dropbox | Support Enablement Engineer Intern | Remote, Canada | Closed🔒 | Jan 23, 2026 |
 | Block | Mobile Software Engineer Intern - Summer 2026 | Remote / Toronto, ON, Canada | Closed🔒 | Jan 23, 2026 |
 | Ciena | Backend Development Engineer Intern/Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | CIBC | Production Support Intern/Co-op - Enterprise Technology & Business Management | Toronto, ON | Closed🔒 | Jan 23, 2026 |
@@ -572,7 +572,7 @@ Building this repository to make it easier for Canadian students to find interns
 | RBC | RBC Borealis - Machine Learning Software Engineer | Toronto, ON / Calgary, AL / Vancouver, BC | Closed🔒 | Dec 12 |
 | ↳ | Technology & Operations - Technical Systems Analyst | Toronto, ON | Closed🔒 | Dec 12 |
 | ↳ | Technology & Operations - Software Developer | Toronto, ON | Closed🔒 | Dec 12 |
-| Rivian | Software Engineering Intern, Applications - Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/28275) | Dec 12 |
+| Rivian | Software Engineering Intern, Applications - Summer 2026 | Vancouver, BC | Closed🔒 | Dec 12 |
 | ↳ | Software Engineering Intern, Connected Systems - Summer 2026 | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.rivian.com/careers-home/jobs/28274) | Dec 12 |
 | The Walt Disney Company | Production Engineering Intern | Vancouver, BC | Closed🔒 | Dec 12 |
 | ↳ | Studio Talent Group Intern | Vancouver, BC | Closed🔒 | Dec 11 |
