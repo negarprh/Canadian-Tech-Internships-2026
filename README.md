@@ -48,6 +48,9 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Bank of Montreal | Junior Analyst, Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Analyst--Investments--Summer-2026--Co-op-Internship----4-months_R260008182) | Mar 19, 2026 |
+| The Trade Desk | Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.thetradedesk.com/jobs/4959712007/2026-toronto-software-engineering-internship) | Mar 19, 2026 |
+| Solink | Software Engineer Co-op, AI/ML | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/) | Mar 19, 2026 |
 | Calix | Software Engineering Intern, Cloud Architecture | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/Software-Engineering-Intern--Cloud-Architecture_R-11509) | Mar 18, 2026 |
 | Assent | AI Research Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Assent/744000109933874) | Mar 18, 2026 |
 | Loblaw Companies | Replenishment Optimization Data & Analytics Co-op Student | Brampton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://myview.wd3.myworkdayjobs.com/paradox_careers/job/1-Presidents-Choice-Circle-Brampton-ON/Replenishment-Optimization-Data---Analytics---Co-op-Student_R2000631856) | Mar 18, 2026 |
