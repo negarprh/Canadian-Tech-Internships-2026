@@ -48,6 +48,8 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Hitachi | Software Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Toronto/Software-Analyst-Intern_R1012129-1) | Mar 20, 2026 |
+| Microsoft | Software Engineer, The Coalition: Intern Opportunities | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556851162) | Mar 20, 2026 |
 | Bank of Montreal | Junior Analyst, Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Analyst--Investments--Summer-2026--Co-op-Internship----4-months_R260008182) | Mar 19, 2026 |
 | The Trade Desk | Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.thetradedesk.com/jobs/4959712007/2026-toronto-software-engineering-internship) | Mar 19, 2026 |
 | Solink | Software Engineer Co-op, AI/ML | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/solink/4460f7ac-b697-4c9c-946d-16196a8ef58b/) | Mar 19, 2026 |
