@@ -48,7 +48,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Metrolinx | Co-op/Intern Student, PRESTO Asset and Inventory Management | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115789) | Mar 30, 2026 |
+| Metrolinx | Co-op/Intern Student, PRESTO Asset and Inventory Management | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115790) | Mar 30, 2026 |
 | ↳ | Co-op/Intern Student, Payments (PRESTO) Fraud Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115789) | Mar 27, 2026 |
 | Hootsuite | Co-Op/Intern - Software Developer | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.hootsuite.com/job/?gh_jid=7748887) | Mar 27, 2026 |
 | Tonal | Product Management Intern - Retail Sales & Demo Conversion | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tonal/cf73d31d-c250-425b-9748-01a7dbc47406/application) | Mar 27, 2026 |
