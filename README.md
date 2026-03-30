@@ -48,6 +48,10 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Metrolinx | Co-op/Intern Student, PRESTO Asset and Inventory Management | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115789) | Mar 30, 2026 |
+| ↳ | Co-op/Intern Student, Payments (PRESTO) Fraud Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ehtc.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115789) | Mar 27, 2026 |
+| Hootsuite | Co-Op/Intern - Software Developer | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.hootsuite.com/job/?gh_jid=7748887) | Mar 27, 2026 |
+| Tonal | Product Management Intern - Retail Sales & Demo Conversion | Toronto, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tonal/cf73d31d-c250-425b-9748-01a7dbc47406/application) | Mar 27, 2026 |
 | Kensington | Intern Frontend Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/kensingtontours/jobs/5091736007) | Mar 27, 2026 |
 | Zip | Software Engineer Intern - Fall 2026 | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/zip/caa5ba75-3b38-4d29-88cd-69a90b01fd6f/) | Mar 27, 2026 |
 | GSK | Business Intelligence Student | Laval, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Canada---Quebec---Laval/Business-Intelligence-Summer-Student_437838-1) | Mar 26, 2026 |
