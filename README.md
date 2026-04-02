@@ -77,7 +77,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Cloud SynApps | Salesforce Developer | Mississauga, ON | Closed🔒 | Mar 25, 2026 |
 | BenchSci | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/benchsci/bac8e1ed-5a5c-4951-a8d8-8b4ce90701c4/) | Mar 25, 2026 |
 | TD Bank | AI Researcher | Toronto, ON | Closed🔒 | Mar 24, 2026 |
-| ↳ | AI Research Intern | Toronto, ON | Closed🔒 | Mar 24, 2026 |
+| ↳ | AI Research Intern | Toronto, ON | Closed🔒| Mar 24, 2026 |
 | ↳ | AI Research Intern | Toronto, ON | Closed🔒 | Mar 24, 2026 |
 | Electronic Arts | Software Engineer Intern ML AI, Fall 2026 | Vancouver, BC | Closed🔒 | Mar 24, 2026 |
 | Intel | Compiler Engineering Intern, SYCL Runtime | Toronto, ON | Closed🔒 | Mar 24, 2026 |
