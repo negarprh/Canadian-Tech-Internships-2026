@@ -258,7 +258,7 @@ Building this repository to make it easier for Canadian students to find interns
 | United Therapeutics Corporation | Intern, Engineering Programs | Bromont, QC | Closed🔒 | Feb 18, 2026 |
 | Ivalua | Customer Application Engineer Intern | Montreal, QC | Closed🔒 | Feb 18, 2026 |
 | Manulife Financial | Intern/Co-op, Full Stack Software Engineer | Toronto, ON | Closed🔒 | Feb 18, 2026 |
-| Cisco | Software Developer, Intern, I | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.cisco.com/global/en/job/2009553) | Feb 17, 2026 |
+| Cisco | Software Developer, Intern, I | Ottawa, ON | Closed🔒 | Feb 17, 2026 |
 | Masco | Product Engineering Design Intern | Saint Thomas, ON | Closed🔒 | Feb 17, 2026 |
 | Marvell | Firmware Engineering Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Firmware-Engineering-Intern---Bachelor-s-Degree--Summer-2026-_2502464) | Feb 17, 2026 |
 | Bree | Software Engineer, Backend Co-op | Toronto, ON | Closed🔒 | Feb 17, 2026 |
