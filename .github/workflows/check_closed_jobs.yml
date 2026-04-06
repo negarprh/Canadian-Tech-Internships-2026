@@ -43,7 +43,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "Mark closed postings as Closed🔒"
           title: "Closed internship links"
-          body: "This PR replaces Apply buttons with **Closed🔒** for dead/filled postings."
+          body: "This PR replaces Apply buttons with **Closed🔒** for dead/filled or closed internship postings."
           branch: "auto/update-closed-links"
           add-paths: |
             README.md
