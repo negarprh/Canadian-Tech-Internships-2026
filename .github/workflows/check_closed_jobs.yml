@@ -41,8 +41,8 @@ jobs:
         uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "🤖 Mark closed postings as Closed🔒"
-          title: "🤖 Auto-update: closed internship links"
+          commit-message: "Mark closed postings as Closed🔒"
+          title: "Closed internship links"
           body: "This PR replaces Apply buttons with **Closed🔒** for dead/filled postings."
           branch: "auto/update-closed-links"
           add-paths: |
