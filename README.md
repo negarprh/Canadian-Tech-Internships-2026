@@ -48,6 +48,15 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| BMO | Software Application Developer, Co-op/Intern, 8 months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Application-Developer--Summer-2026--Co-op-Internship----8-months_R260001792) | Apr 6, 2026 |
+| ↳ | Software Engineer, Co-op/Intern, 8 months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Engineer---Summer-2026--Co-op-Internship----8-months_R260001556) | Apr 6, 2026 |
+| Tonal | Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tonal/0b7e9f3c-7658-4fef-8273-c7f12957c6cb/) | Apr 3, 2026 |
+| AtkinsRéalis | Intern Data Analyst and Support | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Intern--Data-Analyst-and-Support_R-152520-1) | Apr 2, 2026 |
+| General Motors | Software Developer, Advanced AI & Simulation | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Advanced-AI---Simulation--Co-Op-_JR-202607033) | Apr 2, 2026 |
+| Sentry | Software Engineer, Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/sentry/d2e3391f-9401-410a-b8a6-de3bf5f762b7/) | Apr 2, 2026 |
+| Kobo | Data Engineer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rakuten.wd1.myworkdayjobs.com/Kobo/job/Toronto-Canada/Data-Engineer-Co-op--8-12-Months-_1032676) | Apr 2, 2026 |
+| L3Harris Technologies | Embedded Software Engineering Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.l3harris.com/job/Ottawa-Embedded-Software-Engineering-Intern-ON-K2H-9N6/1379049700/?ats=successfactors) | Apr 2, 2026 |
+| BMO | Intern System Support | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Intern-System-Support_R260010147) | Apr 1, 2026 |
 | Procter & Gamble (P&G) | Digital Technologies Intern/Co-op, Sept 2026 Start | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://pg.wd5.myworkdayjobs.com/1000/job/TORONTO-GO/DIGITAL-TECHNOLOGIES-INTERNSHIP-CO-OP--SEPT-2026-START--COOP-EN-TECHNOLOGIES-NUMRIQUES--DATES-DE-DBUT-EN-SEPTEMBRE-2026_R000148904) | Apr 1, 2026 |
 | Diligent Corporation | Software Engineering Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/diligentcorporation/jobs/5834974004) | Apr 1, 2026 |
 | Ciena | Hardware Engineering | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months--May-2026-_R030579) | Apr 1, 2026 |
@@ -76,6 +85,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Nestle | Manufacturing Excellence Intern | Toronto, ON | Closed🔒 | Mar 25, 2026 |
 | Cloud SynApps | Salesforce Developer | Mississauga, ON | Closed🔒 | Mar 25, 2026 |
 | BenchSci | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/benchsci/bac8e1ed-5a5c-4951-a8d8-8b4ce90701c4/) | Mar 25, 2026 |
+| Hitachi | Site Deployment Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://gtsgbu.wd3.myworkdayjobs.com/Careers/job/Montreal/Site-Deployment--Intern-4-Months-_R1012175) | Mar 25, 2026 |
 | TD Bank | AI Researcher | Toronto, ON | Closed🔒 | Mar 24, 2026 |
 | ↳ | AI Research Intern | Toronto, ON | Closed🔒| Mar 24, 2026 |
 | ↳ | AI Research Intern | Toronto, ON | Closed🔒 | Mar 24, 2026 |
