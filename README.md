@@ -50,8 +50,8 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| BMO | Software Application Developer, Co-op/Intern, 8 months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Application-Developer--Summer-2026--Co-op-Internship----8-months_R260001792) | Apr 6, 2026 |
-| ↳ | Software Engineer, Co-op/Intern, 8 months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Engineer---Summer-2026--Co-op-Internship----8-months_R260001556) | Apr 6, 2026 |
+| BMO | Software Application Developer, Co-op/Intern, 8 months | Toronto, ON | Closed🔒 | Apr 6, 2026 |
+| ↳ | Software Engineer, Co-op/Intern, 8 months | Toronto, ON | Closed🔒 | Apr 6, 2026 |
 | Tonal | Software Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tonal/0b7e9f3c-7658-4fef-8273-c7f12957c6cb/) | Apr 3, 2026 |
 | AtkinsRéalis | Intern Data Analyst and Support | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://slihrms.wd3.myworkdayjobs.com/careers/job/CAQCMontral455-boul-Ren-Lvesque-Ouest/Intern--Data-Analyst-and-Support_R-152520-1) | Apr 2, 2026 |
 | General Motors | Software Developer, Advanced AI & Simulation | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Markham-Ontario-Canada/Software-Developer---Advanced-AI---Simulation--Co-Op-_JR-202607033) | Apr 2, 2026 |
