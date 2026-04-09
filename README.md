@@ -50,6 +50,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) | Apr 8, 2026 |
 | Bank of Montreal | Commercial Operations & Delivery Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Commercial-Operations---Delivery-Intern_R260010593) | Apr 8, 2026 |
 | Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_2026376) | Apr 7, 2026 |
 | BMW Group | Data Analytics Intern | Richmond Hill, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184099.html) | Apr 7, 2026 |
