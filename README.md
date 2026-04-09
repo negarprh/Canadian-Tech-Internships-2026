@@ -215,7 +215,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Motorola | Summer Software Engineer Co-Op | Gatineau, QC | Closed🔒 | Feb 26, 2026 |
 | General Motors | AV Software Safety Team, Co-op | Markham, ON | Closed🔒 | Feb 26, 2026 |
 | CAE | CAE Tech Program Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Programme-CAE-Tech---prends-un-envol-dans-ta-carrire---Stage-et-bourse-d-tudes_120714) | Feb 26, 2026 |
-| Kabam | User Research Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/kabam/0ffd4c22-8075-44a0-bb6d-4953219b3a49) | Feb 26, 2026 |
+| Kabam | User Research Co-op | Vancouver, BC | Closed🔒 | Feb 26, 2026 |
 | SS&C | Intern, Technical | Toronto, ON | Closed🔒 | Feb 26, 2026 |
 | OLG | Performance Analyst Student, 8 Months | Sault Ste. Marie, ON | Closed🔒 | Feb 26, 2026 |
 | Motorola | Localization Software Developer, Co-Op | Vancouver, BC | Closed🔒 | Feb 25, 2026 |
