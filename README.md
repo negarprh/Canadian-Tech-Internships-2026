@@ -53,7 +53,7 @@ Building this repository to make it easier for Canadian students to find interns
 | Nokia | DSP Firmware Engineering Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34226) | Apr 8, 2026 |
 | Bank of Montreal | Commercial Operations & Delivery Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Commercial-Operations---Delivery-Intern_R260010593) | Apr 8, 2026 |
 | Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_2026376) | Apr 7, 2026 |
-| BMW Group | Data Analytics Intern | Richmond Hill, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.bmwgroup.jobs/en/jobfinder/job-description-copy.184099.html) | Apr 7, 2026 |
+| BMW Group | Data Analytics Intern | Richmond Hill, ON | Closed🔒 | Apr 7, 2026 |
 | Mackenzie Investments | Intern Investment Management-MAS | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careersen-mackenzieinvestments.icims.com/jobs/5859/job?mobile=true&needsRedirect=false) | Apr 7, 2026 |
 | Calix | AI / Machine Learning Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://calix.wd1.myworkdayjobs.com/External/job/Remote---North-America/AI---Machine-Learning-Intern_R-11566) | Apr 7, 2026 |
 | Assent | AI Research Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Assent/744000118984367) | Apr 7, 2026 |
@@ -470,7 +470,7 @@ Building this repository to make it easier for Canadian students to find interns
 | ↳ | Associate Product Manager Intern, Rbcx | Toronto, ON | Closed🔒 | Jan 26, 2026 |
 | Bio-Techne | Software Engineering / Computer Science Intern, Warehouse Operations & Analytics | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/Toronto-Ontario/Software-Engineering---Computer-Science-Intern---Warehouse-Operations---Analytics_JR101509) | Jan 26, 2026 |
 | IBM | AI Driven Skills Growth Development Intern | Markham, ON | Closed🔒 | Jan 26, 2026 |
-| Pinterest | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778) | Jan 23, 2026 |
+| Pinterest | Machine Learning Intern | Toronto, ON | Closed🔒 | Jan 23, 2026 |
 | Dell Technologies | 5G AI Automation Intern | Ottawa, ON | Closed🔒 | Jan 23, 2026 |
 | Ciena | Software Developer - Agentic AI - Summer Intern / Co-op | Montreal, QC | Closed🔒 | Jan 23, 2026 |
 | Caterpillar Inc. | Software Designer Intern | Laval, QC | Closed🔒 | Jan 23, 2026 |
