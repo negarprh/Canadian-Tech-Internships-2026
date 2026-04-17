@@ -48,6 +48,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
 
+
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | OpusClip | AI Product Manager Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298/) | Apr 14, 2026 |
@@ -936,7 +937,7 @@ Building this repository to make it easier for Canadian students to find interns
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
 | Cresta | Full Stack Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Jun 26, 2025 |
 | ↳ | Associate Conversational AI Design Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4125376008) | Jun 26, 2025 |
-
+| Pinterest | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.pinterestcareers.com/jobs/7258004/software-engineer-intern-fall-2026-toronto/?gh_jid=7258004) | Apr 15 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
