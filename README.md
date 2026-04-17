@@ -50,6 +50,9 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| OpusClip | AI Product Manager Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298/) | Apr 14, 2026 |
+| Nokia | Data Science Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34327) | Apr 14, 2026 |
+| Tenstorrent | Applied AI Workflow Automation Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5104002007) | Apr 13, 2026 |
 | TD Bank | AI2 Applied Machine Learning Scientist Intern/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Applied-Machine-Learning-Scientist-Co-op-Intern_R_1482685) | Apr 13, 2026 |
 | ↳ | AI2 Data Science Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/AI2-Data-Science-Co-op-Intern--FALL-2026-_R_1482876) | Apr 13, 2026 |
 | ↳ | Data Analytics & Insights Intern/Co-op | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Montral-Qubec/Data-Analytics---Insights-Intern-Co-op--FALL-2026-_R_1480700) | Apr 13, 2026 |
