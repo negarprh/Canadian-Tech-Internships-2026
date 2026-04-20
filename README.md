@@ -51,6 +51,7 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Scotiabank | Technology & Analysis Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.scotiabank.com/job/Toronto-Canadian-Banking-Technology-&-Analysis-InternshipCo-op-Fall-2026-ON/601672417/) | Apr 20, 2026 |
 | RBC | Machine Learning Software Engineer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-8-Months_R-0000168679) | Apr 20, 2026 |
 | ↳ | Machine Learning Software Engineer Co-op | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/MONTRAL-Quebec-Canada/XMLNAME-2026-Fall-Student-Opportunities-RBC-Borealis--Machine-Learning-Software-Engineer--4-Months---Montreal_R-0000168690) | Apr 20, 2026 |
 | ↳ | Insurance Business and Data Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Business-and-Data-Analyst--4-16-months-_R-0000168616) | Apr 20, 2026 |
