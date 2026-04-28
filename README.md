@@ -52,7 +52,8 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| La Caisse | Stagiaire, Développeur(euse), Solutions numériques et analytiques | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Dveloppeur--euse----Solutions-numriques-et-analytiques--ds-septembre-2026-_R04835-12) | Apr 23 |
+| La Caisse | Stagiaire, Développeur(euse), Solutions numériques et analytiques | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Dveloppeur--euse----Solutions-numriques-et-analytiques--ds-septembre-2026-_R04835-12) | Apr 23, 2026 |
+| ↳ | Stagiaire, Plateforme Infranuagique AWS | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Plateforme-Infranuagique-AWS--ds-septembre-2026-_R04829) | Apr 23, 2026 |
 | RBC | Data Analyst, Commercial Banking | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Commercial-Banking_R-0000168978) | Apr 22, 2026 |
 | ↳ | Data Analyst, Personal Banking | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Fall-2026-Student---Data-Analyst--Personal-Banking_R-0000168782) | Apr 22, 2026 |
 | ↳ | GRM, Data Scientist Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Data-Scientist-Intern--4-Months-_R-0000168335) | Apr 22, 2026 |
@@ -973,7 +974,7 @@ Building this repository to make it easier for Canadian students to find interns
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
 | Cresta | Full Stack Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Jun 26, 2025 |
 | ↳ | Conversational AI Design Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4125376008) | Jun 26, 2025 |
-| CDPQ | Stagiaire, Plateforme Infranuagique AWS | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cdpq.wd10.myworkdayjobs.com/fr-CA/CDPQ-recrutement-universitaire/job/Stagiaire--Plateforme-Infranuagique-AWS--ds-septembre-2026-_R04829) | Apr 23 |
+
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
