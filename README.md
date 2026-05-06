@@ -52,6 +52,11 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Arc'teryx Equipment | Application Engineer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/arcteryx.com/d8c59871-eabf-4505-aa6f-9ca34aa9154c/) | May 4, 2026 |
+| Vanderlande Industries | Stagiaire en développement logiciel, Software Development Intern | Quebec City, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Automne-2026_JR36666) | May 4, 2026 |
+| General Dynamics UK | Software/Systems Engineering | Nepean, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000124513451) | May 4, 2026 |
+| Nokia | Software Test Infra Student Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/33908) | May 4, 2026 |
+| ↳ | Incubation Developer Coop/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34227) | May 4, 2026 |
 | RBC | GRM, Credit Risk Analytics Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Fall---GRM--Credit-Risk-Analytics-Engineering-Intern--4-Months-_R-0000170163) | May 4, 2026 |
 | Geotab | Software Developer Intern, Altitude | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/5153898008) | May 4, 2026 |
 | ↳ | DataOps Developer Intern - Months | Oakville, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/internshiplist2000/jobs/5155296008) | May 4, 2026 |
