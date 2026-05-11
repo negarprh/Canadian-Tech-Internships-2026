@@ -52,6 +52,9 @@ Building this repository to make it easier for Canadian students to find interns
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Acceldata | Software Engineering Co-op | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/) | May 9, 2026 |
+| RBC | CAE, Fall GenAI Engineer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CAE--Fall-GenAI-Engineer-Co-op--12-months-_R-0000171537) | May 8, 2026 |
+| ↳ | CFO, Fall Data Analyst, Capital & Liquidity Measurement & Reporting | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2026-CFO--Fall-Data-Analyst--Capital---Liquidity-Measurement---Reporting--8-months-_R-0000171752) | May 8, 2026 |
 | SOTI | Associate Product Manager Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://soti.wd3.myworkdayjobs.com/SOTI-Next-Gen/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Product-Manager-Intern--September-2026-12-Months-_R10041) | May 8, 2026 |
 | Sun Life | Student, Data Analytics / Data Science Intern | Toronto, ON / Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Analytics---Data-Science--Fall-2026-_JR00122501) | May 8, 2026 |
 | ↳ | Student, Data Governance Analyst Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Winter-2026-_JR00121986) | May 8, 2026 |
