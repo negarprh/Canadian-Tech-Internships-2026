@@ -11,18 +11,18 @@ Covers **software development (backend, frontend, full-stack)**, **software engi
 
 ---
 
-### 🚀 **Found a new internship?**
+### Looking for something else?
+
+- 🚀 For **2027 Canadian tech internships** check out [Canadian Tech Internships - 2027](README-2027.md)
+
+---
+
+### 🔍 **Found a new internship?**
 
 Add it in **under 1 minute** → **Issues → New issue → Add internship**  
 It will open a PR automatically.
 
 📘 Details: [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-### Looking for something else?
-
-- 🚀 For **2027 Canadian tech internships** check out [Canadian Tech Internships - 2027](README-2027.md)
 
 ---
 
