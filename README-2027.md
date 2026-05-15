@@ -8,18 +8,18 @@ Includes **Winter, Summer, and Fall 2027** internships across **Montreal, Toront
 
 ---
 
+### Looking for something else?
+
+- 📚 For the current 2026 cycle, check out [Canadian Tech Internships - 2026](README.md)
+
+---
+
 ### 🚀 Found a new 2027 internship?
 
 Add it in **under 1 minute** → **Issues → New issue → Add internship**  
 It will open a PR automatically.
 
 📘 Details: [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-### Looking for something else?
-
-- 📚 For the current 2026 cycle, check out [Canadian Tech Internships - 2026](README.md)
 
 ---
 
