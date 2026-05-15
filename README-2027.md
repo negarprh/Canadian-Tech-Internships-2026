@@ -23,7 +23,7 @@ It will open a PR automatically.
 
 ---
 
-### Maintainer
+### 👩🏻‍💻 Creator and Maintainer
 
 Created and maintained by **Negar Pirasteh** · [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/)
 
