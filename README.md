@@ -20,11 +20,17 @@ It will open a PR automatically.
 
 ---
 
+### Looking for something else?
+
+- 🚀 For **2027 Canadian tech internships** check out [Canadian Tech Internships - 2027](README-2027.md)
+
+---
+
 ### 👩🏻‍💻 Creator and Maintainer
 
-📌 By **Negar Pirasteh** · [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/)
+Created and maintained by **Negar Pirasteh** · [LinkedIn](https://www.linkedin.com/in/negar-pirasteh/)
 
-Building this repository to make it easier for Canadian students to find internships!
+Built to help students in Canada find verified tech internships faster.
 
 ---
 
@@ -47,7 +53,7 @@ Building this repository to make it easier for Canadian students to find interns
 ## 💼 Internship Listings
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
-
+<!-- prettier-ignore -->
 
 
 | Company | Role | Location | Apply | Date Posted |
