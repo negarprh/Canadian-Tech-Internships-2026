@@ -57,7 +57,11 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Harris Computer | Software Developer Intern | ON, Canada / BC, Canada / QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Intern-Developer_R0041015) | May 18, 2026 |
+| Cresta | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4499986008) | May 19, 2026 |
+| ↳ | Forward Deployed Engineer Intern, AI Agent | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/5102116008) | May 19, 2026 |
+| NPX | Software Developer Intern, Digital Transformation | Ontario, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/NPX/048ca8da-bfb9-4454-8147-ac9497629634/) | May 19, 2026 |
+| ↳ | AI Developer Co-op | Kincardine, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/) | May 19, 2026 |
+| Harris Computer | Software Developer Intern | Ontario, Canada / British Columbia, Canada / Quebec, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Ontario-Canada/Intern-Developer_R0041015) | May 18, 2026 |
 | Autodesk | PhD Intern, HCI & Visualization Research | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/PhD-Intern--HCI---Visualization-Research_25WD91740-2) | May 16, 2026 |
 | Adobe | Research Scientist/Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | May 16, 2026 |
 | Marvell | Machine Learning Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Toronto-Canada/Machine-Learning-Intern---Bachelor-s-Degree_2601122-1) | May 15, 2026 |
