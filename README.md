@@ -13,6 +13,7 @@ Covers **software development (backend, frontend, full-stack)**, **software engi
 ### Looking for something else?
 
 - 🚀 For **2027 Canadian tech internships** check out [Canadian Tech Internships - 2027](README-2027.md)
+- 🔎 For a broader daily-updated Canada-wide board with internships/co-ops, new-grad, junior, and entry-level roles across tech plus finance, engineering, business, and sciences, see [Hanzilla Jobs](https://jobs.hanzilla.co/internships/)
 
 ---
 

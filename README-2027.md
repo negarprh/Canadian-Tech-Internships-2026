@@ -11,6 +11,7 @@ Includes **Winter, Summer, and Fall 2027** internships across **Montreal, Toront
 ### Looking for something else?
 
 - 📚 For the current 2026 cycle, check out [Canadian Tech Internships - 2026](README.md)
+- 🔎 For a broader daily-updated Canada-wide board with internships/co-ops, new-grad, junior, and entry-level roles across tech plus finance, engineering, business, and sciences, see [Hanzilla Jobs](https://jobs.hanzilla.co/internships/)
 
 ---
 
