@@ -52,6 +52,7 @@ Built to help students in Canada find verified tech internships faster.
 ## 💼 Internship Listings
 
 <!-- BEGIN:INTERNSHIPS_TABLE -->
+
 <!-- prettier-ignore -->
 
 
@@ -1272,7 +1273,7 @@ Built to help students in Canada find verified tech internships faster.
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
 | Cresta | Full Stack Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Jun 26, 2025 |
 | ↳ | Conversational AI Design Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4125376008) | Jun 26, 2025 |
-
+| Boeing | Software Development Intern | Richmond | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/CAN---Richmond-Canada/Software-Development-Intern_JR2026511453-1) | Jun 4 |
 <!-- END:INTERNSHIPS_TABLE -->
 
 ---
