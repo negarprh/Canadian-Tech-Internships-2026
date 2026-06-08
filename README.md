@@ -1299,6 +1299,7 @@ Built to help students in Canada find verified tech internships faster.
 | BlackRock | 2026 Summer Internship Program | Toronto, ON | Closed🔒 | Jul 07 |
 | Cresta | Full Stack Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4123841008) | Jun 26, 2025 |
 | ↳ | Conversational AI Design Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/cresta/jobs/4125376008) | Jun 26, 2025 |
+| Nokia | Support Software Developer Co-op/Intern | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ca.linkedin.com/jobs/view/support-software-developer-co-op-intern-at-nokia-4403793996) | Jun 7 |
 
 <!-- END:INTERNSHIPS_TABLE -->
 
