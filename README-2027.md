@@ -50,6 +50,18 @@ I’ll post as soon as companies open 2027 internship applications.
 
 ---
 
+## 🏆 Competitions & Challenges
+
+Win a competition → earn an internship. These challenges are open to Canadian students and award a tech internship as the prize.
+
+| Company | Challenge | Prize | Location | Deadline | Link |
+|--------|-----------|-------|----------|----------|------|
+| eBay | [ML Competition (EvalAI)](https://eval.ai/web/challenges/challenge-page/2680/overview) | Summer 2027 Internship | Toronto, ON | Sep 11, 2026 | [![Details](https://img.shields.io/badge/-Details-blue?style=for-the-badge)](https://eval.ai/web/challenges/challenge-page/2680/overview) |
+
+> **eBay ML Challenge details:** Open to students enrolled at accredited Canadian universities. Teams compete on a machine learning task; the winning team is offered a Summer 2027 internship at eBay's Toronto office. Sign-up closes **Sep 11, 2026** · Agreements due **Sep 25, 2026** · Submissions close **Nov 1, 2026**.
+
+---
+
 ## 💼 2027 Internship Listings
 
 <!-- BEGIN:INTERNSHIPS_2027_TABLE -->
