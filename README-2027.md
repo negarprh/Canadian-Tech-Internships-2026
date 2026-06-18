@@ -56,8 +56,8 @@ I’ll post as soon as companies open 2027 internship applications.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Analytics-Solutions-Co-op-Internship--Fall-2026---Winter-2027-_JR101491) | May 14, 2026 |
-| ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Risk-Reporting---Data-Co-op-Internship--Fall-2026---Winter-2027-_JR101493) | May 14, 2026 |
-| ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Data---Analytics-Engineer-Co-op--Internship--Fall-2026-and-or-Winter-2027-_JR101481) | May 14, 2026 |
+| British Columbia Investment | Risk Analytics Solutions Co-op/Intern | Victoria, BC | Closed🔒 | May 14, 2026 |
+| ↳ | Risk Reporting & Data Co-op/Internship | Victoria, BC | Closed🔒 | May 14, 2026 |
+| ↳ | Data & Analytics Engineer Co-op/Intern | Victoria, BC / Vancouver, BC| Closed🔒 | May 14, 2026 |
 
 <!-- END:INTERNSHIPS_2027_TABLE -->
