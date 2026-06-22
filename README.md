@@ -350,16 +350,16 @@ Built to help students in Canada find verified tech internships faster.
 | ↳ | Research Internship | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785/) | May 1, 2026 |
 | RBC | Data Analyst Intern, Private Banking | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/TORONTO-Ontario-Canada/XMLNAME-2026-Canadian-Private-Banking--Fall-Data-Analyst--8-months-_R-0000170513) | May 1, 2026 |
 | ↳ | Insurance, Product Analyst Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/MISSISSAUGA-Ontario-Canada/XMLNAME-2026-Insurance--Fall-Product-Analyst-Co-op--8-months-_R-0000170526) | May 1, 2026 |
-| General Dynamics UK | Software Developer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000124175589) | May 1, 2026 |
+| General Dynamics UK | Software Developer Co-op | Ottawa, ON | Closed🔒 | May 1, 2026 |
 | ↳ | Software Developer Co-op | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000124175808) | May 1, 2026 |
-| BMO | BMO Capital Markets Intern, Full Stack Engineer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Capital-Markets-Fall-2026--Full-Stack-Engineer--Toronto_R260008806) | May 1, 2026 |
-| OMERS | ServiceNow Developer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Student--ServiceNow-Developer--Fall-2026--8-Months-_JR-8022) | May 1, 2026 |
-| ↳ | Information Management & Data Governance Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://omers.wd3.myworkdayjobs.com/omers_external/job/Toronto-Ontario/Student--Information-Management---Data-Governance--Fall-2026--4-Months-_JR-8026) | May 1, 2026 |
-| Lumentum | Embedded Software Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Embedded-Software-Engineer--Co-op-student-_2026455) | May 1, 2026 |
-| ↳ | Optical Verification Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026531) | May 1, 2026 |
-| ↳ | Optical Verification Engineer Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Engineer-Co-op-Intern_2026530) | May 1, 2026 |
-| ↳ | Calibration and Test Software Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Calibration-and-Test-Software-Engineer--Co-op-Student-_2026523) | May 1, 2026 |
-| RTX | Internship, Fall 2026, Data Science | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Automne-2026---Science-des-donnes---Internship---Fall-2026---Data-Science_01841595) | May 1, 2026 |
+| BMO | BMO Capital Markets Intern, Full Stack Engineer | Toronto, ON | Closed🔒 | May 1, 2026 |
+| OMERS | ServiceNow Developer Intern | Toronto, ON | Closed🔒 | May 1, 2026 |
+| ↳ | Information Management & Data Governance Intern | Toronto, ON | Closed🔒 | May 1, 2026 |
+| Lumentum | Embedded Software Engineer Co-op | Ottawa, ON | Closed🔒 | May 1, 2026 |
+| ↳ | Optical Verification Engineer Co-op/Intern | Ottawa, ON | Closed🔒 | May 1, 2026 |
+| ↳ | Optical Verification Engineer Co-op/Intern | Ottawa, ON | Closed🔒 | May 1, 2026 |
+| ↳ | Calibration and Test Software Engineer Co-op | Ottawa, ON | Closed🔒 | May 1, 2026 |
+| RTX | Internship, Fall 2026, Data Science | Longueuil, QC | Closed🔒 | May 1, 2026 |
 | Intelcom \| Dragonfly | Business Intelligence (BI) Developer Intern | Montreal, QC | Closed🔒 | May 1, 2026 |
 | ↳| GHG Data Analyst Intern | Montreal, QC | Closed🔒 | May 1, 2026 |
 | ↳ | Data Analyst Internm Returns | Montreal, QC | Closed🔒 | May 1, 2026 |
