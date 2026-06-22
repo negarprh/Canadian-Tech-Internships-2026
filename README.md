@@ -58,6 +58,14 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| D2L | Software Developer Co-op - Custom Development Services | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.d2l.com/careers/jobs/?job_id=8018400&gh_jid=8018400) | Jun 19, 2026 |
+| RTX | Junior Software Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-ON-OTTAWA-030--30-Edgewater-St--EDGEWATER/Junior-SW-Engineer--Co-Op--Onsite-_01853601) | Jun 19, 2026 |
+| Definity Financial | Technology Solutions Data Platform & Engineering Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/9124) | Jun 19, 2026 |
+| University Health Network | Junior Report Developer Intern, Analytics and Insights | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000133121279) | Jun 19, 2026 |
+| General Dynamics UK | Software Developer Co-op | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000133125725) | Jun 19, 2026 |
+| 1Password | Developer Intern, Service Development | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/1password/b6b8c8ed-ff1c-4bc2-9dbe-5122207ea3a2/) | Jun 18, 2026 |
+| Kinaxis | Software Developer Co-op/Intern, Core Algorithms | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers-kinaxis.icims.com/jobs/34962/job?mobile=true&needsRedirect=false) | Jun 18, 2026 |
+| Magna | Software Engineering Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Software-Engineering-Co-op_R00244013) | Jun 18, 2026 |
 | CIBC | Commercial Banking, Data Engineering Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Commercial-Banking--Data-Engineering-Co-op_2612808) | Jun 18, 2026 |
 | Crowdstrike | GTM Automation Intern | Remote, Canada | Closed🔒 | Jun 18, 2026 |
 | 1Password | Developer Intern - Open Source | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/1password/81323adf-cf08-45af-a1df-da91c3a052ae/) | Jun 17, 2026 |
