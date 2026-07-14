@@ -59,9 +59,9 @@ Built to help students in Canada find verified tech internships faster.
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Moment Energy | Software Engineering Co-op | Surrey, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) | Jul 2, 2026 | 
- | Moment Energy | Firmware Engineering Co-op | Surrey, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Jul 2, 2026 | 
+ | ↳ | Firmware Engineering Co-op | Surrey, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/momentenergy/jobs/4257334009) | Jul 2, 2026 | 
  | McKesson | Supply Chain Engineering and Analytics Intern | Surrey, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-BC-Surrey/Supply-Chain-Engineering-and-Analytics-Intern---Fall-2026_JR0149819) | Jul 2, 2026 | 
- | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/application) | Jul 1, 2026 |
+ | Human Computer Lab | Software/ML Engineering Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/human-computer-lab/7d13ae27-1f02-4d9b-8d39-e3d9d67df705/) | Jul 1, 2026 |
 | KRAFTON | Programming Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/studiokraftonboard/jobs/8613468002) | Jun 30, 2026 | 
  | Remarcable | Full Stack Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/remarcable-inc/38e76aaf-d0b3-40c7-8055-cb7e11ed26cd/) | Jun 29, 2026 | 
  | Intuit | Software Developer Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.intuit.com/job/toronto/fall-2026-software-developer-co-op-8-months/27595/97091591056) | Jun 29, 2026 |
