@@ -58,8 +58,14 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Global Relay | AI Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) | Jul 14, 2026 | 
+| ↳ | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) | Jul 14, 2026 | 
+| ↳ | C# Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6112691004) | Jul 14, 2026 | 
+ | PartnerRe | Business Data Analyst Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.partnerre.com/job/Toronto-Business-Data-Analyst-Student-ON/1414882233/?ats=successfactors) | Jul 14, 2026 | 
+ | TMX Group | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Software-Engineer-Intern--Java-_R-6219) | Jul 14, 2026 | 
+ | McKesson | AI & Strategic Analytics Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/AI---Strategic-Analytics-Intern---Fall-2026_JR0150114) | Jul 14, 2026 |
 | DRW | Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991196) | Jul 13, 2026 | 
- | ↳ | AI/ML Research Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991171) | Jul 13, 2026 | 
+| ↳ | AI/ML Research Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991171) | Jul 13, 2026 | 
  | Xsolla | AI Engineer Intern | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) | Jul 10, 2026 |
 | Later | Software Development Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8621762002) | Jul 9, 2026 | 
  | McKesson | Data Governance Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Jul 9, 2026 | 
