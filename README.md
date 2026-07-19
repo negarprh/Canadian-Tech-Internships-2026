@@ -58,6 +58,10 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Later | Software Development Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8621762002) | Jul 9, 2026 | 
+ | McKesson | Data Governance Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Jul 9, 2026 | 
+ | Bank of Montreal | Data Scientist Co-op/Internship - Months | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | Jul 7, 2026 | 
+ | Orennia | Analytics Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/orennia/jobs/5277706008) | Jul 7, 2026 |
 | Ada | Software Engineer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Jul 6, 2026 | 
  | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | Jul 6, 2026 |
 | Moment Energy | Software Engineering Co-op | Surrey, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/momentenergy/jobs/4257336009) | Jul 2, 2026 | 
