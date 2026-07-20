@@ -58,6 +58,8 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| CAE | AI Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-106---AI-Intern_122744) | Jul 16, 2026 | 
+ | ↳ | Data Specialist Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) | Jul 16, 2026 |
 | Aptiv | Intern Associate Engineer, Cloud  | Kanata, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700250) | Jul 16, 2026 | 
 | Global Relay | AI Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) | Jul 14, 2026 | 
 | ↳ | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) | Jul 14, 2026 | 
