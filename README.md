@@ -58,7 +58,7 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| Veralto | Machine Learning Co-op Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Jul 23, 2026 |
+| Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Jul 23, 2026 |
 | Motorola | Software Engineer Co-op | Gatineau, QC | Closed 🔒 | Jul 23, 2026 |
 | Later | Software Development Co-op, Later Influence | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8643138002) | Jul 22, 2026 |  
  | Varian | Product Engineering Assistant Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-29570) | Jul 22, 2026 |
