@@ -1,115 +1,393 @@
-import re, time, pathlib, requests, urllib.parse
+"""Find definitely closed internship postings without reformatting README.md.
+
+The checker is deliberately conservative: an inaccessible or inconclusive page is
+reported as UNKNOWN and is left untouched.  A row is changed only when the ATS
+returns a permanent missing status, redirects a known ATS listing to its search
+page, or displays an explicit closed-posting message.
+"""
+
+from __future__ import annotations
+
+from dataclasses import dataclass
+from html import unescape
+from html.parser import HTMLParser
+from pathlib import Path
+import re
+import time
+from typing import Literal
+from urllib.parse import urlparse, urlunparse
+
+import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-README = pathlib.Path("README.md")
-REPORT = pathlib.Path("link-check-report.md")
 
-APPLY_MD = re.compile(r"\[!\[Apply\]\([^)]+?\)\]\((https?://[^)\s]+)\)", re.I)
+README = Path("README.md")
+REPORT = Path("link-check-report.md")
 
+# This expression matches only the Apply control itself. Its replacement is
+# intentionally a single table-cell value, so no pipes, whitespace, rows, or
+# other README content can be reformatted by this script.
+APPLY_LINK = re.compile(
+    r"\[!\[Apply\]\([^)]+?\)\]\((https?://[^)\s]+)\)", re.IGNORECASE
+)
+
+Status = Literal["CLOSED", "OPEN", "UNKNOWN"]
+
+# These are explicit messages from ATS error/closed pages. Keep the phrases
+# specific: generic words such as "closed" or "unavailable" create false
+# positives on otherwise valid career pages.
 CLOSED_PHRASES = {
-    "generic": [
+    "generic": (
         "this position has been filled",
-        "no longer accepting",
-        "no longer available",
-        "job not found",
+        "position has been filled",
         "this job posting is no longer active",
+        "this job posting has expired",
         "this posting has closed",
-        "position closed",
+        "this job is no longer available",
+        "this job is no longer posted",
+        "this job is closed",
+        "this position is closed",
+        "this position is no longer available",
+        "this role is no longer available",
+        "this vacancy is no longer available",
+        "this opening is no longer available",
+        "no longer accepting applications",
+        "no longer accepting candidates",
         "requisition closed",
-        "is no longer posted",
-        "no longer posted",
-        "job unavailable",
+        "job requisition is no longer available",
+        "job posting is no longer available",
+        "the job you are looking for is no longer available",
+        "the job you are trying to view is no longer available",
+        "the requisition you are looking for is no longer available",
+        "the job posting you are looking for does not exist",
+        "this job posting does not exist",
+        "this job no longer exists",
+        "this position no longer exists",
+        "this requisition no longer exists",
+        "this requisition does not exist",
+        "this opportunity no longer exists",
+        "this opportunity does not exist",
         "the page you are looking for doesn't exist",
-        "The page you are looking for doesn't exist.",
-        "This job is no longer available.",
-    ],
-    "workday": ["job closed", "no longer accepting applications", "job is no longer posted", "The page you are looking for doesn't exist."],
-    "greenhouse": ["this job is no longer available", "looks like this job no longer exists"],
-    "eightfold": ["this job is no longer available", "job not found"],
-    "lever": ["this job is no longer available"],
-    "successfactors": ["this job is no longer available", "this position has been filled"],
+        "the page you are looking for does not exist",
+        "looks like this job no longer exists",
+        "job not found",
+    ),
+    "workday": (
+        "job closed",
+        "job posting has closed",
+        "job application is no longer available",
+        "this job does not exist",
+        "the job you are looking for does not exist",
+    ),
+    "greenhouse": ("this job is no longer available",),
+    "lever": ("this job is no longer available",),
+    "ashby": ("this job is no longer available",),
+    "eightfold": ("this job is no longer available",),
+    "successfactors": ("this job is no longer available",),
 }
-OPEN_PHRASES = ["apply now", "submit application", "start your application"]
 
-SEARCH_REDIRECT_HINTS = [
-    "/jobs/search", "/jobsearch", "/careers/search", "/careers?","/search/?","/search?"
-]
+# A redirect alone is only meaningful for sites where the original URL is an
+# ATS job detail route. Do not classify redirects for generic company sites:
+# those often redirect valid applications to an SSO, locale, or consent page.
+KNOWN_ATS = {
+    "workday",
+    "greenhouse",
+    "lever",
+    "ashby",
+    "eightfold",
+    "icims",
+    "successfactors",
+}
+SEARCH_PATH_PARTS = ("/search", "/jobsearch", "/jobs/search", "/careers/search")
+LOCALE_SEGMENT = re.compile(r"^[a-z]{2}-[a-z]{2}$", re.IGNORECASE)
 
 UA = {
-    "User-Agent": ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                   "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"),
-    "Accept-Language": "en-US,en;q=0.9",
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-CA,en;q=0.9",
 }
 
-def session():
-    s = requests.Session()
-    r = Retry(total=3, backoff_factor=0.6, status_forcelist=[429,500,502,503,504])
-    s.mount("https://", HTTPAdapter(max_retries=r))
-    s.headers.update(UA)
-    return s
 
-def domain_key(u:str):
-    h = urllib.parse.urlparse(u).hostname or ""
-    if "workday" in h or "myworkdayjobs" in h: return "workday"
-    if "greenhouse" in h: return "greenhouse"
-    if "eightfold" in h: return "eightfold"
-    if "lever.co" in h: return "lever"
-    if "successfactors" in h or "sapfioritalent" in h: return "successfactors"
+class VisibleText(HTMLParser):
+    """Collect readable text while ignoring scripts and styles."""
+
+    def __init__(self) -> None:
+        super().__init__()
+        self.parts: list[str] = []
+        self._ignored_depth = 0
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag in {"script", "style", "noscript", "template"}:
+            self._ignored_depth += 1
+
+    def handle_endtag(self, tag: str) -> None:
+        if tag in {"script", "style", "noscript", "template"} and self._ignored_depth:
+            self._ignored_depth -= 1
+
+    def handle_data(self, data: str) -> None:
+        if not self._ignored_depth:
+            self.parts.append(data)
+
+
+@dataclass(frozen=True)
+class CheckResult:
+    status: Status
+    reason: str
+
+
+def make_session() -> requests.Session:
+    session = requests.Session()
+    retry = Retry(
+        total=3,
+        backoff_factor=0.7,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({"GET"}),
+        respect_retry_after_header=True,
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.headers.update(UA)
+    return session
+
+
+def make_workday_session() -> requests.Session:
+    """Create a session for Workday's JSON API without browser headers.
+
+    Workday's API may reject the browser Accept-Language profile even while its
+    public SPA shell returns 200, so this session intentionally retains
+    requests' default User-Agent and sends only the desired response type.
+    """
+    session = requests.Session()
+    retry = Retry(
+        total=3,
+        backoff_factor=0.7,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({"GET"}),
+        respect_retry_after_header=True,
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.headers.update({"Accept": "application/json"})
+    return session
+
+
+def ats_name(url: str) -> str:
+    host = (urlparse(url).hostname or "").lower()
+    if "workday" in host or "myworkdayjobs" in host:
+        return "workday"
+    if "greenhouse" in host:
+        return "greenhouse"
+    if "lever.co" in host:
+        return "lever"
+    if "ashbyhq" in host:
+        return "ashby"
+    if "eightfold" in host:
+        return "eightfold"
+    if "icims.com" in host:
+        return "icims"
+    if "successfactors" in host or "sapfioritalent" in host:
+        return "successfactors"
     return "generic"
 
-def looks_like_search(url:str):
-    path = urllib.parse.urlparse(url).path.lower()
-    return any(h in url.lower() or h in path for h in SEARCH_REDIRECT_HINTS)
 
-def is_closed(s, url:str):
+def readable_text(html: str) -> str:
+    parser = VisibleText()
     try:
-        r = s.head(url, allow_redirects=True, timeout=15)
-        final = r.url
-        # head often blocked -> GET
-        if r.status_code >= 400 or r.status_code in (403,405):
-            r = s.get(url, allow_redirects=True, timeout=20)
-            final = r.url
-        # redirect to generic search/list page => closed
-        if looks_like_search(final) and not urllib.parse.urlparse(final).path.endswith(("job","jobs")):
-            return True, f"Redirected to search: {final}"
-        if r.status_code >= 400:
-            return True, f"HTTP {r.status_code}"
-        text = r.text.lower()
-        k = domain_key(url)
-        closed_hits = any(p in text for p in CLOSED_PHRASES["generic"] + CLOSED_PHRASES.get(k, []))
-        open_hits = any(p in text for p in OPEN_PHRASES)
-        if closed_hits and not open_hits:
-            return True, f"Closed phrase ({k})"
-        return False, "OK"
-    except requests.RequestException as e:
-        return True, f"Exception: {type(e).__name__}"
+        parser.feed(html)
+        parser.close()
+        content = " ".join(parser.parts)
+    except Exception:
+        # A malformed page should not become a failed check merely because its
+        # HTML cannot be parsed; matching the raw response is still safe.
+        content = html
+    return re.sub(r"\s+", " ", unescape(content)).casefold()
 
-def main():
-    s = session()
-    md = README.read_text(encoding="utf-8")
-    report_lines = ["# Link Check Report\n"]
-    changed = False
 
-    def repl(m):
-        nonlocal changed
-        url = m.group(1)
-        time.sleep(0.5)  # be polite; reduce blocks
-        closed, reason = is_closed(s, url)
-        report_lines.append(f"- {url} → {'CLOSED' if closed else 'OPEN'} ({reason})")
-        if closed:
-            changed = True
-            return "Closed🔒"
-        return m.group(0)
+def closed_phrase(text: str, provider: str) -> str | None:
+    for phrase in CLOSED_PHRASES["generic"] + CLOSED_PHRASES.get(provider, ()):
+        if phrase.casefold() in text:
+            return phrase
+    return None
 
-    new_md = APPLY_MD.sub(repl, md)
-    REPORT.write_text("\n".join(report_lines), encoding="utf-8")
 
-    if changed:
-        README.write_text(new_md, encoding="utf-8")
-        print("Updated README with Closed🔒. See link-check-report.md for details.")
+def workday_api_url(url: str) -> str | None:
+    """Convert supported public Workday URLs to their authoritative JSON URL."""
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    parts = [part for part in parsed.path.split("/") if part]
+
+    if host.endswith("myworkdaysite.com"):
+        # /recruiting/{tenant}/{site}/job/{location}/{slug_and_id}
+        if len(parts) < 5 or parts[0].casefold() != "recruiting" or parts[3].casefold() != "job":
+            return None
+        tenant, site, job_parts = parts[1], parts[2], parts[4:]
     else:
-        print("No changes. See link-check-report.md for details.")
+        # {tenant}.wdN.myworkdayjobs.com/[locale]/{site}/job/{location}/{slug_and_id}
+        tenant = host.split(".")[0]
+        if parts and LOCALE_SEGMENT.fullmatch(parts[0]):
+            parts = parts[1:]
+        if len(parts) < 3 or parts[1].casefold() != "job":
+            return None
+        site, job_parts = parts[0], parts[2:]
+
+    api_path = f"/wday/cxs/{tenant}/{site}/job/" + "/".join(job_parts)
+    return urlunparse((parsed.scheme, parsed.netloc, api_path, "", "", ""))
+
+
+def check_workday_api(session: requests.Session, url: str) -> CheckResult | None:
+    """Classify a Workday link using the data source used by its own frontend."""
+    endpoint = workday_api_url(url)
+    if endpoint is None:
+        return None
+
+    try:
+        response = session.get(endpoint, allow_redirects=True, timeout=(10, 30))
+    except requests.RequestException as error:
+        return CheckResult("UNKNOWN", f"Workday API failed: {type(error).__name__}")
+
+    if response.status_code in {404, 410}:
+        return CheckResult("CLOSED", f"Workday API HTTP {response.status_code}")
+
+    try:
+        payload = response.json()
+    except requests.JSONDecodeError:
+        payload = None
+
+    if response.status_code == 200:
+        job = payload.get("jobPostingInfo") if isinstance(payload, dict) else None
+        if isinstance(job, dict) and job.get("id") and job.get("title"):
+            return CheckResult("OPEN", "Workday API returned jobPostingInfo")
+        return CheckResult("UNKNOWN", "Workday API returned 200 without a job posting")
+
+    # Deleted or no-longer-public Workday requisitions return this structured
+    # application error while their public SPA page misleadingly remains 200.
+    if response.status_code == 403 and isinstance(payload, dict):
+        error_code = str(payload.get("errorCode", "")).casefold()
+        message = str(payload.get("message", "")).casefold()
+        if error_code == "s22" and message == "permission denied":
+            return CheckResult("CLOSED", "Workday API S22: permission denied")
+
+    return CheckResult("UNKNOWN", f"Workday API HTTP {response.status_code} (inconclusive)")
+
+
+def redirect_is_search_or_landing(original: str, final: str, provider: str) -> bool:
+    if provider not in KNOWN_ATS or original == final:
+        return False
+
+    source = urlparse(original)
+    target = urlparse(final)
+    if source.hostname != target.hostname:
+        return False
+
+    path = target.path.rstrip("/").casefold()
+    return (
+        any(part in path for part in SEARCH_PATH_PARTS)
+        or path in {"", "/", "/en-us", "/en-ca", "/fr-ca", "/jobs", "/careers"}
+    )
+
+
+def check_url(
+    session: requests.Session,
+    url: str,
+    workday_session: requests.Session | None = None,
+) -> CheckResult:
+    """Return CLOSED only when there is a high-confidence closure signal."""
+    provider = ats_name(url)
+    workday_result = None
+    if provider == "workday":
+        workday_result = check_workday_api(workday_session or make_workday_session(), url)
+        if workday_result is not None and workday_result.status != "UNKNOWN":
+            return workday_result
+
+    try:
+        # GET is required even when HEAD returns 200: most ATS closure messages
+        # exist only in the page body, and several providers reject HEAD.
+        response = session.get(url, allow_redirects=True, timeout=(10, 30))
+    except requests.RequestException as error:
+        if workday_result is not None:
+            return workday_result
+        return CheckResult("UNKNOWN", f"Request failed: {type(error).__name__}")
+
+    # iCIMS occasionally serves a CloudFront human-verification page (405) to
+    # browser-like headers, even though its public job endpoint remains
+    # available. Retrying only that provider with requests' default headers
+    # distinguishes a real 410 closed posting from that verification page.
+    if provider == "icims" and response.status_code == 405:
+        try:
+            response = requests.get(url, allow_redirects=True, timeout=(10, 30))
+        except requests.RequestException as error:
+            return CheckResult("UNKNOWN", f"iCIMS fallback failed: {type(error).__name__}")
+
+    if response.status_code in {404, 410}:
+        return CheckResult("CLOSED", f"HTTP {response.status_code}")
+    if response.status_code in {401, 403, 408, 429} or response.status_code >= 500:
+        return CheckResult("UNKNOWN", f"HTTP {response.status_code} (not treated as closed)")
+    if response.status_code >= 400:
+        return CheckResult("UNKNOWN", f"HTTP {response.status_code} (inconclusive)")
+
+    if redirect_is_search_or_landing(url, response.url, provider):
+        return CheckResult("CLOSED", f"Redirected to ATS search/landing page: {response.url}")
+
+    phrase = closed_phrase(readable_text(response.text), provider)
+    if phrase:
+        return CheckResult("CLOSED", f"Closed-page message: {phrase!r} ({provider})")
+    if workday_result is not None:
+        # A Workday 200 HTML response is only its SPA shell, not proof that the
+        # requisition exists. Preserve the API's inconclusive result instead.
+        return workday_result
+    return CheckResult("OPEN", "No closure signal")
+
+
+def only_expected_replacements(before: str, after: str, replacements: int) -> bool:
+    """Ensure this script cannot make a formatting-only README diff."""
+    before_lines = before.splitlines(keepends=True)
+    after_lines = after.splitlines(keepends=True)
+    if len(before_lines) != len(after_lines):
+        return False
+
+    made = 0
+    for old_line, new_line in zip(before_lines, after_lines):
+        if old_line == new_line:
+            continue
+        expected_line, line_replacements = APPLY_LINK.subn("Closed🔒", old_line)
+        if not line_replacements or new_line != expected_line:
+            return False
+        made += line_replacements
+    return made == replacements
+
+
+def main() -> None:
+    session = make_session()
+    workday_session = make_workday_session()
+    original = README.read_text(encoding="utf-8")
+    report_lines = ["# Link Check Report", ""]
+    changed = 0
+
+    def replace_if_closed(match: re.Match[str]) -> str:
+        nonlocal changed
+        url = match.group(1)
+        time.sleep(0.5)  # polite rate limiting across job boards
+        result = check_url(session, url, workday_session)
+        report_lines.append(f"- {url} → {result.status} ({result.reason})")
+        if result.status == "CLOSED":
+            changed += 1
+            return "Closed🔒"
+        return match.group(0)
+
+    updated = APPLY_LINK.sub(replace_if_closed, original)
+    REPORT.write_text("\n".join(report_lines) + "\n", encoding="utf-8")
+
+    if not changed:
+        print("No high-confidence closed postings found. See link-check-report.md.")
+        return
+    if not only_expected_replacements(original, updated, changed):
+        raise RuntimeError("Refusing to write README.md: unexpected non-link change detected")
+
+    README.write_text(updated, encoding="utf-8")
+    print(f"Marked {changed} closed posting(s). See link-check-report.md.")
+
 
 if __name__ == "__main__":
     main()
