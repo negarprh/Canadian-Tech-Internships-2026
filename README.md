@@ -58,8 +58,9 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Jul 28, 2026 |
 | Blackberry | Application Engineering Student | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260269) | Jul 28, 2026 | 
- | Blackberry | QNX-Software Development Student - Acoustics | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Burnaby-British-Columbia/QNX--Software-Development-Student--Acoustics-_20260270) | Jul 28, 2026 |
+ | Blackberry | QNX-Software Development Student (Acoustics) | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Burnaby-British-Columbia/QNX--Software-Development-Student--Acoustics-_20260270) | Jul 28, 2026 |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Jul 28, 2026 |
 | Later | Data/Analytics Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8647385002) | Jul 27, 2026 | 
  | Ciena | Software Engineer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Jul 27, 2026 |
