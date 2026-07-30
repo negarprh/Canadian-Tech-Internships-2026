@@ -59,8 +59,8 @@ Built to help students in Canada find verified tech internships faster.
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
 | Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Jul 28, 2026 |
-| Blackberry | Application Engineering Student | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Ottawa-Ontario/QNX--Application-Engineering-Student_20260269) | Jul 28, 2026 | 
- | Blackberry | QNX-Software Development Student (Acoustics) | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bb.wd3.myworkdayjobs.com/Student/job/Burnaby-British-Columbia/QNX--Software-Development-Student--Acoustics-_20260270) | Jul 28, 2026 |
+| Blackberry | Application Engineering Student | Ottawa, ON | Closed🔒 | Jul 28, 2026 | 
+ | Blackberry | QNX-Software Development Student (Acoustics) | Burnaby, BC | Closed🔒 | Jul 28, 2026 |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Jul 28, 2026 |
 | Later | Data/Analytics Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8647385002) | Jul 27, 2026 | 
  | Ciena | Software Engineer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Jul 27, 2026 |
@@ -273,7 +273,7 @@ Built to help students in Canada find verified tech internships faster.
 | General Dynamics UK | Embedded Software Developer / Modeler Co-op | Nepean, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000126746122) | May 15, 2026 |
 | McGill University | FMED 505 Epidemiology and Data Analysis in Primary Care | Montreal, QC | Closed🔒 | May 15, 2026 |
 | BDO Canada | Full-Stack Developer Intern/Co-op | Toronto, ON / Oakville, ON / Ottawa, ON | Closed🔒 | May 14, 2026 |
-| ↳ | Data & Analytics Co-op/Intern | Montreal, QC / Calgary, AB / Toronto, ON / Vancouver, BC / Ottawa, ON / Oakville, ON / Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Data---Analytics--September-2026-_JR6295) | May 14, 2026 |
+| ↳ | Data & Analytics Co-op/Intern | Montreal, QC / Calgary, AB / Toronto, ON / Vancouver, BC / Ottawa, ON / Oakville, ON / Halifax, NS | Closed🔒 | May 14, 2026 |
 | RBC | CFO, Fall/Winter Liquidity Management and Parameters Co-op | Toronto, ON | Closed🔒 | May 14, 2026 |
 | Hitachi | Software Analyst Intern | Toronto, ON | Closed🔒 | May 14, 2026 |
 | ATCO | Data Analytics Co-op | Edmonton, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20111) | May 14, 2026 |
