@@ -70,7 +70,7 @@ Built to help students in Canada find verified tech internships faster.
 | Later | Data/Analytics Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8647385002) | Jul 27, 2026 | 
  | Ciena | Software Engineer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Jul 27, 2026 |
 | TechInsights | Software Developer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Jul 24, 2026 | 
- | Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Market-Risk-Analyst--Fall-2026--Co-op-Internship----4-Months_R260022055) | Jul 24, 2026 |
+ | Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON | Closed🔒 | Jul 24, 2026 |
 | Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Jul 23, 2026 |
 | Motorola | Software Engineer Co-op | Gatineau, QC | Closed 🔒 | Jul 23, 2026 |
 | Later | Software Development Co-op, Later Influence | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8643138002) | Jul 22, 2026 |  
@@ -491,7 +491,7 @@ Built to help students in Canada find verified tech internships faster.
 | TD Bank | Wealth, Gen AI Product & Enablement Intern/Co-op | Toronto, ON | Closed🔒 | Apr 27, 2026 |
 | ↳ | Business Insights & Analytics Co-op/Intern | Toronto, ON | Closed🔒 | Apr 27, 2026 |
 | CIBC | Capital Markets, Alternate Solutions Group Analyst Intern | Toronto, ON | Closed🔒 | Apr 27, 2026 |
-| RTX | Program Management Intern | Longueuil, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---Gestion-des-Programmes_01840726) | Apr 27, 2026 |
+| RTX | Program Management Intern | Longueuil, QC | Closed🔒 | Apr 27, 2026 |
 | Ciena | OTN Platform Software Developer Intern | Ottawa, ON | Closed🔒 | Apr 27, 2026 |
 | EQ Bank | Credit Risk Intern | Toronto, ON | Closed🔒 | Apr 27, 2026 |
 | Shopify | Data and Engineering Intern | Montreal, QC / Ottawa, ON / Toronto, ON | Closed🔒 | Apr 27, 2026 |
