@@ -83,7 +83,7 @@ Built to help students in Canada find verified tech internships faster.
  | Veeda AI | Veeda AI Scientist | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4/) | Jul 21, 2026 | 
  | NationGraph | Software Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/nationgraph/6c3e8de6-bd8e-4ead-936f-d98c277c6416/) | Jul 21, 2026 | 
 | Generac | Software Engineer Intern | Toronto, ON | Closed🔒 | Jul 21, 2026 | 
- | Ciena | Routing/IP Software Developer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Developer-Intern--4-8-Months-_R031326) | Jul 21, 2026 | 
+ | Ciena | Routing/IP Software Developer Intern | Ottawa, ON | Closed🔒 | Jul 21, 2026 | 
  | Generac | Data Science Intern | Toronto, ON | Closed🔒 | Jul 21, 2026 |
 | Google | Student Researcher, BS/MS | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/113855697199735494) | Jul 20, 2026 | 
  | ↳ | Student Researcher, PHD | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.google.com/about/careers/applications/jobs/results/128430823337534150) | Jul 20, 2026 |
@@ -272,7 +272,7 @@ Built to help students in Canada find verified tech internships faster.
 | ↳ | AI Developer Co-op | Kincardine, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/NPX/4a250618-dcfb-4ec9-8687-b2be9e2d6ef2/) | May 19, 2026 |
 | Harris Computer | Software Developer Intern | Ontario, Canada / British Columbia, Canada / Quebec, Canada | Closed🔒 | May 18, 2026 |
 | Autodesk | PhD Intern, HCI & Visualization Research | Toronto, ON | Closed🔒 | May 16, 2026 |
-| Adobe | Research Scientist/Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---Research-Scientist-Engineer_R160317) | May 16, 2026 |
+| Adobe | Research Scientist/Engineer Intern | Toronto, ON | Closed🔒 | May 16, 2026 |
 | Marvell | Machine Learning Intern | Toronto, ON | Closed🔒 | May 15, 2026 |
 | CIBC | Application/Software Developer Co-op, Capital Markets Technology | Toronto, ON | Closed🔒 | May 15, 2026 |
 | ↳ | Application/Software Developer Co-op, Enterprise Technology & Business Management | Toronto, ON | Closed🔒 | May 15, 2026 |
