@@ -69,7 +69,7 @@ Built to help students in Canada find verified tech internships faster.
 | Teledyne | CMOS Co-op | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) | Jul 29, 2026 | 
  | Canadian Tire | AI Enablement Student | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) | Jul 29, 2026 | 
  | Generac | Engineering Intern | Toronto, ON | Closed🔒 | Jul 29, 2026 |
-| Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.careers.zurich.com/job/Toronto-Fall-2026-InternshipCo-op-Data-Analytics-&-AI-ON/1367953057/?ats=successfactors) | Jul 28, 2026 |
+| Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | Closed🔒 | Jul 28, 2026 |
 | Blackberry | Application Engineering Student | Ottawa, ON | Closed🔒 | Jul 28, 2026 | 
  | Blackberry | QNX-Software Development Student (Acoustics) | Burnaby, BC | Closed🔒 | Jul 28, 2026 |
 | Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Jul 28, 2026 |
