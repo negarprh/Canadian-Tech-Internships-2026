@@ -71,7 +71,7 @@ Built to help students in Canada find verified tech internships faster.
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Jul 30, 2026 | 
  | McGill University | Data & Analytics Coordinator | Montreal, QC | Closed🔒 | Jul 30, 2026 |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Dexterra/744000140536634) | Jul 29, 2026 | 
- | Generac | AI Productivity & Adoption Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://generac.wd5.myworkdayjobs.com/en-US/external/job/Toronto-Canada/AI-Productivity---Adoption--Co-op_JR15113) | Jul 29, 2026 |
+ | Generac | AI Productivity & Adoption Co-op | Toronto, ON | Closed🔒 | Jul 29, 2026 |
 | Teledyne | CMOS Co-op | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) | Jul 29, 2026 | 
  | Canadian Tire | AI Enablement Student | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) | Jul 29, 2026 | 
  | Generac | Engineering Intern | Toronto, ON | Closed🔒 | Jul 29, 2026 |
@@ -226,7 +226,7 @@ Built to help students in Canada find verified tech internships faster.
 | AbbVie | Data Specialist Intern - Allergan Aesthetics | Markham, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/AbbVie/3743990013404206) | Jun 1, 2026 |
 | Nokia | Design Co-op/Intern | Ottawa, ON, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/36276) | Jun 1, 2026 |
 | Magna | Junior Full Stack Developer Co-op | Milton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) | May 30, 2026 |
-| Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Quebec, Canada / Remote | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-2) | May 30, 2026 |
+| Autodesk | Software Developer Intern - Stagiaire en Développement Logiciel | Quebec, Canada / Remote | Closed🔒 | May 30, 2026 |
 | Ciena | Waveserver Software Developer Co-op | Ottawa, ON | Closed🔒 | May 30, 2026 |
 | Altera Corporation | FPGA Machine Learning Engineering Intern | Toronto, ON | Closed🔒 | May 30, 2026 |
 | ↳ | FPGA Development Tools Engineer Graduate Intern | Toronto, ON | Closed🔒 | May 30, 2026 |
