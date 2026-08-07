@@ -252,7 +252,7 @@ Built to help students in Canada find verified tech internships faster.
 | CMC Markets | Quantitative Trader | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/Toronto/Quantitative-Trader_CMC5360) | May 25, 2026 |
 | RBC | Machine Learning Software Engineer Co-op | Toronto, ON / Vancouver, BC | Closed🔒 | May 23, 2026 |
 | Canadian Tire | Data Engineering Student | Toronto, ON | Closed🔒 | May 23, 2026 |
-| Magna | Artificial Intelligence Student | Vaughan, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Concord-Ontario-CA/Artificial-Intelligence-Student_R00243652) | May 22, 2026 |
+| Magna | Artificial Intelligence Student | Vaughan, ON | Closed🔒 | May 22, 2026 |
 | RBC | Student, Data Analyst, Personal Banking | Toronto, ON | Closed🔒 | May 22, 2026 |
 | Ontario Health | Research Intern, Artificial Intelligence, Student | Toronto, ON | Closed🔒 | May 22, 2026 |
 | Hitachi | ALM Scripting & Reporting Intern | Toronto, ON | Closed🔒 | May 22, 2026 |
@@ -350,8 +350,8 @@ Built to help students in Canada find verified tech internships faster.
 | ↳ | Software Developer Co-op/Intern | Toronto, ON | Closed🔒 | May 11, 2026 |
 | ↳ | Junior Software Developer Co-op/Intern | Toronto, ON | Closed🔒 | May 11, 2026 |
 | ↳ | Software Developer Co-op/Intern | Toronto, ON | Closed🔒 | May 11, 2026 |
-| Desjardins Group | Internship, IT sector | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage--Secteur-TI--Automne-2026_R2606252-1) | May 11, 2026 |
-| ↳ | Data Internship | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://desjardins.wd10.myworkdayjobs.com/Desjardins/job/Montral/Stage-en-donnes--Automne-2026_R2606248-2) | May 11, 2026 |
+| Desjardins Group | Internship, IT sector | Montreal, QC | Closed🔒 | May 11, 2026 |
+| ↳ | Data Internship | Montreal, QC | Closed🔒 | May 11, 2026 |
 | Acceldata | Software Engineering Co-op | Kitchener, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/acceldata/3b6d3dfe-5e49-41c9-98a5-f732fa63fdf4/) | May 9, 2026 |
 | RBC | CAE, Fall GenAI Engineer Co-op | Toronto, ON | Closed🔒 | May 8, 2026 |
 | ↳ | CFO, Fall Data Analyst, Capital & Liquidity Measurement & Reporting | Toronto, ON | Closed🔒 | May 8, 2026 |
