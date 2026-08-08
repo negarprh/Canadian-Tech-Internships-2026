@@ -56,6 +56,8 @@ I’ll post as soon as companies open 2027 internship applications.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Epic Games | Machine Learning Intern | Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/6138134004?gh_jid=6138134004) | Aug 7, 2026 | 
+ | ↳ | Machine Learning Intern, Special Projects, Epic Research Group | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004) | Aug 7, 2026 |
 | Autodesk | Cloud Developer Intern, Interactive Graphics, Media & Entertainment | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | Aug 7, 2026 | 
  | ↳ | Cloud Developer Intern, Fcap | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1) | Aug 7, 2026 |
  | Microsoft | Software Engineer Intern, Gears of War | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556956276) | Aug 6, 2026 |
