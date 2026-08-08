@@ -64,7 +64,7 @@ Built to help students in Canada find verified tech internships faster.
  | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) | Aug 6, 2026 | 
  | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-Op_R0017859) | Aug 6, 2026 |
 | Ciena | Hardware Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) | Aug 5, 2026 | 
- | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Database-Operations-Co-op--Fall-2026--Co-op-Internship----4-months_R260022911) | Aug 5, 2026 | 
+ | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON | Closed🔒 | Aug 5, 2026 | 
  | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) | Aug 5, 2026 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) | Aug 4, 2026 | 
  | Blackberry | Application Engineer Student, QNX | Ottawa, ON | Closed🔒 | Aug 4, 2026 |
@@ -96,7 +96,7 @@ Built to help students in Canada find verified tech internships faster.
  | Ciena | Software Engineer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering-Intern_R031372) | Jul 27, 2026 |
 | TechInsights | Software Developer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Jul 24, 2026 | 
  | Bank of Montreal | Market Risk Analyst Co-op/Intern | Toronto, ON | Closed🔒 | Jul 24, 2026 |
-| Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://veralto.wd1.myworkdayjobs.com/hachjobs/job/London-Ontario-Canada/Aquatic-Informatics---Machine-Learning-Co-Op--Intern-_R10267571) | Jul 23, 2026 |
+| Veralto | Aquatic Informatics, Machine Learning Co-Op (Intern) | London, ON | Closed🔒 | Jul 23, 2026 |
 | Motorola | Software Engineer Co-op | Gatineau, QC | Closed 🔒 | Jul 23, 2026 |
 | Later | Software Development Co-op, Later Influence | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8643138002) | Jul 22, 2026 |  
  | Varian | Product Engineering Assistant Co-op | Ottawa, ON | Closed🔒 | Jul 22, 2026 |
@@ -164,7 +164,7 @@ Built to help students in Canada find verified tech internships faster.
 | Caterpillar | Software Designer Intern | Laval, QC | Closed🔒 | June 17, 2026 |
 | Alexion | Data & AI Solutions Associate | Mississauga, ON | Closed🔒 | Jun 17, 2026 |
 | Marvell | Design Verification Engineer Intern | Ottawa, ON | Closed🔒 | Jun 17, 2026 |
-| Ciena | Optical Modem Hardware Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Fall-2026-Optical-Modem-Hardware-Intern--8-12-months-_R031214) | Jun 17, 2026 |
+| Ciena | Optical Modem Hardware Intern | Ottawa, ON | Closed🔒 | Jun 17, 2026 |
 | RBC | GRM, Data Analyst Developer Intern | Toronto, ON | Closed🔒 | Jun 17, 2026 |
 | Tempo | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tempo-io/bbe3cb36-8802-4414-8db8-9ec51c935ee7/) | Jun 17, 2026 |
 | Tempo | Software Developer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/tempo-io/ce1025fe-9be4-43e4-b1fb-3f1cf3425fab/) | Jun 17, 2026 |
