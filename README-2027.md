@@ -56,6 +56,8 @@ I’ll post as soon as companies open 2027 internship applications.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| Autodesk | Cloud Developer Intern, Interactive Graphics, Media & Entertainment | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD100400) | Aug 7, 2026 | 
+ | ↳ | Cloud Developer Intern, Fcap | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/uni/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer---FCAP_26WD100406-1) | Aug 7, 2026 |
  | Microsoft | Software Engineer Intern, Gears of War | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.careers.microsoft.com/careers/job/1970393556956276) | Aug 6, 2026 |
  | Shopify | Software Engineering Intern | Montreal, QC / Toronto, ON / Ottawa, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.shopify.com/careers/software-engineering-internships-winter-2027_404bb82e-37f3-4a78-b0f3-12923a7c4856) | Aug 5, 2026|
 | Microsoft | Software Engineer Intern | Vancouver, BC | Closed🔒 | Aug 2, 2026 | 
