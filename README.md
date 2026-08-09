@@ -84,7 +84,7 @@ Built to help students in Canada find verified tech internships faster.
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | Jul 31, 2026 | 
 | Ciena | WaveLogic Software Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | Jul 31, 2026 |
 | Ubisoft | Data Analytics Assistant | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Ubisoft2/744000140704339) | Jul 30, 2026 | 
- | The Home Depot | AI Engineer Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://homedepot.wd5.myworkdayjobs.com/CareerDepotCanada/job/CANADA-STORE-SUPPORT-CENTER---7000/Intern--AI-Engineer_Req188547) | Jul 30, 2026 |
+ | The Home Depot | AI Engineer Intern | Toronto, ON | Closed🔒 | Jul 30, 2026 |
 | Aptiv | Intern Associate Engineer, Cloud | Kanata, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern---CD1_J000700242) | Jul 30, 2026 | 
  | McGill University | Data & Analytics Coordinator | Montreal, QC | Closed🔒 | Jul 30, 2026 |
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Dexterra/744000140536634) | Jul 29, 2026 | 
@@ -131,7 +131,7 @@ Built to help students in Canada find verified tech internships faster.
  | Xsolla | AI Engineer Intern | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) | Jul 10, 2026 |
 | Later | Software Development Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8621762002) | Jul 9, 2026 | 
  | McKesson | Data Governance Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Jul 9, 2026 | 
- | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Data-Scientist--Fall-2026---Co-op-Internship----12-months_R260019879) | Jul 7, 2026 | 
+ | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Closed🔒 | Jul 7, 2026 | 
  | Orennia | Analytics Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/orennia/jobs/5277706008) | Jul 7, 2026 |
 | Ada | Software Engineer Intern | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Jul 6, 2026 | 
  | American Bureau of Shipping | AI Software Engineering Intern | St. John's, NL | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://hbbq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4564) | Jul 6, 2026 |
