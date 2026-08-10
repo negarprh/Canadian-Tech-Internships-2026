@@ -59,6 +59,7 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) | Aug 10, 2026 |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Aug 7, 2026 |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Aug 7, 2026 | 
  | Ciena | Software Developer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Aug 7, 2026 |
