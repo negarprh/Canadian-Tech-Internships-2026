@@ -76,7 +76,7 @@ Built to help students in Canada find verified tech internships faster.
 | Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | Aug 4, 2026 | 
  | ↳ | Optical Verification Technician Co-op Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Aug 4, 2026 | 
  | Magna | Warranty Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Aug 4, 2026 |
-| Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/6Zif3yjncr/Data-Science-Coop-Student) | Aug 3, 2026 | 
+| Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON | Closed🔒 | Aug 3, 2026 | 
  |  ↳  | AI Solutions Specialist Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student) | Aug 3, 2026 | 
  |  ↳  | Artificial Intelligence Co-op, Data Services | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) | Aug 3, 2026 |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) | Aug 3, 2026 | 
@@ -228,7 +228,7 @@ Built to help students in Canada find verified tech internships faster.
 | Sun Life | Student Martech Software Engineer | Toronto, ON | Closed🔒 | Jun 5, 2026 |
 | CIBC | Digital Product Analyst Co-op | Toronto, ON | Closed🔒 | Jun 4, 2026 |
 | Ciena | Photonics Software Engineer Intern | Ottawa, ON | Closed🔒 | Jun 3, 2026 |
-| ↳ | Embedded Software Engineer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---Intern_R031146) | Jun 3, 2026 |
+| ↳ | Embedded Software Engineer Intern | Ottawa, ON | Closed🔒 | Jun 3, 2026 |
 | Roche | Data Scientist / Machine Learning Engineer Intern | Mississauga, ON | Closed🔒 | Jun 3, 2026 |
 | Kinaxis | Developer Intern Co-op - AI Solutions | Ottawa, ON | Closed🔒 | Jun 3, 2026 |
 | ↳ | Developer Co-op/Intern - Machine Learning | Ottawa, ON | Closed🔒 | Jun 3, 2026 |
@@ -377,7 +377,7 @@ Built to help students in Canada find verified tech internships faster.
 | ↳ | Student Data Analyst Intern | Montreal, QC / Toronto, ON / Waterloo, ON | Closed🔒 | May 7, 2026 |
 | General Dynamics UK | Systems Integration Engineer Co-op | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/GDMSI/744000125181520) | May 7, 2026 |
 | Nasdaq | Verafin, Software Development Student Intern | Toronto, ON /  St. John's, NF | Closed🔒 | May 7, 2026 |
-| Occidental Petroleum | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://oxy.wd5.myworkdayjobs.com/Corporate/job/Squamish/Process-Systems-Engineering--Automation---Data-Integration---Co-op_JR108371) | May 6, 2026 |
+| Occidental Petroleum | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | Closed🔒 | May 6, 2026 |
 | Magnet Forensics | Software Developer Co-op | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/d393ab82-448a-4dc2-87d0-a00981a55785/) | May 6, 2026 |
 | ↳ | Software Development Engineer in Test Co-op | Halifax, NS | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/f125c8e7-052d-430d-b857-ceba1037f809/) | May 6, 2026 |
 | ↳ | Software Developer Co-op | Waterloo, ON / Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/magnetforensics/b9fdce72-4c58-46bb-b7e2-b4bdc90390e5/) | May 6, 2026 |
