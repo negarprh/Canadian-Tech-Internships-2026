@@ -66,22 +66,22 @@ Built to help students in Canada find verified tech internships faster.
  | Alayacare | Full-Stack Developer Intern, Python | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://alayacare.com/open-positions?gh_jid=8687981002) | Aug 6, 2026 | 
 | Terminal | Software Engineer Intern, Data Platform | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/terminal/d7e128ed-617c-4b9b-9e42-0e909fb25729/) | Aug 6, 2026 | 
  | ↳ | Software Engineer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/) | Aug 6, 2026 | 
- | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Rimouski/Stagiaire-en-architecture-technologique---Socle-IA-corporatif_R0045667-3) | Aug 6, 2026 | 
+ | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Closed🔒 | Aug 6, 2026 | 
  | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | Closed🔒 | Aug 6, 2026 |
 | Ciena | Hardware Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) | Aug 5, 2026 | 
  | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON | Closed🔒 | Aug 5, 2026 | 
  | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) | Aug 5, 2026 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) | Aug 4, 2026 | 
  | Blackberry | Application Engineer Student, QNX | Ottawa, ON | Closed🔒 | Aug 4, 2026 |
-| Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-Verification-Technician-Intern-Co-op_20261048) | Aug 4, 2026 | 
- | ↳ | Optical Verification Technician Co-op Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Optical-VerificationTechnician-Intern-Co-op_20261049) | Aug 4, 2026 | 
+| Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | Closed🔒 | Aug 4, 2026 | 
+ | ↳ | Optical Verification Technician Co-op Intern | Ottawa, ON | Closed🔒 | Aug 4, 2026 | 
  | Magna | Warranty Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Aug 4, 2026 |
 | Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON | Closed🔒 | Aug 3, 2026 | 
  |  ↳  | AI Solutions Specialist Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student) | Aug 3, 2026 | 
  |  ↳  | Artificial Intelligence Co-op, Data Services | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) | Aug 3, 2026 |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) | Aug 3, 2026 | 
  | Yotta Labs | Research Engineer Intern, AI Systems | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/) | Aug 2, 2026 |
- | TMX Group | Analyst Student Intern, Market Insights | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/Toronto---100-Adelaide-St-W/Analyst--Market-Insights--Student-Intern_R-6125) | Aug 1, 2026 |
+ | TMX Group | Analyst Student Intern, Market Insights | Toronto, ON | Closed🔒 | Aug 1, 2026 |
 | InstaLILY | Software Engineer 1 Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/instalilyai/jobs/4342089009) | Jul 31, 2026 | 
 | Ciena | WaveLogic Software Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/WaveLogic-Software---Intern_R031443) | Jul 31, 2026 |
 | Ubisoft | Data Analytics Assistant | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Ubisoft2/744000140704339) | Jul 30, 2026 | 
@@ -91,7 +91,7 @@ Built to help students in Canada find verified tech internships faster.
 | Dexterra Group | Coordinator AI & Data Systems Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Dexterra/744000140536634) | Jul 29, 2026 | 
  | Generac | AI Productivity & Adoption Co-op | Toronto, ON | Closed🔒 | Jul 29, 2026 |
 | Teledyne | CMOS Co-op | Waterloo, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://flir.wd1.myworkdayjobs.com/flircareers/job/Canada---Waterloo-ON/CMOS-Coop_REQ34538-1) | Jul 29, 2026 | 
- | Canadian Tire | AI Enablement Student | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Toronto-ON/AI-Enablement-Student--4-months----Fall-2026_JR161998) | Jul 29, 2026 | 
+ | Canadian Tire | AI Enablement Student | Toronto, ON | Closed🔒 | Jul 29, 2026 | 
  | Generac | Engineering Intern | Toronto, ON | Closed🔒 | Jul 29, 2026 |
 | Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | Closed🔒 | Jul 28, 2026 |
 | Blackberry | Application Engineering Student | Ottawa, ON | Closed🔒 | Jul 28, 2026 | 
