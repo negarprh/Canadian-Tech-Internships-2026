@@ -68,9 +68,9 @@ Built to help students in Canada find verified tech internships faster.
  | ↳ | Software Engineer Intern, Backend | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/terminal/6855293e-a817-4b70-835c-cd57e3bfcfde/) | Aug 6, 2026 | 
  | Harris Computer | Technology Architecture Intern, Corporate AI Foundation | Rimouski, QC | Closed🔒 | Aug 6, 2026 | 
  | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | Closed🔒 | Aug 6, 2026 |
-| Ciena | Hardware Engineer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--4-8-Months-_R031451) | Aug 5, 2026 | 
+| Ciena | Hardware Engineer Co-op | Ottawa, ON | Closed🔒 | Aug 5, 2026 | 
  | Bank of Montreal | Database Operations Co-op Intern | Toronto, ON | Closed🔒 | Aug 5, 2026 | 
- | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Sault-Ste-Marie-Ontario-Canada/Risk-Monitoring-and-Intervention--Safer-Gambling-Student_R26_00555) | Aug 5, 2026 |
+ | OLG | Risk Monitoring and Intervention Student, Safer Gambling | Toronto, ON / Sault Ste. Marie, ON | Closed🔒 | Aug 5, 2026 |
 | Arlo Technologies | Firmware Developer Co-op | Richmond, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://arlo.wd12.myworkdayjobs.com/External_Careers/job/Richmond-BC-Canada/Firmware-Developer-Co-op_JR100404) | Aug 4, 2026 | 
  | Blackberry | Application Engineer Student, QNX | Ottawa, ON | Closed🔒 | Aug 4, 2026 |
 | Lumentum | Optical Verification Technician Intern/Co-op | Ottawa, ON | Closed🔒 | Aug 4, 2026 | 
@@ -96,7 +96,7 @@ Built to help students in Canada find verified tech internships faster.
 | Zurich Insurance | Data Analytics & AI Internship/Co-op | Toronto, ON | Closed🔒 | Jul 28, 2026 |
 | Blackberry | Application Engineering Student | Ottawa, ON | Closed🔒 | Jul 28, 2026 | 
  | Blackberry | QNX-Software Development Student (Acoustics) | Burnaby, BC | Closed🔒 | Jul 28, 2026 |
-| Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Liquid-Spectrum-Applications-Intern--Fall-2026-_R031412) | Jul 28, 2026 |
+| Ciena | Software Liquid Spectrum Applications Intern | Ottawa, ON | Closed🔒 | Jul 28, 2026 |
 | Later | Data/Analytics Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/later/jobs/8647385002) | Jul 27, 2026 | 
  | Ciena | Software Engineer Intern | Ottawa, ON | Closed🔒 | Jul 27, 2026 |
 | TechInsights | Software Developer Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://techinsights.applytojob.com/apply/JihPx6iShB/Software-Development-Coop-Student-Fall-2026) | Jul 24, 2026 | 
