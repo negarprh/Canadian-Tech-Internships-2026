@@ -59,6 +59,8 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| McGill University | Research Assistant, Gen AI Hackathon | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Retail-Gen-Ai-Hackathon-Research-Assistant_JR0000079289) | Aug 11, 2026 | 
+ | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0017820) | Aug 10, 2026 |
 | McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Closed🔒 | Aug 10, 2026 |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Aug 7, 2026 |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Aug 7, 2026 | 
