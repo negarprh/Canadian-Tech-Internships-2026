@@ -59,7 +59,7 @@ Built to help students in Canada find verified tech internships faster.
 
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
-| McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-QC-Montreal-Ville-Saint-Laurent/Stagiaire-en-dveloppement-logiciel---Automne-2026---Software-Developer-Intern---Fall-2026_JR0151997) | Aug 10, 2026 |
+| McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Closed🔒 | Aug 10, 2026 |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Aug 7, 2026 |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Aug 7, 2026 | 
  | Ciena | Software Developer Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Developer-Intern---Fall-2026_R031492) | Aug 7, 2026 |
@@ -78,7 +78,7 @@ Built to help students in Canada find verified tech internships faster.
  | Magna | Warranty Co-op | Newmarket, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Newmarket-Ontario-CA/Warranty-Co-op_R00254754) | Aug 4, 2026 |
 | Rodan Energy Solutions Inc. | Data Science Co-op | Mississauga, ON | Closed🔒 | Aug 3, 2026 | 
  |  ↳  | AI Solutions Specialist Co-op | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/hKQA66W5Ad/AI-Solutions-Specialist-Coop-Student) | Aug 3, 2026 | 
- |  ↳  | Artificial Intelligence Co-op, Data Services | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://rodanenergysolutionsinc.applytojob.com/apply/cGazgwLfqg/Data-Services-AI-Coop-Student) | Aug 3, 2026 |
+ |  ↳  | Artificial Intelligence Co-op, Data Services | Mississauga, ON | Closed🔒 | Aug 3, 2026 |
 | Carbon Engineering Ltd. | Process Systems Engineering Co-op, Automation & Data Integration | Squamish, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://carbonengineering.applytojob.com/apply/39rDfuYiYY/Process-Systems-Engineering-Coop-Automation-Data-Integration) | Aug 3, 2026 | 
  | Yotta Labs | Research Engineer Intern, AI Systems | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/) | Aug 2, 2026 |
  | TMX Group | Analyst Student Intern, Market Insights | Toronto, ON | Closed🔒 | Aug 1, 2026 |
