@@ -47,3 +47,4 @@ jobs:
           branch: "auto/update-closed-links"
           add-paths: |
             README.md
+            README-2026.md

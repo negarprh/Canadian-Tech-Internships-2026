@@ -28,7 +28,7 @@ You just review the PR and confirm it looks correct.
 Please only submit:
 - **Internship or co-op roles**
 - **Based in Canada** (or remote roles open to Canadians)
-- **Winter / Summer / Fall 2026**
+- **Winter / Summer / Fall 2027**
 - Tech roles: **Software, Data, Product, QA, DevOps, AI, ML**, etc.
 - From **verified sources** (company site, LinkedIn, Workday, Greenhouse, Lever, etc.)
 

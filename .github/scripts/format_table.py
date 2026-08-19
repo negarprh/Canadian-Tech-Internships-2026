@@ -1,34 +1,68 @@
 from pathlib import Path
 import re
 
-README = Path("README.md")
 
-text = README.read_text(encoding="utf-8")
+LISTING_FILES = (
+    (Path("README.md"), "INTERNSHIPS_TABLE"),
+    (Path("README-2026.md"), "INTERNSHIPS_2026_TABLE"),
+)
+
+def split_markdown_row(line: str) -> list[str] | None:
+    """Split a Markdown table row without treating escaped pipes as separators."""
+    stripped = line.strip()
+    if not stripped.startswith("|"):
+        return None
+
+    cells: list[str] = []
+    cell: list[str] = []
+    escaped = False
+    for character in stripped[1:]:
+        if character == "|" and not escaped:
+            cells.append("".join(cell))
+            cell = []
+        else:
+            cell.append(character)
+        escaped = character == "\\" and not escaped
+
+    if cell:
+        cells.append("".join(cell))
+    while cells and not cells[-1].strip():
+        cells.pop()
+    return cells
+
 
 def normalize_table(block: str) -> str:
     lines = block.splitlines()
     out = []
 
     for line in lines:
-        if "|" not in line:
+        cells = split_markdown_row(line)
+        if cells is None:
             out.append(line.rstrip())
             continue
 
-        cells = [c.strip() for c in line.split("|")[1:-1]]
-        out.append("| " + " | ".join(cells) + " |")
+        out.append("| " + " | ".join(cell.strip() for cell in cells) + " |")
 
     return "\n".join(out)
 
-pattern = re.compile(
-    r"(<!-- BEGIN:INTERNSHIPS_TABLE -->)([\s\S]*?)(<!-- END:INTERNSHIPS_TABLE -->)"
-)
+def main() -> None:
+    for path, table_name in LISTING_FILES:
+        text = path.read_text(encoding="utf-8")
+        pattern = re.compile(
+            rf"(<!-- BEGIN:{re.escape(table_name)} -->)([\s\S]*?)(<!-- END:{re.escape(table_name)} -->)"
+        )
 
-def replacer(match):
-    start, table, end = match.groups()
-    return f"{start}\n{normalize_table(table.strip())}\n{end}"
+        def replacer(match: re.Match[str]) -> str:
+            start, table, end = match.groups()
+            return f"{start}\n{normalize_table(table.strip())}\n{end}"
 
-formatted = pattern.sub(replacer, text)
+        formatted, replacements = pattern.subn(replacer, text)
+        if replacements != 1:
+            raise RuntimeError(f"Expected one {table_name} table in {path}, found {replacements}")
+        path.write_text(formatted.rstrip() + "\n", encoding="utf-8")
 
-README.write_text(formatted + "\n", encoding="utf-8")
+    print("Internship tables normalized.")
 
-print("Internship table normalized.")
+
+if __name__ == "__main__":
+    main()

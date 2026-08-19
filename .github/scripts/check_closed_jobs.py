@@ -1,4 +1,4 @@
-"""Find definitely closed internship postings without reformatting README.md.
+"""Find definitely closed internship postings without reformatting listing files.
 
 The checker is deliberately conservative: an inaccessible or inconclusive page is
 reported as UNKNOWN and is left untouched.  A row is changed only when the ATS
@@ -22,12 +22,34 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
 
-README = Path("README.md")
 REPORT = Path("link-check-report.md")
+
+
+@dataclass(frozen=True)
+class ListingFile:
+    """A README and the exact marker pair that bounds its listings table."""
+
+    path: Path
+    begin_marker: str
+    end_marker: str
+
+
+LISTING_FILES = (
+    ListingFile(
+        Path("README.md"),
+        "<!-- BEGIN:INTERNSHIPS_TABLE -->",
+        "<!-- END:INTERNSHIPS_TABLE -->",
+    ),
+    ListingFile(
+        Path("README-2026.md"),
+        "<!-- BEGIN:INTERNSHIPS_2026_TABLE -->",
+        "<!-- END:INTERNSHIPS_2026_TABLE -->",
+    ),
+)
 
 # This expression matches only the Apply control itself. Its replacement is
 # intentionally a single table-cell value, so no pipes, whitespace, rows, or
-# other README content can be reformatted by this script.
+# other listing-file content can be reformatted by this script.
 APPLY_LINK = re.compile(
     r"\[!\[Apply\]\([^)]+?\)\]\((https?://[^)\s]+)\)", re.IGNORECASE
 )
@@ -71,7 +93,6 @@ CLOSED_PHRASES = {
         "the page you are looking for doesn't exist",
         "the page you are looking for does not exist",
         "looks like this job no longer exists",
-        "job not found",
     ),
     "workday": (
         "job closed",
@@ -97,6 +118,7 @@ KNOWN_ATS = {
     "ashby",
     "eightfold",
     "icims",
+    "smartrecruiters",
     "successfactors",
 }
 SEARCH_PATH_PARTS = ("/search", "/jobsearch", "/jobs/search", "/careers/search")
@@ -173,6 +195,21 @@ def make_workday_session() -> requests.Session:
     return session
 
 
+def make_public_api_session() -> requests.Session:
+    """Create a session for public ATS JSON endpoints."""
+    session = requests.Session()
+    retry = Retry(
+        total=3,
+        backoff_factor=0.7,
+        status_forcelist=(429, 500, 502, 503, 504),
+        allowed_methods=frozenset({"GET"}),
+        respect_retry_after_header=True,
+    )
+    session.mount("https://", HTTPAdapter(max_retries=retry))
+    session.headers.update({"Accept": "application/json"})
+    return session
+
+
 def ats_name(url: str) -> str:
     host = (urlparse(url).hostname or "").lower()
     if "workday" in host or "myworkdayjobs" in host:
@@ -187,6 +224,8 @@ def ats_name(url: str) -> str:
         return "eightfold"
     if "icims.com" in host:
         return "icims"
+    if "smartrecruiters.com" in host:
+        return "smartrecruiters"
     if "successfactors" in host or "sapfioritalent" in host:
         return "successfactors"
     return "generic"
@@ -272,6 +311,74 @@ def check_workday_api(session: requests.Session, url: str) -> CheckResult | None
     return CheckResult("UNKNOWN", f"Workday API HTTP {response.status_code} (inconclusive)")
 
 
+def greenhouse_api_url(url: str) -> str | None:
+    """Convert a public Greenhouse job URL to its public Job Board API URL."""
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    parts = [part for part in parsed.path.split("/") if part]
+    if host not in {"boards.greenhouse.io", "job-boards.greenhouse.io"}:
+        return None
+    if len(parts) != 3 or parts[1].casefold() != "jobs" or not parts[2].isdigit():
+        return None
+
+    return urlunparse(
+        ("https", "boards-api.greenhouse.io", f"/v1/boards/{parts[0]}/jobs/{parts[2]}", "", "", "")
+    )
+
+
+def smartrecruiters_api_url(url: str) -> str | None:
+    """Convert a public SmartRecruiters job URL to its public Posting API URL."""
+    parsed = urlparse(url)
+    host = (parsed.hostname or "").lower()
+    parts = [part for part in parsed.path.split("/") if part]
+    if host != "jobs.smartrecruiters.com" or len(parts) != 2:
+        return None
+
+    company, posting = parts
+    return urlunparse(
+        ("https", "api.smartrecruiters.com", f"/v1/companies/{company}/postings/{posting}", "", "", "")
+    )
+
+
+def check_public_ats_api(session: requests.Session, url: str, provider: str) -> CheckResult | None:
+    """Classify public Greenhouse and SmartRecruiters postings via their APIs.
+
+    These APIs expose only published job postings.  A 404/410 is therefore a
+    high-confidence closure signal; every other non-success status remains
+    inconclusive and falls back to the public posting page.
+    """
+    endpoint = {
+        "greenhouse": greenhouse_api_url,
+        "smartrecruiters": smartrecruiters_api_url,
+    }.get(provider, lambda _: None)(url)
+    if endpoint is None:
+        return None
+
+    try:
+        response = session.get(endpoint, allow_redirects=True, timeout=(10, 30))
+    except requests.RequestException as error:
+        return CheckResult("UNKNOWN", f"{provider} API failed: {type(error).__name__}")
+
+    if response.status_code in {404, 410}:
+        return CheckResult("CLOSED", f"{provider} API HTTP {response.status_code}")
+    if response.status_code != 200:
+        return CheckResult("UNKNOWN", f"{provider} API HTTP {response.status_code} (inconclusive)")
+
+    try:
+        payload = response.json()
+    except requests.JSONDecodeError:
+        return CheckResult("UNKNOWN", f"{provider} API returned invalid JSON")
+
+    if not isinstance(payload, dict):
+        return CheckResult("UNKNOWN", f"{provider} API returned 200 without a job posting")
+
+    # Greenhouse calls this field "title"; SmartRecruiters calls it "name".
+    title = payload.get("title") or payload.get("name")
+    if title and (payload.get("id") or payload.get("uuid")):
+        return CheckResult("OPEN", f"{provider} API returned a published job")
+    return CheckResult("UNKNOWN", f"{provider} API returned 200 without a job posting")
+
+
 def redirect_is_search_or_landing(original: str, final: str, provider: str) -> bool:
     if provider not in KNOWN_ATS or original == final:
         return False
@@ -292,6 +399,7 @@ def check_url(
     session: requests.Session,
     url: str,
     workday_session: requests.Session | None = None,
+    public_api_session: requests.Session | None = None,
 ) -> CheckResult:
     """Return CLOSED only when there is a high-confidence closure signal."""
     provider = ats_name(url)
@@ -300,6 +408,12 @@ def check_url(
         workday_result = check_workday_api(workday_session or make_workday_session(), url)
         if workday_result is not None and workday_result.status != "UNKNOWN":
             return workday_result
+
+    public_api_result = check_public_ats_api(
+        public_api_session or make_public_api_session(), url, provider
+    )
+    if public_api_result is not None and public_api_result.status != "UNKNOWN":
+        return public_api_result
 
     try:
         # GET is required even when HEAD returns 200: most ATS closure messages
@@ -337,11 +451,13 @@ def check_url(
         # A Workday 200 HTML response is only its SPA shell, not proof that the
         # requisition exists. Preserve the API's inconclusive result instead.
         return workday_result
+    if public_api_result is not None:
+        return public_api_result
     return CheckResult("OPEN", "No closure signal")
 
 
 def only_expected_replacements(before: str, after: str, replacements: int) -> bool:
-    """Ensure this script cannot make a formatting-only README diff."""
+    """Ensure this script cannot make a formatting-only listing-file diff."""
     before_lines = before.splitlines(keepends=True)
     after_lines = after.splitlines(keepends=True)
     if len(before_lines) != len(after_lines):
@@ -358,35 +474,66 @@ def only_expected_replacements(before: str, after: str, replacements: int) -> bo
     return made == replacements
 
 
+def table_bounds(document: str, listing_file: ListingFile) -> tuple[int, int]:
+    """Return the table-content bounds, failing safely on bad/missing markers."""
+    begin_count = document.count(listing_file.begin_marker)
+    end_count = document.count(listing_file.end_marker)
+    if begin_count != 1 or end_count != 1:
+        raise RuntimeError(
+            f"{listing_file.path}: expected one begin and one end marker, "
+            f"found {begin_count} begin and {end_count} end"
+        )
+
+    start = document.find(listing_file.begin_marker)
+    content_start = start + len(listing_file.begin_marker)
+    finish = document.find(listing_file.end_marker, content_start)
+    return content_start, finish
+
+
 def main() -> None:
     session = make_session()
     workday_session = make_workday_session()
-    original = README.read_text(encoding="utf-8")
+    public_api_session = make_public_api_session()
     report_lines = ["# Link Check Report", ""]
-    changed = 0
+    total_changed = 0
+    checked_urls: dict[str, CheckResult] = {}
 
-    def replace_if_closed(match: re.Match[str]) -> str:
-        nonlocal changed
-        url = match.group(1)
-        time.sleep(0.5)  # polite rate limiting across job boards
-        result = check_url(session, url, workday_session)
-        report_lines.append(f"- {url} → {result.status} ({result.reason})")
-        if result.status == "CLOSED":
-            changed += 1
-            return "Closed🔒"
-        return match.group(0)
+    for listing_file in LISTING_FILES:
+        original = listing_file.path.read_text(encoding="utf-8")
+        content_start, finish = table_bounds(original, listing_file)
+        table = original[content_start:finish]
+        changed = 0
+        report_lines.extend((f"## {listing_file.path}", ""))
 
-    updated = APPLY_LINK.sub(replace_if_closed, original)
+        def replace_if_closed(match: re.Match[str]) -> str:
+            nonlocal changed
+            url = match.group(1)
+            result = checked_urls.get(url)
+            if result is None:
+                time.sleep(0.5)  # polite rate limiting across job boards
+                result = check_url(session, url, workday_session, public_api_session)
+                checked_urls[url] = result
+            report_lines.append(f"- {url} → {result.status} ({result.reason})")
+            if result.status == "CLOSED":
+                changed += 1
+                return "Closed🔒"
+            return match.group(0)
+
+        updated_table = APPLY_LINK.sub(replace_if_closed, table)
+        updated = original[:content_start] + updated_table + original[finish:]
+        if changed and not only_expected_replacements(original, updated, changed):
+            raise RuntimeError(
+                f"Refusing to write {listing_file.path}: unexpected non-link change detected"
+            )
+        if changed:
+            listing_file.path.write_text(updated, encoding="utf-8")
+            total_changed += changed
+
     REPORT.write_text("\n".join(report_lines) + "\n", encoding="utf-8")
-
-    if not changed:
+    if total_changed:
+        print(f"Marked {total_changed} closed posting(s). See link-check-report.md.")
+    else:
         print("No high-confidence closed postings found. See link-check-report.md.")
-        return
-    if not only_expected_replacements(original, updated, changed):
-        raise RuntimeError("Refusing to write README.md: unexpected non-link change detected")
-
-    README.write_text(updated, encoding="utf-8")
-    print(f"Marked {changed} closed posting(s). See link-check-report.md.")
 
 
 if __name__ == "__main__":

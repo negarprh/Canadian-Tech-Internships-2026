@@ -76,6 +76,7 @@ jobs:
           }
           const date = formatDate(rawDate);
 
+          // New submissions belong in the default/current listings table.
           const begin = "<!-- BEGIN:INTERNSHIPS_TABLE -->";
           const end = "<!-- END:INTERNSHIPS_TABLE -->";
 
