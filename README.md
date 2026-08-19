@@ -54,6 +54,10 @@ Built to help students in Canada find verified tech internships faster.
 <!-- prettier-ignore -->
 | Company | Role | Location | Apply | Date Posted |
 |--------|------|----------|:-----:|--------------|
+| KPMG | Product Specialist Intern Co-op, Asset Management Digital Solutions | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.kpmg.ca/jobs/33301?icims=1) | Aug 14, 2026 |
+| ↳ | Software Developer Intern Co-op, Asset Management Digital Solutions, Software Developer | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.kpmg.ca/jobs/33306?icims=1) | Aug 14, 2026 |
+| ↳ | Technical Consultant Intern Co-op, Global Compliance and Transformation | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://careers.kpmg.ca/jobs/33307?icims=1) | Aug 14, 2026 |
+| ATCO | Engineering Co-op, Electric Division | Edmonton, AB / Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://eezy.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20508) | Aug 11, 2026 |
 | Autodesk | Software Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD100398-2) | Aug 11, 2026 |
 | Sun Life | Digital Analytics Student | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://sunlife.wd3.myworkdayjobs.com/en-US/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) | Aug 10, 2026 | 
  | PSP Investments | AI Solutions Intern, External Manager Selection & Monitoring | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://investpsp.wd3.myworkdayjobs.com/psp_careers/job/Montreal/Intern--AI-Solutions-for-External-Manager-Selection---Monitoring--May---August-2027-_R4933) | Aug 10, 2026 |
