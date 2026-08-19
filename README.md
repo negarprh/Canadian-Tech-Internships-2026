@@ -8,7 +8,7 @@ Covers **software development (backend, frontend, full-stack)**, **software engi
 
 ---
 
-### Looking for something else?
+### Looking for 2026 internships? 
 
 - For **2026 Canadian tech internships** check out [Canadian Tech Internships - 2026](README-2026.md)
 
