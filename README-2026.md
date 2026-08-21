@@ -133,7 +133,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | ↳ | AI/ML Research Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://job-boards.greenhouse.io/drweng/jobs/7991171) | Jul 13, 2026 | 
  | Xsolla | AI Engineer Intern | Montreal, QC, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/xsolla/5ec8e8f7-ed75-4697-a1c0-28a026f2e571/) | Jul 10, 2026 |
 | Later | Software Development Co-op | Vancouver, BC | Closed🔒 | Jul 9, 2026 | 
- | McKesson | Data Governance Analyst Intern | Mississauga, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/CAN-ON-Mississauga/Data-Governance-Analyst-Intern---Fall-2026_JR0149860) | Jul 9, 2026 | 
+ | McKesson | Data Governance Analyst Intern | Mississauga, ON | Closed🔒 | Jul 9, 2026 | 
  | Bank of Montreal | Data Scientist Co-op/Internship | Toronto, ON | Closed🔒 | Jul 7, 2026 | 
  | Orennia | Analytics Intern | Calgary, AB | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/orennia/jobs/5277706008) | Jul 7, 2026 |
 | Ada | Software Engineer Intern | Remote, Canada | Closed🔒 | Jul 6, 2026 | 
