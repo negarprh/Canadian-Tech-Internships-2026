@@ -60,7 +60,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | Léger | Research Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.smartrecruiters.com/Leger2/744000141569336) | Aug 12, 2026 |
 | ResponsiveAds | Full-Stack Developer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://apply.workable.com/responsiveads-inc/j/493EAC12D6/) | Aug 11, 2026 |
 | McGill University | Research Assistant, Gen AI Hackathon | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://mcgill.wd3.myworkdayjobs.com/McGill_Careers/job/Bronfman-Building/Retail-Gen-Ai-Hackathon-Research-Assistant_JR0000079289) | Aug 11, 2026 | 
- | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0017820) | Aug 10, 2026 |
+ | CLEAResult | Energy Efficiency Analyst Co-op | Remote, Canada | Closed🔒 | Aug 10, 2026 |
 | McKesson | Software Developer Intern, Digital and Enterprise Technology | Montreal, QC | Closed🔒 | Aug 10, 2026 |
 | Engineers and Geoscientists BC | Information Systems Co-op | Burnaby, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://egbc.applytojob.com/apply/FYOlZPW8Z5/Information-Systems-Coop) | Aug 7, 2026 |
 | WSP | Business Intelligence Intern | Toronto, ON / Ottawa, ON| [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/92595) | Aug 7, 2026 | 
@@ -121,7 +121,7 @@ I’ll post as soon as companies open 2026 internship applications.
 | Magna | AI Engineering Co-op | Milton, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/AI-Engineering-Co-Op-Student--4-months-_R00252238) | Jul 17, 2026 | 
  | Mackenzie Investments | Data Science and AI Specialist Intern | Toronto, ON | Closed🔒 | Jul 16, 2026 |
 | CAE | AI Intern | Montreal, QC | Closed🔒 | Jul 16, 2026 | 
- | ↳ | Data Specialist Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-IT-105--Data-Specialist-intern_122741) | Jul 16, 2026 |
+ | ↳ | Data Specialist Intern | Montreal, QC | Closed🔒 | Jul 16, 2026 |
 | Aptiv | Intern Associate Engineer, Cloud  | Kanata, ON | Closed🔒 | Jul 16, 2026 | 
 | Global Relay | AI Developer Co-op | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6112675004) | Jul 14, 2026 | 
 | ↳ | Frontend Software Developer Co-op, Information Archiving | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://www.globalrelay.com/careers/jobs?gh_jid=6109928004) | Jul 14, 2026 | 
